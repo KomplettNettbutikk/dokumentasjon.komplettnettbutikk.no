@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lager on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/lager/</link><description>Recent content in Lager on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/lager/index.xml" rel="self" type="application/rss+xml"/><item><title>Produktsynkronisering</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/fiken/produktsynkronisering/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/fiken/produktsynkronisering/</guid><description>&lt;h2 id="produkter-synkroniseres-på-følgende-vis"&gt;Produkter synkroniseres på følgende vis:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Produkter synkroniseres begge veier&lt;/li&gt;
+&lt;li&gt;Nye produkter opprettes og eksisterende oppdateres&lt;/li&gt;
+&lt;li&gt;Det er valgfrihet om hvilke felter som skal overskrive&lt;/li&gt;
+&lt;li&gt;Med produkt-synk er det lekende lett for en Fiken-kunde som ikke har nettbutikk å få en nettbutikk oppe og gå på kort tid, og motsatt - en KomplettNettbuikk-kunde å få Fiken regnskap. Det betyr også at man bare trenger å oppdatere ett produkt-bibliotek og ett lager.&lt;/li&gt;
+&lt;li&gt;Mer info kommer&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Lager</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/visma.net-erp/lagersynkronisering/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/visma.net-erp/lagersynkronisering/</guid><description>&lt;p&gt;Ved et gitt tidsintervall (f.eks. hvert 5. min) hentes lageroppdateringer fra Visma til nettbutikken, slik at nettbutikken alltid har rett lagersaldo på produktene som matcher mellom systemene. Ordreoverføring fra nettbutikken til Visma sørger langersynk den andre veien, og oppdateringene skjer så fort man har endret til ønsket status i nettbutikken.&lt;/p&gt;
+&lt;h2 id="hvordan-matches-produkterlagervarer-på-salgsordre"&gt;Hvordan matches produkter/lagervarer på salgsordre?&lt;/h2&gt;
+&lt;p&gt;Ved ordreoverføring så vil integrasjonen se etter rett produktnummer:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Produkt/variant-referanse i nettbutikken. Dersom dette ikke er satt:&lt;/li&gt;
+&lt;li&gt;Brukes &lt;em&gt;standard Visma produktnummer/varenummer/lagervarenummer&lt;/em&gt; som settes i innstillingene. Man kan f.eks. opprette en lagervare i Visma som heter &lt;em&gt;Annen vare, ikke tilknyttet&lt;/em&gt; som man bruker til dette formålet.&lt;/li&gt;
+&lt;li&gt;I innstillingene setter man også et Visma &lt;em&gt;produktnummer/varenummer/lagervarenummer&lt;/em&gt; som skal brukes for frakt.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="hvordan-matches-produkterlagervarer-med-lagersynk"&gt;Hvordan matches produkter/lagervarer med lagersynk?&lt;/h2&gt;
+&lt;p&gt;Når vi henter lageroppdateringer fra Visma, så sjekker vi om nettbutikken har produkter eller varianter med de produktnumrene som kommer fra Visma. Om det finnes match, så får nettbutikken oppdatert lagersaldo på de produktene.&lt;/p&gt;</description></item><item><title>Produkt og lager</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/produkt-og-lager/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/produkt-og-lager/</guid><description>&lt;ul class='children children-li'&gt;
+	
+
+ 
+		
+	
+
+	
+
+	
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/produkt-og-lager/fra-nettbutikken/" &gt;Fra nettbutikk til Tripletex&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/produkt-og-lager/til-nettbutikken/" &gt;Fra Tripletex til nettbutikk&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+
+	
+&lt;/ul&gt;</description></item><item><title>Tripletex</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/</guid><description>&lt;p&gt;Integrasjonen mellom Tripletex og KomplettNettbutikk hjelper små og store firma til en effektiv nettbutikkdrift!&lt;/p&gt;
+&lt;h2 id="les-mer-om-oppsett-og-muligheter"&gt;Les mer om oppsett og muligheter:&lt;/h2&gt;
+
+
+
+
+
+
+
+
+&lt;ul class='children children-li'&gt;
+	
+
+ 
+		
+			
+		
+	
+
+	
+
+	
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/oppsett/" &gt;Førstegangsoppsett&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/kunde/" &gt;Kunde&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/ordre/" &gt;Ordre&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/produkt-og-lager/" &gt;Produkt og lager&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/regnskap-l%C3%B8nn-og-support-til-fastpris/" &gt;Regnskap til fastpris&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/tripletex-som-betalingsl%C3%B8sning/" &gt;Tripletex som betalingsløsning&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+
+	
+&lt;/ul&gt;
+
+
+
+
+&lt;h2 id="har-du-ikke-nettbutikk-hos-oss-ennå"&gt;Har du ikke nettbutikk hos oss ennå?&lt;/h2&gt;
+&lt;p&gt;Ingen problem! Vi oppretter kjapt en demo til deg uten kostnad paralellt med at vi setter opp Tripletex-integrasjonen. Bruk skjemaet nederst på siden og dine ønsker for nettbutikk så tar vi kontakt!&lt;/p&gt;</description></item></channel></rss>

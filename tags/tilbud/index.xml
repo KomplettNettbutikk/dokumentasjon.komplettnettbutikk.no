@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tilbud on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/tilbud/</link><description>Recent content in Tilbud on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/tilbud/index.xml" rel="self" type="application/rss+xml"/><item><title>Kontakt oss</title><link>https://dokumentasjon.komplettnettbutikk.no/kontakt-oss/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/kontakt-oss/</guid><description>&lt;p&gt;Ta gjerne kontakt med oss om du har spørsmål du ikke finner svar på i dokumentasjonen, eller om du ønsker tilbud på en nettbutikk. Du kan kontakte oss på telefon, eller bruke skjemaet under.&lt;/p&gt;
+&lt;p&gt;
+ &lt;a href="tel:+47 900 333 15" class="btn btn-default"&gt;Ring oss: &lt;i class="fa fa-phone"&gt;&lt;/i&gt; 900 333 15&lt;/a&gt;
+&lt;/p&gt;
+&lt;div class="contactform" id="contactform"&gt;
+ &lt;div class="header"&gt;
+ 📧 Kontakt oss
+ &lt;/div&gt;
+ &lt;div class="body"&gt; 
+ &lt;form 
+ name="kontakt" 
+ method="POST" 
+ data-netlify="true"
+ netlify-honeypot="rowboat" 
+ action="https://dokumentasjon.komplettnettbutikk.no/"&gt;
+ &lt;input type="hidden" name="to" value=""&gt;
+ &lt;p class="ohnohoney"&gt;
+ &lt;label&gt;Roboter bes fylle ut dette: &lt;input name="rowboat" /&gt;&lt;/label&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+ &lt;label&gt;Navn/firma: &lt;input type="text" name="name" /&gt;&lt;/label&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+ &lt;label&gt;Epostadresse: &lt;input type="email" name="email" /&gt;&lt;/label&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+ &lt;label&gt;Melding: &lt;textarea name="message"&gt;&lt;/textarea&gt;&lt;/label&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+ &lt;button class="btn btn-default submit" type="submit"&gt;Send&lt;/button&gt;
+ &lt;/p&gt;
+ &lt;/form&gt;
+ &lt;/div&gt; 
+&lt;/div&gt;</description></item><item><title>Rabatter</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/rabatter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/rabatter/</guid><description>&lt;h2 id="administrere-rabatter"&gt;Administrere rabatter&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/rabatter/2022-07-08-13-41-14.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Rabatter og kuponger spiller en viktig rolle i ditt daglige forhold til kundene dine. Skape gode tilbud/salg for å øke omsetning og gjør dine kunder fornøyde.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Rabatter&amp;rdquo; kan ta to former:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Rabattkoder&lt;/strong&gt;. Det lar deg lage kupongkoder per kunde, men også mye mer. Kunden for opp rabatten når han går til kassen.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Katalograbatt&lt;/strong&gt;. Gjør deg i stand til å tildele rabatt etter kategori, merkevare, leverandør, attributt med mer.
+&lt;br&gt;
+For eksempel kan du angi en rabatt som vil si at bedriftskunder som tilhører gruppen &amp;ldquo;B2B&amp;rdquo; vil få 40% avslag på elektronikk-kategorien og alle Sony-produktene for den første uken i juli.&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

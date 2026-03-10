@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nettbutikk on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/nettbutikk/</link><description>Recent content in Nettbutikk on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/nettbutikk/index.xml" rel="self" type="application/rss+xml"/><item><title>Angreskjema</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/angreskjema/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/angreskjema/</guid><description>&lt;p&gt;Nettbutikken er som standard satt opp at det skal sendes angreskjema / infoskriv på mail til kunden når du setter en ordre til status &amp;ldquo;sendt&amp;rdquo;.
+Angreskjema som blir brukt i nettbutikken er laget etter skjema fra regjeringen.no.&lt;/p&gt;
+&lt;p&gt;I toppen av modulet vil du finne link til både angreskjema og infoskriv. Dette kan være kjekt å vite hvis du for eksempel må sende det til en kunde som har mistet det eller liggnende.&lt;/p&gt;</description></item><item><title>Google Bedriftsprofil med anmeldelser</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/produkt--og-butikkomtaler/google-bedriftsprofil-anmeldelser/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/produkt--og-butikkomtaler/google-bedriftsprofil-anmeldelser/</guid><description>&lt;p&gt;For de fleste er dette et bedre alternativ enn Google Shopping sine butikk-anmeldelser, fordi sistnevnte krever 100 unike anmeldelser hvert år for å fungere.
+Google bedriftsprofil med anmeldelser fungerer fra første anmeldelse.&lt;/p&gt;
+&lt;h2 id="hvordan-hentes-anmeldelser-inn-og-hvor-vises-de"&gt;Hvordan hentes anmeldelser inn og hvor vises de?&lt;/h2&gt;
+&lt;p&gt;Du vil finne din bedrift i høyre kolonne når du søker på ditt bedriftnavn i Google.
+Der ser man en liste over anmeldelser/omtaler og en samlescore.
+Det er også en knapp/skjema for å legge inn anmeldelse/omtale.&lt;/p&gt;</description></item><item><title>Logg inn til kontrollpanelet</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/innlogging-og-oversikt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/innlogging-og-oversikt/</guid><description>&lt;h2 id="innlogging"&gt;Innlogging&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;For å logge deg inn i kontrollpanelet gjør du en av følgende:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;trykker på linken du fikk på epost og sms ved registrering&lt;/li&gt;
+&lt;li&gt;eller går til &lt;em&gt;dittdomene.no&lt;/em&gt;/kontrollpanel&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Har du ingen av overnevnte: &lt;p&gt;
+&lt;a href="tel:+47 900 333 15" class="btn btn-default"&gt;Ring oss: &lt;i class="fa fa-phone"&gt;&lt;/i&gt; 900 333 15&lt;/a&gt;&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Under installasjonen av din nettbutikk ble nettadressen til nettbutikk opprettet. Ta derfor vare på nettadressen du fikk i velkomstmailen for å logge inn senere. Hvis du glemmer denne, kan du ta kontakt med support. Når vi kobler opp nettbutikken til ditt domene vil kontrollpanelet også bli tilgjengelig på &lt;em&gt;dittdomene.no&lt;/em&gt;/kontrollpanel, i tillegg til linken du fikk i velkomstmailen.&lt;/p&gt;</description></item><item><title>Mailchimp</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/mailchimp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/mailchimp/</guid><description>&lt;p&gt;For å komme i gang med mailchimp kan vi sette opp en synk mellom nettbutikken og mailchimp. For å gjøre dette trenger vi apinøkkkel fra mailchimp.
+Denne kan du finner ved å trykke nederst i venstre hjørne på bilde å gå til din profil side.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/mailchimp/2023-03-16-13-21-31.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Når du har kommet til din profil trykker du på Extras i menyen og API Keys.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/mailchimp/2023-03-16-13-23-39.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Scroll ned på siden helt til du kommer til knappen Create New Key. Trykk på denne for å lage en api nøkkel.&lt;/p&gt;</description></item><item><title>Merkelapper</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/merkelapper-blokker/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/merkelapper-blokker/</guid><description>&lt;p&gt;Med dette modulet kan du lage egne merkelapper eller rediger de som allered finnes i nettbutikken. Kanskje skal du kjøre et salg under blackfriday? I tilfelle kan du markere alle disse produktene med en egen merkelapp slik at det blir enkelt for kunden å se.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/merkelapper-blokker/2022-07-15-15-06-23.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Som standard er det lagt inn merkelapp for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Nyheter&lt;/strong&gt; Denne merkelappen vises &amp;ldquo;Nyhet&amp;rdquo; på produktet. Produktene blir beregnet som nyhet XX dager etter dine innstillinger. Du kan endre dette under &amp;ldquo;butikkinnstillinger&amp;rdquo; - &amp;ldquo;produkt&amp;rdquo; også &amp;ldquo;Antall dager produktet skal bli regnet som &amp;rsquo;nytt'&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;På salg&lt;/strong&gt; Denne merkelappen vises når du har valgt å huke av på &amp;ldquo;for salg&amp;rdquo; under &amp;ldquo;pris&amp;rdquo;-fanen inne på et produkt.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rabatt i prosent&lt;/strong&gt; Merkelapp med visning av rabatten kommer opp når du har lagt til en &amp;ldquo;spesifisert pris&amp;rdquo; på produkter. Dette gjøres under fanen &amp;ldquo;pris&amp;rdquo; inne på det produkt.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Utsolgt&lt;/strong&gt; Produktet som er tom på lager vil få merkelappen utsolgt. Dette gjelder så lenge du ikke har krysset av for at det er mulig å bestille selv om du er tom på lager.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Online only&lt;/strong&gt; Denne vises hvis du kun har valgt at produktet skal være tilgjengelig i nettbutikken. Da kommer det opp &amp;ldquo;kun på nett&amp;rdquo;. Dette kan du velge under fanen &amp;ldquo;alternativer&amp;rdquo; inne på produktet. IKKE aktiv som standard&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pack sticker&lt;/strong&gt; Denne kommer opp når du har laget en produkt pakke. IKKE aktiv som standard&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="legg-til-ny-merkelapp"&gt;Legg til ny merkelapp&lt;/h2&gt;
+&lt;p&gt;For å legge til en ny merkelapp trykk du på &amp;ldquo;+&amp;rdquo; tegnet øverst i høyre hjørne(markert med rødt på bilde over).&lt;/p&gt;</description></item><item><title>Pakkepost</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/pakkepost.no/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/pakkepost.no/</guid><description>&lt;h2 id="skriv-ut-fraktetiketter-direkte-i-nettbutikken-med-pakkepostno"&gt;Skriv ut fraktetiketter direkte i nettbutikken med pakkepost.no.&lt;/h2&gt;
+&lt;p&gt;Pakkepost tilbyr faste fraktpriser i hele Norge. 1-3 kg = 63,2 kr / 3-10 kg = 92 kr / 10-20 kg = 151,20 / 20-35kg = 175,2. Dette gjør det enkelt for deg og dine kunder.
+Pakkepost sender også enkelt og rimelig pakker til utlandet uten at du må kunne noe om toll eller eksport papirer.&lt;/p&gt;
+&lt;p&gt;Gjør som 10.000+ kunder og kom i gang med pakkepost i dag!&lt;/p&gt;</description></item><item><title>Tawk.to</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tawk.to-chat/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tawk.to-chat/</guid><description>&lt;p&gt;Ønsker du å komme i gang med chat i din nettbutikk? I tilfelle kan du bruke tjenesten Tawk.to som er gratis.&lt;/p&gt;
+&lt;h2 id="ai-chat---automatisk-kundeservice-døgnet-rundt"&gt;AI-chat - automatisk kundeservice døgnet rundt&lt;/h2&gt;
+&lt;p&gt;Vi tilbyr også &lt;a href="https://kunde.komplettnettbutikk.no/chat-mail/63-tawkto-ai-chat.html" target="_blank"&gt;komplett oppsett av Tawk.to AI-chat&lt;/a&gt; tilpasset din nettbutikk. Chatten svarer kunder døgnet rundt, guider dem til riktige produkter og reduserer manuelt supportarbeid.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hva vi leverer:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Oppsett av Tawk.to AI-chat&lt;/li&gt;
+&lt;li&gt;Tilpasning til din butikk, produkter og vanlige kundespørsmål&lt;/li&gt;
+&lt;li&gt;Språk og tone tilpasset norsk marked&lt;/li&gt;
+&lt;li&gt;Testing og kvalitetssikring før lansering&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Pris:&lt;/strong&gt; Kr. 1.999 (oppsett) + kr. 99 pr. mnd&lt;/p&gt;</description></item><item><title>Innstillinger</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/innstillinger/_index.md/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/innstillinger/_index.md/</guid><description>&lt;h2 id="slik-setter-du-opp-vipps-i-din-nettbutikk"&gt;Slik setter du opp Vipps i din nettbutikk:&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Sørg for at du er ferdig med registrering og har fått et Vipps-nummer (MSN / Merchant Serial Number) for enten Vipps Checkout eller Vipps Betal på nett.&lt;/li&gt;
+&lt;li&gt;Send oss nummeret så vi kan legge det inn i din nettbutikk.&lt;/li&gt;
+&lt;li&gt;Logg deg inn i din nettbutikk og gå til &lt;strong&gt;Innstillinger&lt;/strong&gt; &amp;gt; &lt;strong&gt;Betaling&lt;/strong&gt; &amp;gt; &lt;strong&gt;Vipps&lt;/strong&gt; for å sette opp Vipps etter dine ønsker.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="legg-til-komplettnettbutikk-i-administrasjonpanelet"&gt;Legg til Komplettnettbutikk i administrasjonpanelet&lt;/h2&gt;
+&lt;p&gt;For at vi skal kunne hjelpe deg underveis er det veldig fint om du legger til Mads som bruker i ditt Vipps panel. Da blir det veldig mye enklere å hjelp og bistå deg.&lt;/p&gt;</description></item><item><title>Lager</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/lager/lager/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/lager/lager/</guid><description>&lt;h1 id="oversikt-over-lagerverdier"&gt;Oversikt over lagerverdier&lt;/h1&gt;
+&lt;p&gt;Denne fanen inneholder en tabell som presenterer produktene dine samt søkealternativer og lar deg direkte redigere produktene sine antall.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/lager/lager/2022-07-11-10-36-15.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Hver linje representerer et produkt (enten standard, virtuell eller pakkeprodukt). Variantkombinasjoner vises rett under produktets navn.&lt;/p&gt;
+&lt;p&gt;Tabellen inneholder følgende kolonner:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bilde miniatyrbilde for å enklere skille produktene.&lt;/li&gt;
+&lt;li&gt;Produktets navn og varianten hvis det er aktuelt for produktet.&lt;/li&gt;
+&lt;li&gt;Produktreferanse. Referansen du har lagt inn på produktet.&lt;/li&gt;
+&lt;li&gt;Leverandør. I tilfelle flere leverandører blir tildelt et produkt, vil bare standardleverandøren vises her.&lt;/li&gt;
+&lt;li&gt;Status for å vite om produktet er aktivert eller ikke.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fysisk&lt;/strong&gt; som representerer antall du faktisk har fysisk på lageret ditt.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reservert&lt;/strong&gt; som representerer antall av produkter som for tiden er i en åpen kundebestilling som ikke er sendt ennå.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tilgjengelig&lt;/strong&gt; som er antall som er tilgjengelig for salg.&lt;/li&gt;
+&lt;li&gt;Rediger mengde. Denne inngangen gjør det mulig å endre antall manuelt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="redigere-antall"&gt;Redigere antall&lt;/h4&gt;
+&lt;p&gt;For å redigere et enkelt produkts antall angir du bare ønsket mengdeendring i inngangsfeltetfeltet helt til høyre på produktets linje. Du kan legge antall i minus eller pluss.&lt;/p&gt;</description></item><item><title>Modul for produktomtaler i nettbutikken</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/produkt--og-butikkomtaler/produktomtaler/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/produkt--og-butikkomtaler/produktomtaler/</guid><description>&lt;p&gt;KomplettNettbutikk har utviklet et modul for visning og innhenting av produktomtaler (og rating/stjerner) for dine produkter.&lt;/p&gt;
+&lt;h2 id="egenskaper"&gt;Egenskaper:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Viser frem stjerner på alle produkt-miniatyrer&lt;/li&gt;
+&lt;li&gt;Viser en liste over alle skrevne omtaler for produktene&lt;/li&gt;
+&lt;li&gt;Viser et skjema for å legge inn omtaler&lt;/li&gt;
+&lt;li&gt;Sender en automatisk epost til kundene X dager etter ordren er sendt, med forespørsel om å legge inn en omtale for produktene.&lt;/li&gt;
+&lt;li&gt;Har mulighet for å sende alle omtaler til Google Shopping om du benytter det, slik at produktene også får omtaler/rating inne i Google Shopping&lt;/li&gt;
+&lt;li&gt;Har mulighet til å i tillegg opprette en popup fra Google med forespørsel til kundene om å legge inn en anmeldelse av din nettbutikk og/eller produkter.&lt;/li&gt;
+&lt;li&gt;Har mulighet for visning av en badge/banner nederst i din nettbutikk med din rating fra Google Shopping reviews, dersom du har minst 100 unike omtaler hvert år i Norge.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Har du allerede en liste over omtaler fra et annet system? Ta kontakt så kanskje vi får til å importere disse.&lt;/p&gt;</description></item><item><title>Panel</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/panel/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/panel/</guid><description>&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/panel/2022-05-23-12-08-41.png" alt=""&gt;
+Øverst til høyre i panelet finner du knappen &lt;strong&gt;Demo-modus&lt;/strong&gt;. Denne er kun for å vise deg hvordan panelet vil se ut med etterhvert som du får trafikk på nettsiden. Du kan slå av denne når du måtte ønske.&lt;/p&gt;
+&lt;p&gt;På neste linje velger du visnings-intervall dag/måned/år. Trykker du på kalenderen helt til høyre kan du spesifisere hvilke datointervall du ønsker å bruke tall ifra. Du kan også sammenligne med en annen periode. Det kan være veldig greit å se hvordan du f.eks. ligger an i forhold til fjoråret. I tillegg til denne utvelgelsen har du hurtigknapper til venstre for dag-1, måned-1 og år-1 som viser forrige dag, måned eller år.&lt;/p&gt;</description></item><item><title>Produkt</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/produkt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/produkt/</guid><description>&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/produkt/2022-06-08-09-33-34.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Øverst i høyre hjørne er det et pluss tegn. Trykk på dette for å &lt;strong&gt;legge til et nytt produkt&lt;/strong&gt; til din nettbutikk. Hvis du ønsker å lage et nytt produkt ved å duplisere et tidligere produkt kan du gjøre dette ved å trykke på knappen &lt;strong&gt;Tre loddrette prikker&lt;/strong&gt; helt til høyre på produkt linjen.
+Samme knapp bruker du for å slette produktet eller forhåndsvise. Husk at du ikke trenger å slette et produkt for å skjule det for dine kunder. Du har også mulighet til å sette det inaktivt. På bilde ser du at vist er grønn. Trykk en gang på denne så vil den bli grå som betyr at produktet er inaktiv og ikke synlig for kundene. Hvis du ønsker å redigere produktet trykker du på blyanten.&lt;/p&gt;</description></item><item><title>Rabattkoder</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/rabatter/rabattkoder/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/rabatter/rabattkoder/</guid><description>&lt;hr&gt;
+&lt;p&gt;Siden &amp;ldquo;rabattkoder&amp;rdquo; gir deg tilgang til et avansert verktøy for å lage veldig presise kuponger/rabattkoder. Rabattkoder blir fylt inn av kunden når han går til kassen. Du kan også opprette rabatt uten kode slik at de automatisk slår inne for alle kunder.&lt;/p&gt;
+&lt;p&gt;Den første siden viser en oversikt over alle rabatter som finnes i nettbutikken i dag. Her kan du enkelt se hvor mange som er tilgjengelig og når de utløper.
+Ønsker du og slette eller redigere en kode gjør du dette helt til høyre på linjen som vist på bilde under.
+Hvis du ønsker å deaktiver en rabattkode kan du enkelt gjøre dette ved å trykk på grønn &amp;ldquo;v&amp;rdquo; under vist. Da blir denne et rød &amp;ldquo;X&amp;rdquo; som betyr at rabattkoden ikke er aktiv lengre.&lt;/p&gt;</description></item><item><title>Google Shopping- / Google Merchant Center-anmeldelser</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/produkt--og-butikkomtaler/google-shopping/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/produkt--og-butikkomtaler/google-shopping/</guid><description>&lt;h2 id="innhenting-av-produkt--og-selgervurderinger-med-google-kundeanmeldelser"&gt;Innhenting av produkt- og selgervurderinger med Google kundeanmeldelser:&lt;/h2&gt;
+&lt;p&gt;Google Kundeanmeldelser er en tjeneste du kan bruke til å samle inn tilbakemeldinger fra kunder som har kjøpt noe i nettbutikken din. Kundene kan delta i en undersøkelse for å gi en vurdering av sin opplevelse.
+Et verktøy for å hente inn omtaler (både &lt;strong&gt;produktomtaler&lt;/strong&gt; og &lt;strong&gt;selgeromtaler&lt;/strong&gt;).
+I praksis er dette en popup på ordrebekreftelsesiden i din nettbutikk hvor kunden blir spurt om de ønsker den påfølgende eposten fre Google med spørsmål om å legge inn anmeldelse for butikken og produktene.
+Tjenesten må aktiveres i Google Merchant Center, og man må legge inn en dynamisk kode på ordrebekreftelsessiden for at popupen skal dukke opp.&lt;/p&gt;</description></item><item><title>Kategorier</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/kategorier/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/kategorier/</guid><description>&lt;h2 id="administrere-kategorier"&gt;Administrere kategorier&lt;/h2&gt;
+&lt;p&gt;Kategorier er viktige for å hjelpe kundene å finne veien til produktet for dem. Du bør lage en god struktur som er lett å kjenne igjen for dine kunder. Du kjenner kundene dine og vet hvordan de vil like å navigere seg fram til riktig Produkt. Du bør fokusere på kategoritreet ditt og hvordan kategorier er organisert allerede før du begynner å legge ut produkter. Produkter i en kategori bør være sammenlignbare eller høre sammen.&lt;/p&gt;</description></item><item><title>Katalog</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/</guid><description>&lt;h2 id="administrere-produktkatalogen-din"&gt;Administrere produktkatalogen din&lt;/h2&gt;
+&lt;p&gt;Grunnlaget for nettbutikken er katalogen. Her er legger du ut produkter og produktkategorier. Å bygge og forbedre katalogen din er den viktigste måten du vil få nettstedet ditt til å leve i kundenes øyne. Det er her butikken din blir en realitet, skaper innhold og dermed gir verdi til din online tilstedeværelse.&lt;/p&gt;
+&lt;p&gt;Seksjonen &amp;ldquo;Katalog&amp;rdquo; kan nås ved å åpne menyen med samme navn, som viser alle produktrelaterte sider. Det er her du administrerer produktene dine og deres egenskaper i hele Nettbutikken.&lt;/p&gt;</description></item><item><title>Katalograbatt</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/rabatter/katalograbatt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/rabatter/katalograbatt/</guid><description>&lt;p&gt;Katalograbatt gjør det mulig for deg å tildele rabatter etter kategori, merkevare, leverandør, variant eller egenskap. Som navnet tilsier gjelder denne typen rabatt for en rekke produkter. Ønsker du rabatt kun på et produkt gjør du dette inn på selve produkter og pris fanen. Har kan du legge til en spesifisert pris som fungerer på samme måte for enkelt produkt.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/rabatter/katalograbatt/2022-07-11-09-55-39.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Siden &amp;ldquo;Katalograbatter&amp;rdquo; viser de for øyeblikket eksisterende reglene, som du kan redigere eller slette ved å klikke på handlingsknappene. Hvis du trenger å deaktivere en regel, kan du bare endre sluttdatoen til dagen før.&lt;/p&gt;</description></item><item><title>Lagerbevegelser</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/lager/lagerbevegelser/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/lager/lagerbevegelser/</guid><description>&lt;p&gt;Tabellen over lagerbevegelser gir deg en logg over alle lagerendringene. Fordi det er en historie med tidligere lagerbevegelser har denne tabellen bare en informativ rolle og kan derfor ikke redigeres.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/lager/lagerbevegelser/2022-07-11-11-06-36.png" alt=""&gt;&lt;/p&gt;
+&lt;h2 id="bevegelser-oversikt"&gt;Bevegelser Oversikt &lt;a href="stockmovements-MovementsOverview" id="stockmovements-movementsoverview"&gt; &lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id="struktur"&gt;Struktur &lt;a href="stockmovements-Structure" id="stockmovements-Structure"&gt; &lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Strukturen ser ut som lagertabellen, men her tilsvarer hver linje en endring i fysisk mengde for et produkt eller en kombinasjon. Den inneholder følgende kolonner:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bilde miniatyrbilde for å enklere skille produktene.&lt;/li&gt;
+&lt;li&gt;Produktets navn og varianten hvis det er aktuelt for produktet.&lt;/li&gt;
+&lt;li&gt;Produktreferanse. Referansen du har lagt inn på produktet..&lt;/li&gt;
+&lt;li&gt;Bevegelsestype. Viser grunnen til at et produkts fysiske mengde har endret seg.&lt;/li&gt;
+&lt;li&gt;Antall lagt til eller fjernet. Dette feltet er formatert med en + eller - etikett for å vise om det er lagt til eller trekt fra lager.&lt;/li&gt;
+&lt;li&gt;Dato og tid som er den eksakte serverens tidsstempel da endringen skjedde.&lt;/li&gt;
+&lt;li&gt;Ansatt som er navnet på personen som er ansvarlig for endringen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Som standard sorteres lagerbevegelser etter synkende dato slik at de nyeste lagerbevegelsene er på toppen.&lt;/p&gt;</description></item><item><title>Moduler og integrasjoner</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/</guid><description>&lt;p&gt;KomplettNettbutikk kommer med veldig mange moduler som standard og vil dekke de flestes behov. Her snakker vi om ca. 100 tilleggsmoduler som leveres uten ekstra kostnad.&lt;/p&gt;
+&lt;p&gt;Har du behov for noe spesial funksjonalitet har vi mulighet til å utvikle et modul akkurat etter dine ønsker, men i de fleste tilfeller ligger funksjonaliteten innebygd. Finner du ikke funksjonaliteten du ønsker så ta kontakt med oss så skal vi hjelpe deg.&lt;/p&gt;
+&lt;p&gt;Vi har også vår egen &lt;a href="https://kunde.komplettnettbutikk.no/" target="_blank"&gt;modulbutikk&lt;/a&gt; der vi selger flere tilleggsmoduler. Dette kan f.eks være avanserte integrasjoner mot regnskap som Tripletex, Fiken og Visma.net, flere betalingsløsninger, chatløsninger etc.&lt;/p&gt;</description></item><item><title>Egenskaper</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/egenskaper/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/egenskaper/</guid><description>&lt;h2 id="administrere-egenskaper"&gt;Administrere egenskaper&lt;/h2&gt;
+&lt;p&gt;Egenskaper forblir de samme gjennom produktets variasjoner. Du bør tenke på egenskaper på samme måte som du tenker på varianter, men store forskjellen at egenskaper er det samme for alle variasjoner.&lt;/p&gt;
+&lt;p&gt;Forskjellen mellom en varianter og en egenskaper avhenger av selve produktet. eks. kan være farge. En t-skjorte finnes i 4 forskjellige farge og størrelser. Dette må du skille ved hjelp av varianter slik at kunden kan velge dette i nettbutikken. Et annet produkt finnes kanskje i bare en farge, men har forskjellige størrelser. I tilfelle kan du legge farge som en egenskap da det er likt for alle produkter.&lt;/p&gt;</description></item><item><title>Instagram feed</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/instagram-feed/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/instagram-feed/</guid><description>&lt;p&gt;Første du må gjøre er å knytte din Instagram konto til nettbutikken.
+Start med å åpne et nytt leser vindu på Instagram.com og logge inn på kontoen du vil dele. Etter at du har gjort dette går du tilbake til kontrollpanelet og trykker på &amp;ldquo;+&amp;rdquo; tegn som vist på bilde under.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/instagram-feed/2022-07-13-10-39-48.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;For å knytte Instagram mot nettbutikken trykker du på som vist på bilde under.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/instagram-feed/2022-07-13-10-41-51.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Trykk deretter &amp;ldquo;tillat&amp;rdquo; på at du ønsker å dele Instagram kontoen din med nettsiden.&lt;/p&gt;</description></item><item><title>Ofte stilte spørsmål</title><link>https://dokumentasjon.komplettnettbutikk.no/ofte-stilte-sp%C3%B8rsm%C3%A5l/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/ofte-stilte-sp%C3%B8rsm%C3%A5l/</guid><description>&lt;p&gt;Her er en liste over spørsmål vi ofte får, og svarene våre på disse.
+Vi vil legge til flere og flere etterhvert. Har du egne spørsmål, kan du gå til &lt;a href="https://dokumentasjon.komplettnettbutikk.no/kontakt-oss/"&gt;Kontaktsiden&lt;/a&gt; og sende oss en henvendelse der.&lt;/p&gt;
+
+
+
+
+
+
+
+
+&lt;ul class='children children-li'&gt;
+	
+
+ 
+		
+			
+		
+	
+
+	
+
+	
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/ofte-stilte-sp%C3%B8rsm%C3%A5l/hvordan-legge-ut-video/" &gt;Legge ut video&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/ofte-stilte-sp%C3%B8rsm%C3%A5l/b2b/" &gt;Sette opp B2B løsning&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/ofte-stilte-sp%C3%B8rsm%C3%A5l/kundemail/" &gt;Kunder får ikke mail&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+
+	
+&lt;/ul&gt;</description></item><item><title>Statistikk</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/statistikk/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/statistikk/</guid><description>&lt;h2 id="rapporter"&gt;Rapporter&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/statistikk/2022-07-15-12-03-56.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Trykk på ønsket rapport for å laste ned excel-fil. Mangler det noe? Vi kan opprette egne rapporter på timing. Send mail til &lt;a href="mailto:mads@komplettnettbutikk.no"&gt;mads@komplettnettbutikk.no&lt;/a&gt; med eksempel på hvilke kolonner du trenger i rapporten din.&lt;/p&gt;
+&lt;p&gt;Som standard kan du ta ut rapport for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alle ordre&lt;/li&gt;
+&lt;li&gt;Ordre pr år&lt;/li&gt;
+&lt;li&gt;Ordre for de siste 4 måndene.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Facebook</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/facebook/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/facebook/</guid><description>&lt;p&gt;Her kan du legge til feed fra din egen facebook side. Du gjør dette enkelt ved å kopiere linken til facebooksiden din og limer den inn på &amp;ldquo;Facebook-side Page url.
+husk at du ikke må ta med &amp;ldquo;/&amp;rdquo; bakerst i url. Når du har gjort dette trykker du &amp;ldquo;lagre&amp;rdquo; og facebook feeden din er synlig i nettbutikken.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/facebook/2022-07-13-11-42-09.png" alt=""&gt;&lt;/p&gt;</description></item><item><title>Google Analytics</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/google-analytics/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/google-analytics/</guid><description>&lt;p&gt;Når du har startet din nettbutikk er det viktig å kunne se trafikken inn til siden. Dette kan du gjøre med et gratis verktøy fra Google kalt Analytics.
+Dette verktøyet lar seg spore antall som har vært innom, hvor mye de har handlet for, hvor de kom i fra osv. Denne informasjonen kan du bruke for å gjøre nettbutikken bedre og sørge for å bruke penger på riktig markedsføring.&lt;/p&gt;
+&lt;h2 id="opprett-konto-på-google-analytics"&gt;Opprett konto på Google Analytics&lt;/h2&gt;
+&lt;p&gt;For å opprette en konto til Google Analytics får du enkelt inn på denne siden: &lt;a href="https://analytics.google.com/"&gt;https://analytics.google.com/&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Tekst popup</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tekst-popup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tekst-popup/</guid><description>&lt;p&gt;Her kan du lage pop ups på nettbutikken din. Som standard er det lagt til pop up for personvern og cookies. Hvis du ønsker å endre plassering eller utsende på denne kan du trykke på rediger knappen.&lt;/p&gt;
+&lt;p&gt;Ønsker du å legge ut en ny pop-up trykker du på &amp;ldquo;+&amp;rdquo; tegnet øverst i høyre hjørne.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tekst-popup/2022-07-13-11-48-06.png" alt=""&gt;&lt;/p&gt;</description></item><item><title>Avansert banner</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/avansert-banner/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/avansert-banner/</guid><description>&lt;p&gt;Dette modulet lar deg legge til banner på siden. Denne kan ligge på forsiden, kategoriside, tekstside eller limes inn i hvilken som helst tekst.
+Du finner dette modulet ved å gå til &amp;ldquo;Moduler&amp;rdquo; i venstre meny også søk etter &amp;ldquo;avansert banner&amp;rdquo;. Trykk konfigurer for å komme til modulet.
+Hvis du bruker modulet mye kan du vurdere å legge det til hurtigtilgangen øverst på siden.&lt;/p&gt;
+&lt;p&gt;#Legge til en ny banner&lt;/p&gt;
+&lt;p&gt;For å legge til en ny banner trykker du på &amp;ldquo;+&amp;rdquo; tegnet øverst i høyre hjørne.&lt;/p&gt;</description></item><item><title>Bloggmodul</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/bloggmodul/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/bloggmodul/</guid><description>&lt;p&gt;Har du premium eller høyere pakke kan du sende oss en mail for å få aktivert blogg modulet. Her for du mulighet til å legge ut dine egen blogg innlegg som du kan presentere for dine kunder. Mange velge å endre navn til f.eks. inspirasjon, oppskrifter, nyheter, artikler etc.&lt;/p&gt;
+&lt;p&gt;#Legg ut ditt først blogg innlegg&lt;/p&gt;
+&lt;p&gt;Du går til blogg helt i bunn av venstremeny under &amp;ldquo;Mer&amp;rdquo;. Her trykker du på &amp;ldquo;st blog module&amp;rdquo;&lt;/p&gt;</description></item><item><title>Filer</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/filer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/filer/</guid><description>&lt;h2 id="administrere-filer"&gt;Administrere filer&lt;/h2&gt;
+&lt;p&gt;Nettbutikken lar deg gjøre noen filer tilgjengelig for kundene dine før kjøpet. La oss for eksempel si at du selger elektronikk og du vil oppfordre kundene dine til å lese et dokument om hvordan et produkt fungerer. Du kan laste opp et dokument for det formålet. Du kan også ganske enkelt ha produktets PDF-manual direkte tilgjengelig for nedlasting rett på produktsiden.&lt;/p&gt;
+&lt;p&gt;Hvert produkt kan ha filer som kan settes individuelt i fanen &amp;ldquo;Alternativer&amp;rdquo; og &amp;ldquo;vedlagte filer&amp;rdquo;. Den siden gir deg tilgang til alle vedlagte filer i butikken. Hvis du trenger å bruke den tilknyttede filen med mange produkter vil du dermed bare måtte laste den opp en her.&lt;/p&gt;</description></item><item><title>Bildegalleri modul</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/bildegalleri/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/bildegalleri/</guid><description>&lt;p&gt;Dette modulet lar deg legge til bildegalleri på siden. Denne kan ligge på forsiden, kategoriside, tekstside. Du kan lime den inn i hvilket tekstfelt som du ønsker.
+Ta kontakt med support for å få aktivert modulet. Prisen er 999 kr.&lt;/p&gt;
+&lt;h1 id="legge-til-bilder-i-et-galleri"&gt;Legge til bilder i et galleri&lt;/h1&gt;
+&lt;p&gt;For å legge til en nye bilder må du gå til en kategori, produkt eller annen side med bilde opplastning.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/bildegalleri/2023-11-28-10-56-39.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Trykk så på knappen source&lt;/p&gt;</description></item><item><title>Produkteksport</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/produkteksport/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/produkteksport/</guid><description>&lt;p&gt;Her kan du laste ned alle dine produkter og varianter som excel-fil. Du vil i filene finne mye nyttig info. Alle gule kolonner kan oppdateres, og du kan gjerne legge til egne felter, slik som summeringer om du ønsker, uten at dette ødelegger for importen. Pass bare på at du ikke endrer navn på feltene som er generert, samt at du fyller ut riktig verdier i hvert felt. Deretter kan du importere filen igjen.&lt;/p&gt;</description></item><item><title>Handlekurver</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/ordre/handlekurv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/ordre/handlekurv/</guid><description>&lt;p&gt;Her finner du oversikt over alle handlekurver som er opprettet i nettbutikken. Det er veldig vanlig at det blir laget en del handlekurver. Dette skjer med en gang en kunde trykker kjøp på et produkt på nettsiden. Det er derfor ikke sikkert det ligger informasjon om kunden på handlevognen. Mange av disse er kanskje også fra vi eller du har gjort tester i nettbutikken.&lt;/p&gt;
+&lt;p&gt;Handlekurver lar deg se produktene som kundene legger til handlekurven i sanntid.&lt;/p&gt;</description></item><item><title>Bestill Vipps Checkout</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/bestill-vipps-checkout/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/bestill-vipps-checkout/</guid><description>&lt;p&gt;Å få en nettbutikk med Vipps Checkout er enkelt og uten kostnad hos KomplettNettbutikk!&lt;/p&gt;
+&lt;p&gt;Bruk kontaktskjemaet nedenfor og beskriv dine behov, om du har nettbutikk hos KomplettNettbutikk fra før av eller om du ønsker å bli kunde samtidig med bestilling av Vipps Checkout.&lt;/p&gt;
+&lt;div class="contactform" id="contactform"&gt;
+ &lt;div class="header"&gt;
+ 📧 Kontakt oss
+ &lt;/div&gt;
+ &lt;div class="body"&gt; 
+ &lt;form 
+ name="kontakt" 
+ method="POST" 
+ data-netlify="true"
+ netlify-honeypot="rowboat" 
+ action="https://dokumentasjon.komplettnettbutikk.no/"&gt;
+ &lt;input type="hidden" name="to" value="andreas"&gt;
+ &lt;p class="ohnohoney"&gt;
+ &lt;label&gt;Roboter bes fylle ut dette: &lt;input name="rowboat" /&gt;&lt;/label&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+ &lt;label&gt;Navn/firma: &lt;input type="text" name="name" /&gt;&lt;/label&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+ &lt;label&gt;Epostadresse: &lt;input type="email" name="email" /&gt;&lt;/label&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+ &lt;label&gt;Melding: &lt;textarea name="message"&gt;Jeg ønsker Vipps Checkout i min nettbutikk!&lt;/textarea&gt;&lt;/label&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+ &lt;button class="btn btn-default submit" type="submit"&gt;Send&lt;/button&gt;
+ &lt;/p&gt;
+ &lt;/form&gt;
+ &lt;/div&gt; 
+&lt;/div&gt;</description></item><item><title>Gavekort modul</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/gavekort-modul/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/gavekort-modul/</guid><description>&lt;p&gt;Dette er et betalt modul. Send oss mail hvis du ønsker å bestille.&lt;/p&gt;
+&lt;h2 id="innstillinger"&gt;Innstillinger&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/gavekort-modul/2022-12-14-13-24-25.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Du Finner to innstilinger for gavekort modulet.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ordrestatus som skal generere gavekort&lt;/strong&gt; Her setter du hvilken ordrestatus som skal lage og sende ut gavekortet. De fleste velger &amp;ldquo;betaling utført&amp;rdquo;. Da vil kunden få gavekort på mail rett etter at han har lagt inn bestilling. Gavekort blir sendt til mail adressen som kunden bestiller på. Ønsker han å gi deg bort kan han videresende mailen han for.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Her kan du se hvordan mailen ser ut:&lt;/p&gt;</description></item><item><title>Hvordan legge ut video i nettbutikken?</title><link>https://dokumentasjon.komplettnettbutikk.no/ofte-stilte-sp%C3%B8rsm%C3%A5l/hvordan-legge-ut-video/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/ofte-stilte-sp%C3%B8rsm%C3%A5l/hvordan-legge-ut-video/</guid><description>&lt;h2 id="legge-ut-video-fra-youtube"&gt;Legge ut video fra youtube&lt;/h2&gt;
+&lt;p&gt;Vi anbefaler å laste opp videoen på youtube før du skal legge den ut på nett. Hvis du skal laste den opp på nettsiden vil det kreve veldig mye kapasitet og kan gjøre at siden kan virke tung å laste.&lt;/p&gt;
+&lt;p&gt;Start med å laste opp videoen din på youtube.com&lt;/p&gt;
+&lt;h2 id="dele-video-fra-youtube"&gt;Dele video fra youtube&lt;/h2&gt;
+&lt;p&gt;Gå til videoen du ønsker å dele på youtube. Det kan være video som er lastet opp av deg eller andre. Hvis du deler video av andre må du være sikker på at du har tillatelse for dette.&lt;/p&gt;</description></item><item><title>Hvordan sette opp B2B løsning</title><link>https://dokumentasjon.komplettnettbutikk.no/ofte-stilte-sp%C3%B8rsm%C3%A5l/b2b/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/ofte-stilte-sp%C3%B8rsm%C3%A5l/b2b/</guid><description>&lt;p&gt;B2B står for &amp;ldquo;Business-to-Business&amp;rdquo; og refererer til handel mellom to bedrifter. B2B-funksjonalitet kan aktiveres hvis du har Premium+ nettbutikk. Som standard er det opprettet en egen kundegruppe for B2B. For å kunne benytte funksjonaliteten må du ta noen steg som vist på punkene under her.&lt;/p&gt;
+&lt;p&gt;Har du behov for flere kundegrupper må du ta kontakt med support. Kanskje ønsker du mange forskjellige B2B kundegrupper med forskjellige rabatter og tilganger..&lt;/p&gt;
+&lt;h2 id="knytt-kunden-mot-riktig-kundegruppe"&gt;Knytt kunden mot riktig kundegruppe&lt;/h2&gt;
+&lt;p&gt;Opprett en konto for hver bedrift som ønsker å handle hos deg. evt. knytte konto som allerede ligger inn mot riktig kundegruppe.
+Trykk rediger på kundekort og sørg for at det er knyttet mot B2B kundegruppe og har denne som standard kundegruppe.
+Hvis du ønsker at bedrifter også skal ha tilgang til kategorier for private, kan du huke av for alle kundegrupper under gruppetilgang.
+Det er standard kundegruppe som avgjør hvilken pris de for opp.&lt;/p&gt;</description></item><item><title>Integrasjon Fiken og KomplettNettbutikk</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/fiken/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/fiken/</guid><description>&lt;h2 id="slik-fungerer-integrasjonen"&gt;Slik fungerer integrasjonen:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Alle ordre overføres som faktura (betalt eller ubetalt), og alle fakturalinjer får koblet opp produktene, som gjør at man får lager til å trekke ned, får salgstatistikk på produktnivå og får god dokumentasjon både for sluttkunde og nettbutikk.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Det er også lagt opp til å kunne bruke Fiken som betalingsløsning i kassa (Betal med EHF/epost/e-faktura/vipps/brev-faktura) hvor betaling/oppgjør monitoreres og endrer status i nettbutikken til &amp;ldquo;Oppgjort i Fiken&amp;rdquo;.&lt;/p&gt;</description></item><item><title>Integrasjon mellom Visma.net ERP og KomplettNettbutikk</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/visma.net-erp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/visma.net-erp/</guid><description>&lt;h2 id="integrasjonen-består-i-dag-av-3-deler"&gt;Integrasjonen består i dag av 3 deler:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ordreoverføring:&lt;/strong&gt; ordre i nettbutikken oppretter salgsordre i Visma, med rett produkter og rett kunde.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lagersynkronisering:&lt;/strong&gt; lager trekker ned antall i Visma via salgsordre, og lager trekkes ned ved at nettbutikken leser lagerantall fra Visma.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Produktimport:&lt;/strong&gt; man kan importere produkter fra Visma og opprette disse i nettbutikken.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flere muligheter?&lt;/strong&gt; Det er mye mer som kan kobles opp! Ta kontakt med oss og skisser ditt behov.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="hvordan-komme-igang"&gt;Hvordan komme igang:&lt;/h2&gt;
+&lt;p&gt;Ta kontakt med oss for tilbud på oppsett og vedlikehold av integrasjon og nettbutikk. Kunder som bruker Visma.net ERP er som regel kunder med spesialiserte behov, og vi kan skreddersy integrasjonen og nettbutikken til de fleste behov.&lt;/p&gt;</description></item><item><title>Ordre</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/ordre/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/ordre/</guid><description>&lt;h2 id="hva-overføres"&gt;Hva overføres?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dine nettbutikkordre overføres til Tripletex hvor det opprettes som en betalt faktura.&lt;/li&gt;
+&lt;li&gt;Ordrelinjer med navn og beskrivelse om du ikke har premiumversjon av integrasjon.&lt;/li&gt;
+&lt;li&gt;Ordrelinjer knyttes opp mot rett produkt i Tripletex.&lt;/li&gt;
+&lt;li&gt;Ordrelinjer med navn og beskrivelse om du ikke har premiumversjon av integrasjonen.&lt;/li&gt;
+&lt;li&gt;Rabatter&lt;/li&gt;
+&lt;li&gt;Frakt&lt;/li&gt;
+&lt;li&gt;Mva.&lt;/li&gt;
+&lt;li&gt;Kunder søkes opp i Tripletex og knyttes opp om de eksisterer, eller opprettes om de ikke er der fra før.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="når-overføres-det"&gt;Når overføres det?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ordre overføres omgående når de når valgfri ordrestatus i nettbutikken. Det kan være med en gang ordren kommer inn, eller f.eks. ved status &lt;em&gt;Sendt&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Produkt- og butikkomtaler</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/produkt--og-butikkomtaler/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/produkt--og-butikkomtaler/</guid><description>&lt;p&gt;&lt;strong&gt;Butikkomtaler&lt;/strong&gt; er et godt verktøy for å bygge tillit i din nettbutikk. Når dine kunder ser at andre har handlet i din nettbutikk, og har gode erfaringer med det, så øker det sjansen for at de selv gjennomfører en handel.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Produktomtaler&lt;/strong&gt; hjelper også for kundenes tillit til nettbutikken, men enda mer på produktenes kvalitet og egenskaper. Omtalene kan gjøre det lettere for kundene å velge produkter som andre har likt og gitt god score på.&lt;/p&gt;</description></item><item><title>Regnskap til fastpris</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/regnskap-l%C3%B8nn-og-support-til-fastpris/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/regnskap-l%C3%B8nn-og-support-til-fastpris/</guid><description>&lt;img src="2023-05-16-10-26-10.png" margin-left="0px" align="left" padding="0"&gt;
+&lt;h2 id="priser"&gt;Priser&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Årlig omsetning i NOK:&lt;/th&gt;
+ &lt;th&gt;Pris pr. mnd NOK:&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Nettbutikk 0-2.999.999,-&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;3.500,-&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Nettbutikk 2.000.000-5.999.999,-&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;5.000,-&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Nettbutikk 6.000.000-9.999.999,-&lt;/td&gt;
+ &lt;td&gt;&lt;strong&gt;7.000,-&lt;/strong&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Nettbutikk 10.000.000-&lt;/td&gt;
+ &lt;td&gt;Ved forespørsel&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/br&gt;
+&lt;p&gt;&lt;strong&gt;Lønn (tilvalg):&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1-5 ansatte	500,-&lt;/li&gt;
+&lt;li&gt;6-10 ansatte	800,-&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Komplett årsregnskap med ligningsdokumenter:&lt;/strong&gt; 6.000,- per selskap pr. år&lt;/p&gt;
+&lt;p&gt;*Bestillingen er bindende, men betinger at «uttalelse fra eksisterende regnskapsfører» kommer tilbake uten anmerkninger. One Accounting innhenter denne uttalelsen. Endelig avtale til signering blir oversendt i etterkant. Oppstart av engasjement ved utløp av oppsigelsestid hos nåværende regnskapsfører.&lt;/p&gt;</description></item><item><title>Salgsordre</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/visma.net-erp/salgsordre/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/visma.net-erp/salgsordre/</guid><description>&lt;p&gt;Integrasjonen sørger for å sende over dine nettbutikk-ordre til Visma og opprette disse som salgsordre.
+Salgsordrene inneholder produktlinjer, med pris, antall, beskrivelse hentet fra nettbutikken.&lt;/p&gt;
+&lt;h2 id="hvordan-matches-produkterlagervarer"&gt;Hvordan matches produkter/lagervarer&lt;/h2&gt;
+&lt;p&gt;I innstillinger for integrasjonen må man sette et standard Visma &lt;em&gt;produktnummer/varenummer/lagervarenummer&lt;/em&gt; som skal brukes dersom man har glemt å legge inn dette spesifikt på hvert produkt. Man kan f.eks. opprette en lagervare i Visma som heter &lt;em&gt;Annen vare, ikke tilknyttet&lt;/em&gt; som man bruker til dette formålet. I innstillingene setter man også et Visma &lt;em&gt;produktnummer/varenummer/lagervarenummer&lt;/em&gt; som skal brukes for frakt.
+Deretter må man legge inn Visma &lt;em&gt;produktnummer/varenummer/lagervarenummer&lt;/em&gt; som &lt;em&gt;produktets&lt;/em&gt; eller &lt;em&gt;produktkombinasjonens&lt;/em&gt;/&lt;em&gt;produktvariantens&lt;/em&gt; &lt;em&gt;referanse&lt;/em&gt; i nettbutikken på alle produkter. Da vil alle ordrelinjer knyttes opp mot rett produkt i Visma på salgsordre, og lager synkes på rett produkt/variant.&lt;/p&gt;</description></item><item><title>Tripletex</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/</guid><description>&lt;p&gt;Integrasjonen mellom Tripletex og KomplettNettbutikk hjelper små og store firma til en effektiv nettbutikkdrift!&lt;/p&gt;
+&lt;h2 id="les-mer-om-oppsett-og-muligheter"&gt;Les mer om oppsett og muligheter:&lt;/h2&gt;
+
+
+
+
+
+
+
+
+&lt;ul class='children children-li'&gt;
+	
+
+ 
+		
+			
+		
+	
+
+	
+
+	
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/oppsett/" &gt;Førstegangsoppsett&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/kunde/" &gt;Kunde&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/ordre/" &gt;Ordre&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/produkt-og-lager/" &gt;Produkt og lager&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/regnskap-l%C3%B8nn-og-support-til-fastpris/" &gt;Regnskap til fastpris&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/tripletex-som-betalingsl%C3%B8sning/" &gt;Tripletex som betalingsløsning&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+
+	
+&lt;/ul&gt;
+
+
+
+
+&lt;h2 id="har-du-ikke-nettbutikk-hos-oss-ennå"&gt;Har du ikke nettbutikk hos oss ennå?&lt;/h2&gt;
+&lt;p&gt;Ingen problem! Vi oppretter kjapt en demo til deg uten kostnad paralellt med at vi setter opp Tripletex-integrasjonen. Bruk skjemaet nederst på siden og dine ønsker for nettbutikk så tar vi kontakt!&lt;/p&gt;</description></item><item><title>Vipps</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/</guid><description>&lt;p&gt;Det er enkelt å få Vipps i din nettbutikk, og oppsettet er helt gratis!&lt;/p&gt;
+&lt;h2 id="hva-tilbyr-vi"&gt;Hva tilbyr vi?&lt;/h2&gt;
+&lt;p&gt;KomplettNetttbutikk har er partner med Vipps, og det er enkelt å sette opp i din nettbutikk. Oppsettet er helt gratis, og du kan velge en eller flere løsninger:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vipps Checkout&lt;/li&gt;
+&lt;li&gt;Vipps Betal på nett&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="vipps-checkout"&gt;Vipps Checkout&lt;/h2&gt;
+&lt;p&gt;Dette er komplett-løsningen til Vipps for betaling i nettbutikk og løsningen vi anbefaler for de fleste. Sluttkunden kan betale med sin &lt;strong&gt;Vipps&lt;/strong&gt;, &lt;strong&gt;kort&lt;/strong&gt; eller &lt;strong&gt;Vipps Senere&lt;/strong&gt; (Vipps Senere kommer snart og legges inn i løsningen fortløpende).&lt;/p&gt;</description></item></channel></rss>

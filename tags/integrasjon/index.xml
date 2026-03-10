@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Integrasjon on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/integrasjon/</link><description>Recent content in Integrasjon on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/integrasjon/index.xml" rel="self" type="application/rss+xml"/><item><title>Ordresynkronisering</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/fiken/ordresynkronisering/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/fiken/ordresynkronisering/</guid><description>&lt;h2 id="ordre-synkroniseres-på-følgende-vis"&gt;Ordre synkroniseres på følgende vis:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Nettbutikkordre overføres på valgt(e) status(er) og opprettes som Faktura i Fiken.&lt;/li&gt;
+&lt;li&gt;Man kan også velge om man ønsker at ordren skal markeres som betalt eller ikke, og evt. hvilken konto det skal føres mot. Dette gjøres per betalingsløsning i nettbutikken.&lt;/li&gt;
+&lt;li&gt;Ordrene er knyttet opp mot rett kunde i Fiken. Om kunden eksisterer, så brukes denne, om ikke opprettes ny. &lt;a href="../kundesynkronisering"&gt;Les mer om kundesynkronisering&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Produkter er knyttet opp mot rett produkt i Fiken slik at man får lagerstyring og salgsstatistikk i Fiken. &lt;a href="../produktsynkronisering"&gt;Les mer om produktsynkronisering&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Ordre som opprettes i Fiken, sendes ikke inn i nettbutikken, men for at lager skal holdes oppdatert, så kjøres lagersynkronisering jevnlig.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="viktig-å-vite"&gt;Viktig å vite&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fiken-integrasjonen kan oppleve utfordringer på ordre hvor man har en handlekurvrabatt på spesifikt produkt, samtidig som ordren har flere ulike mva-satser.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Pakkepost</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/pakkepost.no/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/pakkepost.no/</guid><description>&lt;h2 id="skriv-ut-fraktetiketter-direkte-i-nettbutikken-med-pakkepostno"&gt;Skriv ut fraktetiketter direkte i nettbutikken med pakkepost.no.&lt;/h2&gt;
+&lt;p&gt;Pakkepost tilbyr faste fraktpriser i hele Norge. 1-3 kg = 63,2 kr / 3-10 kg = 92 kr / 10-20 kg = 151,20 / 20-35kg = 175,2. Dette gjør det enkelt for deg og dine kunder.
+Pakkepost sender også enkelt og rimelig pakker til utlandet uten at du må kunne noe om toll eller eksport papirer.&lt;/p&gt;
+&lt;p&gt;Gjør som 10.000+ kunder og kom i gang med pakkepost i dag!&lt;/p&gt;</description></item><item><title>Innstillinger</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/innstillinger/_index.md/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/innstillinger/_index.md/</guid><description>&lt;h2 id="slik-setter-du-opp-vipps-i-din-nettbutikk"&gt;Slik setter du opp Vipps i din nettbutikk:&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Sørg for at du er ferdig med registrering og har fått et Vipps-nummer (MSN / Merchant Serial Number) for enten Vipps Checkout eller Vipps Betal på nett.&lt;/li&gt;
+&lt;li&gt;Send oss nummeret så vi kan legge det inn i din nettbutikk.&lt;/li&gt;
+&lt;li&gt;Logg deg inn i din nettbutikk og gå til &lt;strong&gt;Innstillinger&lt;/strong&gt; &amp;gt; &lt;strong&gt;Betaling&lt;/strong&gt; &amp;gt; &lt;strong&gt;Vipps&lt;/strong&gt; for å sette opp Vipps etter dine ønsker.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="legg-til-komplettnettbutikk-i-administrasjonpanelet"&gt;Legg til Komplettnettbutikk i administrasjonpanelet&lt;/h2&gt;
+&lt;p&gt;For at vi skal kunne hjelpe deg underveis er det veldig fint om du legger til Mads som bruker i ditt Vipps panel. Da blir det veldig mye enklere å hjelp og bistå deg.&lt;/p&gt;</description></item><item><title>Kundesynkronisering</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/fiken/kundesynkronisering/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/fiken/kundesynkronisering/</guid><description>&lt;h2 id="fra-fiken-til-nettbutikk"&gt;Fra Fiken til nettbutikk&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;For at kunder skal hentes fra Fiken og inn i nettbutikk må valget &amp;ldquo;Hent nye kunder/kontakter&amp;rdquo; være aktivert i Fiken-modulet i nettbutikken.&lt;/li&gt;
+&lt;li&gt;Du kan også velge om det er ønskelig at kontaktene i Fiken skal oppdatere/overskrive eventuelle forskjeller i kundedata som ligger i nettbutikken.&lt;/li&gt;
+&lt;li&gt;Overføring av kunder inn i nettbutikken skjer på intervall, f.eks. hver time&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="fra-nettbutikk-til-fiken"&gt;Fra nettbutikk til Fiken&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Overføring av kunde fra nettbutikken og til Fiken skjer samtidig som ordre/faktura-overføring.&lt;/li&gt;
+&lt;li&gt;Når en ordre skal overføres, søkes det opp om kunden eksisterer i Fiken fra før av, med søk i prioritert rekkefølge:
+&lt;ul&gt;
+&lt;li&gt;Hvis nettbutikkkunden-id eksisterer i feltet &amp;ldquo;medlemsnummer&amp;rdquo; på et kundekort i Fiken, så skal det knyttes opp mot denne kunden. Hvis ikke:&lt;/li&gt;
+&lt;li&gt;Hvis det eksisterer et organisasjonsnummer for nettbutikk-kunden så skal det søkes etter dette i Fiken. Er det en kunde med match, bruk den. Hvis ikke:&lt;/li&gt;
+&lt;li&gt;Hvis det eksisterer en kunde med samme epost i Fiken som i nettbutikken, bruk den kunden.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Hvis det finnes matchende kunde så vil det kundekortet oppdateres med data fra kunden/ordren i nettbutikken.&lt;/li&gt;
+&lt;li&gt;Hvis det ikke finnes en matchende kunde, så opprettes den.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="generelt"&gt;Generelt&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fordi Fiken bare har &amp;ldquo;navn&amp;rdquo; og ikke firma-navn + fornavn + etternavn, så vil navn i Fiken settes etter følgende logikk:
+&lt;ul&gt;
+&lt;li&gt;Har nettbutikk-kunden firmanavn, bruk det.&lt;/li&gt;
+&lt;li&gt;Hvis ikke bruk fornavn og etternavn.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Det er støtte for å hente første kontaktperson fra en kunde i Fiken. Om det er flere, så vil kun første kontaktperson hentes.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Produktsynkronisering</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/fiken/produktsynkronisering/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/fiken/produktsynkronisering/</guid><description>&lt;h2 id="produkter-synkroniseres-på-følgende-vis"&gt;Produkter synkroniseres på følgende vis:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Produkter synkroniseres begge veier&lt;/li&gt;
+&lt;li&gt;Nye produkter opprettes og eksisterende oppdateres&lt;/li&gt;
+&lt;li&gt;Det er valgfrihet om hvilke felter som skal overskrive&lt;/li&gt;
+&lt;li&gt;Med produkt-synk er det lekende lett for en Fiken-kunde som ikke har nettbutikk å få en nettbutikk oppe og gå på kort tid, og motsatt - en KomplettNettbuikk-kunde å få Fiken regnskap. Det betyr også at man bare trenger å oppdatere ett produkt-bibliotek og ett lager.&lt;/li&gt;
+&lt;li&gt;Mer info kommer&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Fiken som betalingsløsning</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/fiken/fiken-som-betalingsl%C3%B8sning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/fiken/fiken-som-betalingsl%C3%B8sning/</guid><description>&lt;h2 id="slik-kan-du-benytte-fiken-som-betalingsløsning-i-kassa"&gt;Slik kan du benytte Fiken som betalingsløsning i kassa&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Du kan nå tilby dine kunder &lt;strong&gt;Faktura&lt;/strong&gt; som betalingsløsning i din nettbutikk.&lt;/li&gt;
+&lt;li&gt;Fiken sender ut fakturaen for deg og oppfører seg på samme måte som om du hadde laget en faktura manuelt i Fiken.&lt;/li&gt;
+&lt;li&gt;Dersom du bruker kid-numre vil faktura automatisk følges opp i Fiken.&lt;/li&gt;
+&lt;li&gt;Når faktura er betalt i Fiken, så meldes status tilbake til nettbutikken og status settes til &amp;ldquo;Oppgjort i Fiken&amp;rdquo;. Du får derfor en selvgående faktura-flyt, spesielt om du bruker kidnumre på dine faktura.&lt;/li&gt;
+&lt;li&gt;Du kan legge på fakturagebyr og velge hvor lang forfallstid, og gjøre mange andre valg for dine faktura.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Facebook</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/facebook/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/facebook/</guid><description>&lt;p&gt;Her kan du legge til feed fra din egen facebook side. Du gjør dette enkelt ved å kopiere linken til facebooksiden din og limer den inn på &amp;ldquo;Facebook-side Page url.
+husk at du ikke må ta med &amp;ldquo;/&amp;rdquo; bakerst i url. Når du har gjort dette trykker du &amp;ldquo;lagre&amp;rdquo; og facebook feeden din er synlig i nettbutikken.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/facebook/2022-07-13-11-42-09.png" alt=""&gt;&lt;/p&gt;</description></item><item><title>Bestill Vipps Checkout</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/bestill-vipps-checkout/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/bestill-vipps-checkout/</guid><description>&lt;p&gt;Å få en nettbutikk med Vipps Checkout er enkelt og uten kostnad hos KomplettNettbutikk!&lt;/p&gt;
+&lt;p&gt;Bruk kontaktskjemaet nedenfor og beskriv dine behov, om du har nettbutikk hos KomplettNettbutikk fra før av eller om du ønsker å bli kunde samtidig med bestilling av Vipps Checkout.&lt;/p&gt;
+&lt;div class="contactform" id="contactform"&gt;
+ &lt;div class="header"&gt;
+ 📧 Kontakt oss
+ &lt;/div&gt;
+ &lt;div class="body"&gt; 
+ &lt;form 
+ name="kontakt" 
+ method="POST" 
+ data-netlify="true"
+ netlify-honeypot="rowboat" 
+ action="https://dokumentasjon.komplettnettbutikk.no/"&gt;
+ &lt;input type="hidden" name="to" value="andreas"&gt;
+ &lt;p class="ohnohoney"&gt;
+ &lt;label&gt;Roboter bes fylle ut dette: &lt;input name="rowboat" /&gt;&lt;/label&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+ &lt;label&gt;Navn/firma: &lt;input type="text" name="name" /&gt;&lt;/label&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+ &lt;label&gt;Epostadresse: &lt;input type="email" name="email" /&gt;&lt;/label&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+ &lt;label&gt;Melding: &lt;textarea name="message"&gt;Jeg ønsker Vipps Checkout i min nettbutikk!&lt;/textarea&gt;&lt;/label&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+ &lt;button class="btn btn-default submit" type="submit"&gt;Send&lt;/button&gt;
+ &lt;/p&gt;
+ &lt;/form&gt;
+ &lt;/div&gt; 
+&lt;/div&gt;</description></item><item><title>Integrasjon Fiken og KomplettNettbutikk</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/fiken/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/fiken/</guid><description>&lt;h2 id="slik-fungerer-integrasjonen"&gt;Slik fungerer integrasjonen:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Alle ordre overføres som faktura (betalt eller ubetalt), og alle fakturalinjer får koblet opp produktene, som gjør at man får lager til å trekke ned, får salgstatistikk på produktnivå og får god dokumentasjon både for sluttkunde og nettbutikk.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Det er også lagt opp til å kunne bruke Fiken som betalingsløsning i kassa (Betal med EHF/epost/e-faktura/vipps/brev-faktura) hvor betaling/oppgjør monitoreres og endrer status i nettbutikken til &amp;ldquo;Oppgjort i Fiken&amp;rdquo;.&lt;/p&gt;</description></item><item><title>Integrasjon mellom Visma.net ERP og KomplettNettbutikk</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/visma.net-erp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/visma.net-erp/</guid><description>&lt;h2 id="integrasjonen-består-i-dag-av-3-deler"&gt;Integrasjonen består i dag av 3 deler:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ordreoverføring:&lt;/strong&gt; ordre i nettbutikken oppretter salgsordre i Visma, med rett produkter og rett kunde.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lagersynkronisering:&lt;/strong&gt; lager trekker ned antall i Visma via salgsordre, og lager trekkes ned ved at nettbutikken leser lagerantall fra Visma.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Produktimport:&lt;/strong&gt; man kan importere produkter fra Visma og opprette disse i nettbutikken.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flere muligheter?&lt;/strong&gt; Det er mye mer som kan kobles opp! Ta kontakt med oss og skisser ditt behov.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="hvordan-komme-igang"&gt;Hvordan komme igang:&lt;/h2&gt;
+&lt;p&gt;Ta kontakt med oss for tilbud på oppsett og vedlikehold av integrasjon og nettbutikk. Kunder som bruker Visma.net ERP er som regel kunder med spesialiserte behov, og vi kan skreddersy integrasjonen og nettbutikken til de fleste behov.&lt;/p&gt;</description></item><item><title>Kunde</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/kunde/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/kunde/</guid><description>&lt;p&gt;Kunder overføres fra nettbutikken til Tripletex.&lt;/p&gt;
+&lt;h2 id="når-overføres-det"&gt;Når overføres det?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Kunder overføres ved ordreoverføring fra nettbutikken til Tripletex&lt;/li&gt;
+&lt;li&gt;Kunder søkes opp i Tripletex og knyttes opp om de eksisterer, eller opprettes om de ikke er der fra før.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="hva-overføres"&gt;Hva overføres?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Navn&lt;/li&gt;
+&lt;li&gt;Organisasjonsnummer&lt;/li&gt;
+&lt;li&gt;Epostadresse&lt;/li&gt;
+&lt;li&gt;Egendefinert faktura-adresse&lt;/li&gt;
+&lt;li&gt;Telefonnummer&lt;/li&gt;
+&lt;li&gt;Mobilnummer&lt;/li&gt;
+&lt;li&gt;Valgt faktureringsmetode (f.eks. EHF, epost, post)&lt;/li&gt;
+&lt;li&gt;Leveringsadresse&lt;/li&gt;
+&lt;li&gt;Fakturaadresse&lt;/li&gt;
+&lt;li&gt;Kundekategori (1. stk. kan velges i innstillinger)&lt;/li&gt;
+&lt;li&gt;Kundetype firma eller privat&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Ordre</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/ordre/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/ordre/</guid><description>&lt;h2 id="hva-overføres"&gt;Hva overføres?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dine nettbutikkordre overføres til Tripletex hvor det opprettes som en betalt faktura.&lt;/li&gt;
+&lt;li&gt;Ordrelinjer med navn og beskrivelse om du ikke har premiumversjon av integrasjon.&lt;/li&gt;
+&lt;li&gt;Ordrelinjer knyttes opp mot rett produkt i Tripletex.&lt;/li&gt;
+&lt;li&gt;Ordrelinjer med navn og beskrivelse om du ikke har premiumversjon av integrasjonen.&lt;/li&gt;
+&lt;li&gt;Rabatter&lt;/li&gt;
+&lt;li&gt;Frakt&lt;/li&gt;
+&lt;li&gt;Mva.&lt;/li&gt;
+&lt;li&gt;Kunder søkes opp i Tripletex og knyttes opp om de eksisterer, eller opprettes om de ikke er der fra før.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="når-overføres-det"&gt;Når overføres det?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ordre overføres omgående når de når valgfri ordrestatus i nettbutikken. Det kan være med en gang ordren kommer inn, eller f.eks. ved status &lt;em&gt;Sendt&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Salgsordre</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/visma.net-erp/salgsordre/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/visma.net-erp/salgsordre/</guid><description>&lt;p&gt;Integrasjonen sørger for å sende over dine nettbutikk-ordre til Visma og opprette disse som salgsordre.
+Salgsordrene inneholder produktlinjer, med pris, antall, beskrivelse hentet fra nettbutikken.&lt;/p&gt;
+&lt;h2 id="hvordan-matches-produkterlagervarer"&gt;Hvordan matches produkter/lagervarer&lt;/h2&gt;
+&lt;p&gt;I innstillinger for integrasjonen må man sette et standard Visma &lt;em&gt;produktnummer/varenummer/lagervarenummer&lt;/em&gt; som skal brukes dersom man har glemt å legge inn dette spesifikt på hvert produkt. Man kan f.eks. opprette en lagervare i Visma som heter &lt;em&gt;Annen vare, ikke tilknyttet&lt;/em&gt; som man bruker til dette formålet. I innstillingene setter man også et Visma &lt;em&gt;produktnummer/varenummer/lagervarenummer&lt;/em&gt; som skal brukes for frakt.
+Deretter må man legge inn Visma &lt;em&gt;produktnummer/varenummer/lagervarenummer&lt;/em&gt; som &lt;em&gt;produktets&lt;/em&gt; eller &lt;em&gt;produktkombinasjonens&lt;/em&gt;/&lt;em&gt;produktvariantens&lt;/em&gt; &lt;em&gt;referanse&lt;/em&gt; i nettbutikken på alle produkter. Da vil alle ordrelinjer knyttes opp mot rett produkt i Visma på salgsordre, og lager synkes på rett produkt/variant.&lt;/p&gt;</description></item><item><title>Takk for din bestilling av Tripletex-integrasjon!</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/integrasjon-landingsside/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/integrasjon-landingsside/</guid><description>&lt;p&gt;Vi setter nå igang og kobler opp din nettbutikk og Tripletex og vil kontakte deg for status fortløpende.&lt;/p&gt;</description></item><item><title>Tripletex</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/</guid><description>&lt;p&gt;Integrasjonen mellom Tripletex og KomplettNettbutikk hjelper små og store firma til en effektiv nettbutikkdrift!&lt;/p&gt;
+&lt;h2 id="les-mer-om-oppsett-og-muligheter"&gt;Les mer om oppsett og muligheter:&lt;/h2&gt;
+
+
+
+
+
+
+
+
+&lt;ul class='children children-li'&gt;
+	
+
+ 
+		
+			
+		
+	
+
+	
+
+	
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/oppsett/" &gt;Førstegangsoppsett&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/kunde/" &gt;Kunde&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/ordre/" &gt;Ordre&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/produkt-og-lager/" &gt;Produkt og lager&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/regnskap-l%C3%B8nn-og-support-til-fastpris/" &gt;Regnskap til fastpris&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/tripletex-som-betalingsl%C3%B8sning/" &gt;Tripletex som betalingsløsning&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+
+	
+&lt;/ul&gt;
+
+
+
+
+&lt;h2 id="har-du-ikke-nettbutikk-hos-oss-ennå"&gt;Har du ikke nettbutikk hos oss ennå?&lt;/h2&gt;
+&lt;p&gt;Ingen problem! Vi oppretter kjapt en demo til deg uten kostnad paralellt med at vi setter opp Tripletex-integrasjonen. Bruk skjemaet nederst på siden og dine ønsker for nettbutikk så tar vi kontakt!&lt;/p&gt;</description></item></channel></rss>

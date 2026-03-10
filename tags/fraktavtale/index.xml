@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fraktavtale on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/fraktavtale/</link><description>Recent content in Fraktavtale on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/fraktavtale/index.xml" rel="self" type="application/rss+xml"/><item><title>Bring Booking</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/bring/booking/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/bring/booking/</guid><description>&lt;h2 id="hvordan-sette-opp"&gt;Hvordan sette opp&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Logg inn på &lt;a href="https://www.mybring.com/useradmin/account/settings/api" target="_blank"&gt;mybring.com/useradmin/account/settings/api&lt;/a&gt; og hent API-nøkkel
+&lt;ul&gt;
+&lt;li&gt;Trykk &lt;code&gt;Generer API-nøkkel&lt;/code&gt; dersom du ikke har en fra før av&lt;/li&gt;
+&lt;li&gt;Kopier &lt;code&gt;Din API-nøkkel&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Merk deg også epostadressen du bruker for å logge inn på mybring. Denne kan du se under Profil eller ved å gå til &lt;a href="https://www.mybring.com/useradmin/account/profile" target="_blank"&gt;mybring.com/useradmin/account/profile&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Logg inn i din nettbutik og gå til &lt;strong&gt;Frakt&lt;/strong&gt; &amp;gt; &lt;strong&gt;Bring&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Lim inn API-nøkkelen fra punkt 1 i skjemaet og trykk &lt;strong&gt;Lagre&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Velg om du vil at avsender skal bruke butikkens kontaktinfo, eller om du vil fylle ut egen avsender. Sjekk at avsender-info ikke er mangelfull ved å trykke &lt;strong&gt;Lagre&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Velg de fraktmetodene du ønsker at skal dukke opp som valg når du skal skrive ut etiketter. Du kan også velge tilleggstjenester nedenfor. Avslutt med &lt;strong&gt;Lagre&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Du vil nå finne mulighet for å skrive ut Bring fraktetiketter inne på ordrene, samt i ordrelisten!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="nyttig-å-vite"&gt;Nyttig å vite:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bestilling av fraktetiketter er uforpliktende&lt;/strong&gt; inntill pakken faktisk leveres til Bring. Det er derfor ikke farlig å skrive ut en ny om du mistet/kastet den gamle.&lt;/li&gt;
+&lt;li&gt;Merk: om du har &lt;strong&gt;henteavtale med Bring, så blir du fakturert ved bestilling&lt;/strong&gt;. Avklar i slike tilfeller direkte med Bring.&lt;/li&gt;
+&lt;li&gt;Vekt/volum angitt på etikett settes ut ifra et &lt;strong&gt;estimat dersom du har denne info&lt;/strong&gt; i dine produkter, eller settes til en &lt;strong&gt;standardverdi&lt;/strong&gt; hvis ikke. &lt;br&gt;Uansett så vil du &lt;strong&gt;faktureres for pakkens reelle vekt/volum&lt;/strong&gt; da denne scannes og veies av Bring før.&lt;/li&gt;
+&lt;li&gt;Du velger selv hvilken fraktmetode som skal skrives ut på hvert enkelt ordre &lt;strong&gt;uavhengig&lt;/strong&gt; av hva kunden har valgt. Dersom du har mange ulike valg for kundene, så er det viktig at du merker deg kundens valg før du bestiller etiketten.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="problemer"&gt;Problemer?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Noen ganger kan det være at man ikke får til å skrive ut &lt;em&gt;Pakke i postkassen&lt;/em&gt; eller &lt;strong&gt;bare&lt;/strong&gt; &lt;em&gt;Pakke i postkassen&lt;/em&gt; men ikke de andre pakketypene. &lt;br&gt;Grunnen til dette er at feil kundenummer er valgt. Forsøk de ulike kundenumrene til du finner et kundenummer som kan benyttes for alle pakketyper.&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

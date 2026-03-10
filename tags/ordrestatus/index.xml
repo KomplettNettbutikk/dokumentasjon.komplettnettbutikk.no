@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ordrestatus on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/ordrestatus/</link><description>Recent content in Ordrestatus on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/ordrestatus/index.xml" rel="self" type="application/rss+xml"/><item><title>Ordresiden</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/ordre/ordresiden/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/ordre/ordresiden/</guid><description>&lt;p&gt;Delt inn i 6 seksjoner, gir siden deg alle detaljene om en bestilling.&lt;/p&gt;
+&lt;p&gt;Øverst på siden finner du et raskt sammendrag av bestillingen som inneholder:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ordre referanse&lt;/li&gt;
+&lt;li&gt;kundenavn&lt;/li&gt;
+&lt;li&gt;Totalpris&lt;/li&gt;
+&lt;li&gt;ordre dato og tidspunkt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/ordre/ordresiden/2022-07-04-14-46-21.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Øverst i venstre hjørne gir Kundedelen deg informasjon om kunden og evt. notater på kundekortet. Du kan trykke på mail adressen for å gå til kundekortet.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/ordre/ordresiden/2022-07-04-14-49-36.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Øverst i høyre hjørne gir produktseksjonen deg tilgang til ulike detaljer om de bestilte produktene.&lt;/p&gt;</description></item><item><title>Gavekort modul</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/gavekort-modul/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/gavekort-modul/</guid><description>&lt;p&gt;Dette er et betalt modul. Send oss mail hvis du ønsker å bestille.&lt;/p&gt;
+&lt;h2 id="innstillinger"&gt;Innstillinger&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/gavekort-modul/2022-12-14-13-24-25.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Du Finner to innstilinger for gavekort modulet.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ordrestatus som skal generere gavekort&lt;/strong&gt; Her setter du hvilken ordrestatus som skal lage og sende ut gavekortet. De fleste velger &amp;ldquo;betaling utført&amp;rdquo;. Da vil kunden få gavekort på mail rett etter at han har lagt inn bestilling. Gavekort blir sendt til mail adressen som kunden bestiller på. Ønsker han å gi deg bort kan han videresende mailen han for.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Her kan du se hvordan mailen ser ut:&lt;/p&gt;</description></item></channel></rss>

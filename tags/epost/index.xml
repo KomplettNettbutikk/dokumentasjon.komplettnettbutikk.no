@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Epost on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/epost/</link><description>Recent content in Epost on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/epost/index.xml" rel="self" type="application/rss+xml"/><item><title>Avanserte parametere</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/avanserte-parametere/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/avanserte-parametere/</guid><description>&lt;p&gt;&lt;strong&gt;Undersider:&lt;/strong&gt;
+
+
+
+
+
+
+
+
+&lt;ul class='children children-li'&gt;
+	
+
+ 
+		
+			
+		
+	
+
+	
+
+	
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/avanserte-parametere/epost/" &gt;Epost&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/avanserte-parametere/ansatte/" &gt;Ansatte/brukere&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+
+	
+&lt;/ul&gt;
+
+
+
+&lt;/p&gt;</description></item><item><title>Epost</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/avanserte-parametere/epost/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/avanserte-parametere/epost/</guid><description>&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/avanserte-parametere/epost/2022-07-15-11-46-03.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Den første delen av siden presenterer deg en liste over alle e-postene som har blitt sendt fra nettbutiken, med mottakeren, malen som ble brukt, språket i meldingen, emnet for e-posten og tiden for sending.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/avanserte-parametere/epost/2022-07-15-11-46-47.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Det er her du bestemmer hvordan e -postene dine blir sendt og mottatt.
+Skjemaet har tre sett med alternativer:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Send e-post til:&lt;/strong&gt; Dette er en front-end innstilling. På slutten av kassen kan en kunde legge igjen en melding til bedriften. Du kan velge hvem denne meldingen skal sendes ved å velge fra rullegardinlisten.For å legge til flere adresser, bør du gå til butikkinnstillinger &amp;gt; Kontakter.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;E -postparametere:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Hvordan e -post blir teknisk sendt. Velg blant de tre.&lt;/li&gt;
+&lt;li&gt;E -postformat: Hvordan e -post sendes visuelt.Velg blant de tre.Se nedenfor for mer informasjon.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Logg e -post&lt;/strong&gt; Deaktiver om du ikke lenger vil følge med på e -postene som er sendt av butikken din, som vist i e-postdelen ovenfor.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class="notices note" &gt;Vi anbefaler deg på det sterkeste at du konsulterer oss for å bestemme hvilke innstillinger du vil bruke for denne funksjonen.&lt;/div&gt;
+
+&lt;h3 id="test-din-e-postkonfigurasjon"&gt;Test din e-postkonfigurasjon&lt;/h3&gt;
+&lt;p&gt;Test at e-post utsendelsen fungerer med din egen e-postadresse i denne delen og klikk deretter på &amp;ldquo;Send en test-e-post&amp;rdquo;-knappen.
+Kontroller nå innboksen til adressen som er oppgitt for å bekrefte at du faktisk har mottatt test e-posten i riktig format. Hvis du ikke har mottatt denne ta kontakt med support.&lt;/p&gt;</description></item><item><title>Oppdater kontaktinfo</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/oppdater-kontaktinfo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/oppdater-kontaktinfo/</guid><description>&lt;p&gt;Her endrer du kontaktinfo til butikken.&lt;/p&gt;
+&lt;p&gt;Bruk følgende koder (med klammer) i tekstsider for å legge til dynamisk innhold fra dette skjemaet. Hvis du gjør dette vil de oppdatere seg automatisk når du gjør endringer her.&lt;/p&gt;
+&lt;p&gt;{PS_SHOP_NAME}, {PS_SHOP_EMAIL}, {PS_SHOP_ADDR1}, {PS_SHOP_ADDR2}, {PS_SHOP_CODE}, {PS_SHOP_CITY}, {PS_SHOP_PHONE}, {PS_SHOP_FAX}, {PS_SHOP_ORGNR}&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/oppdater-kontaktinfo/2022-07-13-14-41-42.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Når du har fulgt ut adressen har du noe flere valg som vi skal forklare her:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Vis kontaktinfo i footer&lt;/strong&gt; Som standard er dette valg. hvis du ønsker å ta bort kontakt info i bunn av siden du velger du bort dette.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ekstra tekst over og under footer&lt;/strong&gt; Dette feltet lar deg legge inn egen tekst over eller under kontakt infoen slik som vist på bilde under.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/oppdater-kontaktinfo/2022-07-13-14-46-49.png" alt=""&gt;&lt;/p&gt;</description></item><item><title>Epost-designvalg</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/epost-designvalg/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/epost-designvalg/</guid><description>&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/epost-designvalg/2022-07-13-14-58-51.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Her kan du velge om du vil vise KomplettNettbutikk i bunnen av mailene som går ut fra din nettbutikken.&lt;/p&gt;</description></item></channel></rss>

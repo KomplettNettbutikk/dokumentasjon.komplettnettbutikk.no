@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kundebase on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/kundebase/</link><description>Recent content in Kundebase on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/kundebase/index.xml" rel="self" type="application/rss+xml"/><item><title>Kunder</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/kunder/kunder/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/kunder/kunder/</guid><description>&lt;h1 id="dine-kunder"&gt;Dine kunder&lt;/h1&gt;
+&lt;p&gt;Den første siden under &amp;ldquo;kunde&amp;rdquo;-menyen gir deg en liste over alle de registrerte brukere i butikken din.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/kunder/kunder/2022-07-11-12-27-54.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Dette gir deg et fugleperspektiv over kundene dine med med mulighet til å sortere og søke på kontoer:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Id.&lt;/strong&gt; Den unike ID -en som er knyttet til kunden.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sosial tittel&lt;/strong&gt;. Kunder kan erklære sin sosiale tittel som er matcher med f.eks kjønn. Denne blir ikke brukt i dag hvis du ikke driver en nettbutikk som er avhengig av å få inn denne informasjonen.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fornavn og etternavn&lt;/strong&gt; Kundens navn.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;E-postadresse&lt;/strong&gt; E-postadressen kunden registrere seg med i butikken din.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Salg&lt;/strong&gt; Hvor mye kunden har handlet for i butikken din så langt.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Aktivert&lt;/strong&gt; Angir om kunden er aktiv eller ikke. Du kan deaktivere en konto ved å klikke på det grønne sjekkmerket.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nyhetsbrev&lt;/strong&gt; Angir om kunden er abonnert på butikkens nyhetsbrev eller ikke. Du kan melde ut kunden ved å klikke på det grønne sjekkmerket.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Partner tilbyr&lt;/strong&gt;. Angir om kontoen har akseptert å motta e-post fra partnerne dine eller ikke.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Registreringsdato og siste besøk&lt;/strong&gt; kan alltid være nyttig når du sorterer brukerkontoer.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Handlinger&lt;/strong&gt; Du kan redigere, se eller slette brukerens konto. Trykk på de tre prikkene for å få opp alle valg muligheter.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Under kunden er tabellen &amp;ldquo;Fyll ut nødvendig felter for denne seksjonen&amp;rdquo;-knappen. Det åpner et skjema der du kan indikere om et databasefelt er nødvendig eller ikke ved å merke av på passende bokser.&lt;/p&gt;</description></item></channel></rss>

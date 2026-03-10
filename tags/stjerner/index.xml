@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Stjerner on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/stjerner/</link><description>Recent content in Stjerner on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/stjerner/index.xml" rel="self" type="application/rss+xml"/><item><title>Modul for produktomtaler i nettbutikken</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/produkt--og-butikkomtaler/produktomtaler/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/produkt--og-butikkomtaler/produktomtaler/</guid><description>&lt;p&gt;KomplettNettbutikk har utviklet et modul for visning og innhenting av produktomtaler (og rating/stjerner) for dine produkter.&lt;/p&gt;
+&lt;h2 id="egenskaper"&gt;Egenskaper:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Viser frem stjerner på alle produkt-miniatyrer&lt;/li&gt;
+&lt;li&gt;Viser en liste over alle skrevne omtaler for produktene&lt;/li&gt;
+&lt;li&gt;Viser et skjema for å legge inn omtaler&lt;/li&gt;
+&lt;li&gt;Sender en automatisk epost til kundene X dager etter ordren er sendt, med forespørsel om å legge inn en omtale for produktene.&lt;/li&gt;
+&lt;li&gt;Har mulighet for å sende alle omtaler til Google Shopping om du benytter det, slik at produktene også får omtaler/rating inne i Google Shopping&lt;/li&gt;
+&lt;li&gt;Har mulighet til å i tillegg opprette en popup fra Google med forespørsel til kundene om å legge inn en anmeldelse av din nettbutikk og/eller produkter.&lt;/li&gt;
+&lt;li&gt;Har mulighet for visning av en badge/banner nederst i din nettbutikk med din rating fra Google Shopping reviews, dersom du har minst 100 unike omtaler hvert år i Norge.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Har du allerede en liste over omtaler fra et annet system? Ta kontakt så kanskje vi får til å importere disse.&lt;/p&gt;</description></item></channel></rss>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bring Fraktguiden on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/bring-fraktguiden/</link><description>Recent content in Bring Fraktguiden on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/bring-fraktguiden/index.xml" rel="self" type="application/rss+xml"/><item><title>Bring Fraktguiden</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/bring/fraktguiden/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/bring/fraktguiden/</guid><description>&lt;h2 id="hvordan-sette-opp"&gt;Hvordan sette opp&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Logg inn på &lt;a href="https://www.mybring.com/useradmin/account/settings/api" target="_blank"&gt;mybring.com/useradmin/account/settings/api&lt;/a&gt; og hent API-nøkkel
+&lt;ul&gt;
+&lt;li&gt;Trykk &lt;code&gt;Generer API-nøkkel&lt;/code&gt; dersom du ikke har en fra før av&lt;/li&gt;
+&lt;li&gt;Kopier &lt;code&gt;Din API-nøkkel&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Merk deg også epostadressen du bruker for å logge inn på mybring. Denne kan du se under Profil eller ved å gå til &lt;a href="https://www.mybring.com/useradmin/account/profile" target="_blank"&gt;mybring.com/useradmin/account/profile&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Logg inn i ditt nettbutikk kontrollpanel og gå til &lt;strong&gt;Frakt&lt;/strong&gt; &amp;gt; &lt;strong&gt;Bring fraktguiden&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Lim inn alt i dette skjemaet og trykk &lt;strong&gt;Lagre&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Velg en av kundenumrene i listen&lt;/li&gt;
+&lt;li&gt;Fyll inn avsender postnummer og landkode (no).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lagre&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Resten på denne siden kan ignoreres.&lt;/li&gt;
+&lt;li&gt;Gå til fanen &lt;em&gt;Transportørvalg&lt;/em&gt; for å sette opp hvilke transportører du vil vise for kundene dine og hvordan du vil prisene skal vises/endres.&lt;/li&gt;
+&lt;/ol&gt;</description></item></channel></rss>

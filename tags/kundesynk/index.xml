@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kundesynk on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/kundesynk/</link><description>Recent content in Kundesynk on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/kundesynk/index.xml" rel="self" type="application/rss+xml"/><item><title>Kundesynkronisering</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/fiken/kundesynkronisering/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/fiken/kundesynkronisering/</guid><description>&lt;h2 id="fra-fiken-til-nettbutikk"&gt;Fra Fiken til nettbutikk&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;For at kunder skal hentes fra Fiken og inn i nettbutikk må valget &amp;ldquo;Hent nye kunder/kontakter&amp;rdquo; være aktivert i Fiken-modulet i nettbutikken.&lt;/li&gt;
+&lt;li&gt;Du kan også velge om det er ønskelig at kontaktene i Fiken skal oppdatere/overskrive eventuelle forskjeller i kundedata som ligger i nettbutikken.&lt;/li&gt;
+&lt;li&gt;Overføring av kunder inn i nettbutikken skjer på intervall, f.eks. hver time&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="fra-nettbutikk-til-fiken"&gt;Fra nettbutikk til Fiken&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Overføring av kunde fra nettbutikken og til Fiken skjer samtidig som ordre/faktura-overføring.&lt;/li&gt;
+&lt;li&gt;Når en ordre skal overføres, søkes det opp om kunden eksisterer i Fiken fra før av, med søk i prioritert rekkefølge:
+&lt;ul&gt;
+&lt;li&gt;Hvis nettbutikkkunden-id eksisterer i feltet &amp;ldquo;medlemsnummer&amp;rdquo; på et kundekort i Fiken, så skal det knyttes opp mot denne kunden. Hvis ikke:&lt;/li&gt;
+&lt;li&gt;Hvis det eksisterer et organisasjonsnummer for nettbutikk-kunden så skal det søkes etter dette i Fiken. Er det en kunde med match, bruk den. Hvis ikke:&lt;/li&gt;
+&lt;li&gt;Hvis det eksisterer en kunde med samme epost i Fiken som i nettbutikken, bruk den kunden.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Hvis det finnes matchende kunde så vil det kundekortet oppdateres med data fra kunden/ordren i nettbutikken.&lt;/li&gt;
+&lt;li&gt;Hvis det ikke finnes en matchende kunde, så opprettes den.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="generelt"&gt;Generelt&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fordi Fiken bare har &amp;ldquo;navn&amp;rdquo; og ikke firma-navn + fornavn + etternavn, så vil navn i Fiken settes etter følgende logikk:
+&lt;ul&gt;
+&lt;li&gt;Har nettbutikk-kunden firmanavn, bruk det.&lt;/li&gt;
+&lt;li&gt;Hvis ikke bruk fornavn og etternavn.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Det er støtte for å hente første kontaktperson fra en kunde i Fiken. Om det er flere, så vil kun første kontaktperson hentes.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Kunde</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/kunde/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/kunde/</guid><description>&lt;p&gt;Kunder overføres fra nettbutikken til Tripletex.&lt;/p&gt;
+&lt;h2 id="når-overføres-det"&gt;Når overføres det?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Kunder overføres ved ordreoverføring fra nettbutikken til Tripletex&lt;/li&gt;
+&lt;li&gt;Kunder søkes opp i Tripletex og knyttes opp om de eksisterer, eller opprettes om de ikke er der fra før.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="hva-overføres"&gt;Hva overføres?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Navn&lt;/li&gt;
+&lt;li&gt;Organisasjonsnummer&lt;/li&gt;
+&lt;li&gt;Epostadresse&lt;/li&gt;
+&lt;li&gt;Egendefinert faktura-adresse&lt;/li&gt;
+&lt;li&gt;Telefonnummer&lt;/li&gt;
+&lt;li&gt;Mobilnummer&lt;/li&gt;
+&lt;li&gt;Valgt faktureringsmetode (f.eks. EHF, epost, post)&lt;/li&gt;
+&lt;li&gt;Leveringsadresse&lt;/li&gt;
+&lt;li&gt;Fakturaadresse&lt;/li&gt;
+&lt;li&gt;Kundekategori (1. stk. kan velges i innstillinger)&lt;/li&gt;
+&lt;li&gt;Kundetype firma eller privat&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Tripletex</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/</guid><description>&lt;p&gt;Integrasjonen mellom Tripletex og KomplettNettbutikk hjelper små og store firma til en effektiv nettbutikkdrift!&lt;/p&gt;
+&lt;h2 id="les-mer-om-oppsett-og-muligheter"&gt;Les mer om oppsett og muligheter:&lt;/h2&gt;
+
+
+
+
+
+
+
+
+&lt;ul class='children children-li'&gt;
+	
+
+ 
+		
+			
+		
+	
+
+	
+
+	
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/oppsett/" &gt;Førstegangsoppsett&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/kunde/" &gt;Kunde&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/ordre/" &gt;Ordre&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/produkt-og-lager/" &gt;Produkt og lager&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/regnskap-l%C3%B8nn-og-support-til-fastpris/" &gt;Regnskap til fastpris&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/tripletex-som-betalingsl%C3%B8sning/" &gt;Tripletex som betalingsløsning&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+
+	
+&lt;/ul&gt;
+
+
+
+
+&lt;h2 id="har-du-ikke-nettbutikk-hos-oss-ennå"&gt;Har du ikke nettbutikk hos oss ennå?&lt;/h2&gt;
+&lt;p&gt;Ingen problem! Vi oppretter kjapt en demo til deg uten kostnad paralellt med at vi setter opp Tripletex-integrasjonen. Bruk skjemaet nederst på siden og dine ønsker for nettbutikk så tar vi kontakt!&lt;/p&gt;</description></item></channel></rss>

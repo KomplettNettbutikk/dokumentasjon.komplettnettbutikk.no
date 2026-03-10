@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Betalingsmetode on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/betalingsmetode/</link><description>Recent content in Betalingsmetode on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/betalingsmetode/index.xml" rel="self" type="application/rss+xml"/><item><title>Fiken som betalingsløsning</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/fiken/fiken-som-betalingsl%C3%B8sning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/fiken/fiken-som-betalingsl%C3%B8sning/</guid><description>&lt;h2 id="slik-kan-du-benytte-fiken-som-betalingsløsning-i-kassa"&gt;Slik kan du benytte Fiken som betalingsløsning i kassa&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Du kan nå tilby dine kunder &lt;strong&gt;Faktura&lt;/strong&gt; som betalingsløsning i din nettbutikk.&lt;/li&gt;
+&lt;li&gt;Fiken sender ut fakturaen for deg og oppfører seg på samme måte som om du hadde laget en faktura manuelt i Fiken.&lt;/li&gt;
+&lt;li&gt;Dersom du bruker kid-numre vil faktura automatisk følges opp i Fiken.&lt;/li&gt;
+&lt;li&gt;Når faktura er betalt i Fiken, så meldes status tilbake til nettbutikken og status settes til &amp;ldquo;Oppgjort i Fiken&amp;rdquo;. Du får derfor en selvgående faktura-flyt, spesielt om du bruker kidnumre på dine faktura.&lt;/li&gt;
+&lt;li&gt;Du kan legge på fakturagebyr og velge hvor lang forfallstid, og gjøre mange andre valg for dine faktura.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Bestill Vipps Checkout</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/bestill-vipps-checkout/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/bestill-vipps-checkout/</guid><description>&lt;p&gt;Å få en nettbutikk med Vipps Checkout er enkelt og uten kostnad hos KomplettNettbutikk!&lt;/p&gt;
+&lt;p&gt;Bruk kontaktskjemaet nedenfor og beskriv dine behov, om du har nettbutikk hos KomplettNettbutikk fra før av eller om du ønsker å bli kunde samtidig med bestilling av Vipps Checkout.&lt;/p&gt;
+&lt;div class="contactform" id="contactform"&gt;
+ &lt;div class="header"&gt;
+ 📧 Kontakt oss
+ &lt;/div&gt;
+ &lt;div class="body"&gt; 
+ &lt;form 
+ name="kontakt" 
+ method="POST" 
+ data-netlify="true"
+ netlify-honeypot="rowboat" 
+ action="https://dokumentasjon.komplettnettbutikk.no/"&gt;
+ &lt;input type="hidden" name="to" value="andreas"&gt;
+ &lt;p class="ohnohoney"&gt;
+ &lt;label&gt;Roboter bes fylle ut dette: &lt;input name="rowboat" /&gt;&lt;/label&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+ &lt;label&gt;Navn/firma: &lt;input type="text" name="name" /&gt;&lt;/label&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+ &lt;label&gt;Epostadresse: &lt;input type="email" name="email" /&gt;&lt;/label&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+ &lt;label&gt;Melding: &lt;textarea name="message"&gt;Jeg ønsker Vipps Checkout i min nettbutikk!&lt;/textarea&gt;&lt;/label&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+ &lt;button class="btn btn-default submit" type="submit"&gt;Send&lt;/button&gt;
+ &lt;/p&gt;
+ &lt;/form&gt;
+ &lt;/div&gt; 
+&lt;/div&gt;</description></item></channel></rss>

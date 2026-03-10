@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lagersynk on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/lagersynk/</link><description>Recent content in Lagersynk on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/lagersynk/index.xml" rel="self" type="application/rss+xml"/><item><title>Ordresynkronisering</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/fiken/ordresynkronisering/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/fiken/ordresynkronisering/</guid><description>&lt;h2 id="ordre-synkroniseres-på-følgende-vis"&gt;Ordre synkroniseres på følgende vis:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Nettbutikkordre overføres på valgt(e) status(er) og opprettes som Faktura i Fiken.&lt;/li&gt;
+&lt;li&gt;Man kan også velge om man ønsker at ordren skal markeres som betalt eller ikke, og evt. hvilken konto det skal føres mot. Dette gjøres per betalingsløsning i nettbutikken.&lt;/li&gt;
+&lt;li&gt;Ordrene er knyttet opp mot rett kunde i Fiken. Om kunden eksisterer, så brukes denne, om ikke opprettes ny. &lt;a href="../kundesynkronisering"&gt;Les mer om kundesynkronisering&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Produkter er knyttet opp mot rett produkt i Fiken slik at man får lagerstyring og salgsstatistikk i Fiken. &lt;a href="../produktsynkronisering"&gt;Les mer om produktsynkronisering&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Ordre som opprettes i Fiken, sendes ikke inn i nettbutikken, men for at lager skal holdes oppdatert, så kjøres lagersynkronisering jevnlig.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="viktig-å-vite"&gt;Viktig å vite&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fiken-integrasjonen kan oppleve utfordringer på ordre hvor man har en handlekurvrabatt på spesifikt produkt, samtidig som ordren har flere ulike mva-satser.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Lager</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/visma.net-erp/lagersynkronisering/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/visma.net-erp/lagersynkronisering/</guid><description>&lt;p&gt;Ved et gitt tidsintervall (f.eks. hvert 5. min) hentes lageroppdateringer fra Visma til nettbutikken, slik at nettbutikken alltid har rett lagersaldo på produktene som matcher mellom systemene. Ordreoverføring fra nettbutikken til Visma sørger langersynk den andre veien, og oppdateringene skjer så fort man har endret til ønsket status i nettbutikken.&lt;/p&gt;
+&lt;h2 id="hvordan-matches-produkterlagervarer-på-salgsordre"&gt;Hvordan matches produkter/lagervarer på salgsordre?&lt;/h2&gt;
+&lt;p&gt;Ved ordreoverføring så vil integrasjonen se etter rett produktnummer:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Produkt/variant-referanse i nettbutikken. Dersom dette ikke er satt:&lt;/li&gt;
+&lt;li&gt;Brukes &lt;em&gt;standard Visma produktnummer/varenummer/lagervarenummer&lt;/em&gt; som settes i innstillingene. Man kan f.eks. opprette en lagervare i Visma som heter &lt;em&gt;Annen vare, ikke tilknyttet&lt;/em&gt; som man bruker til dette formålet.&lt;/li&gt;
+&lt;li&gt;I innstillingene setter man også et Visma &lt;em&gt;produktnummer/varenummer/lagervarenummer&lt;/em&gt; som skal brukes for frakt.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="hvordan-matches-produkterlagervarer-med-lagersynk"&gt;Hvordan matches produkter/lagervarer med lagersynk?&lt;/h2&gt;
+&lt;p&gt;Når vi henter lageroppdateringer fra Visma, så sjekker vi om nettbutikken har produkter eller varianter med de produktnumrene som kommer fra Visma. Om det finnes match, så får nettbutikken oppdatert lagersaldo på de produktene.&lt;/p&gt;</description></item><item><title>Overføring ut fra Tripletex, inn i nettbutikken</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/produkt-og-lager/til-nettbutikken/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/produkt-og-lager/til-nettbutikken/</guid><description>&lt;h2 id="aktivering-og-oppsett-av-funksjonen"&gt;Aktivering og oppsett av funksjonen&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Gå til nettbutikkens kontrollpanel&lt;/li&gt;
+&lt;li&gt;Gå til &lt;strong&gt;Tripletex&lt;/strong&gt; &amp;gt; &lt;strong&gt;Innstillinger&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Scroll ned til du kommer til &lt;strong&gt;Produkt-opprettelse i nettbutikken&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Velg om du vil at nye produkter skal opprettes og om de skal være aktive eller ikke&lt;/li&gt;
+&lt;li&gt;Scroll videre ned til &lt;strong&gt;Produkt-oppdatering i nettbutikken&lt;/strong&gt; og velg alle felter du vil nettbutikken skal motta oppdateringer for.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="hva-overføres-du-kan-velge-selv-hvilke-som-skal-være-aktiv-eller-ikke"&gt;Hva overføres? (Du kan velge selv hvilke som skal være aktiv eller ikke)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Produktnummmer/referanse blir alltid overført, da det er dette som er nøkkelen ved overføring mellom systemene. Produkter uten produktnummer/referanse synkes ikke.&lt;/li&gt;
+&lt;li&gt;Produktnavn&lt;/li&gt;
+&lt;li&gt;Lagerantall, med mulighet for å hente en summering fra ett eller flere lager i Logistikk pluss&lt;/li&gt;
+&lt;li&gt;Kort-beskrivelse&lt;/li&gt;
+&lt;li&gt;Innkjøpspris på produkter&lt;/li&gt;
+&lt;li&gt;Innkjøpspris på produktvarianter&lt;/li&gt;
+&lt;li&gt;Pris på produkter&lt;/li&gt;
+&lt;li&gt;Pris på varianter&lt;/li&gt;
+&lt;li&gt;MVA.&lt;/li&gt;
+&lt;li&gt;EAN13 på produkter&lt;/li&gt;
+&lt;li&gt;EAN13 på produktvarianter&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="hvordan-igangsette-en-synk"&gt;Hvordan igangsette en synk&lt;/h2&gt;</description></item><item><title>Produkt og lager</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/produkt-og-lager/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/produkt-og-lager/</guid><description>&lt;ul class='children children-li'&gt;
+	
+
+ 
+		
+	
+
+	
+
+	
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/produkt-og-lager/fra-nettbutikken/" &gt;Fra nettbutikk til Tripletex&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/produkt-og-lager/til-nettbutikken/" &gt;Fra Tripletex til nettbutikk&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+
+	
+&lt;/ul&gt;</description></item></channel></rss>

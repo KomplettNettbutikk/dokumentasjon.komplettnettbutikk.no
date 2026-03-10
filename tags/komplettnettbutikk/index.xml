@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>KomplettNettbutikk on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/komplettnettbutikk/</link><description>Recent content in KomplettNettbutikk on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/komplettnettbutikk/index.xml" rel="self" type="application/rss+xml"/><item><title>Det er enkelt å starte sin egen nettbutikk hos KomplettNettbutikk.no</title><link>https://dokumentasjon.komplettnettbutikk.no/slik-starter-du-en-nettbutikk/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/slik-starter-du-en-nettbutikk/</guid><description>&lt;ol&gt;
+&lt;li&gt;&lt;a href="https://admin.komplettnettbutikk.no/registrer/"&gt;Registrering&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Nettbutikken opprettes automatisk og du får en link på epost og sms&lt;/li&gt;
+&lt;li&gt;Vi tar kontakt med deg for å hjelpe deg i gang, vise deg systemet og diskutere gode løsninger for ditt behov&lt;/li&gt;
+&lt;li&gt;Vi hjelper deg å lansere nettbutikken.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Det er ingen krav om å være teknisk anlagt, og det er på ingen måte slik at du må lære deg alt fra dag én.
+Husk at det er gratis support på chat, telefon og epost, opplæringsvideoer, samt denne dokumentasjonen. Alt dette til sammen gjør det enkelt for enhver å drive sin egen nettbutikk.&lt;/p&gt;</description></item><item><title>Innstillinger</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/innstillinger/_index.md/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/innstillinger/_index.md/</guid><description>&lt;h2 id="slik-setter-du-opp-vipps-i-din-nettbutikk"&gt;Slik setter du opp Vipps i din nettbutikk:&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Sørg for at du er ferdig med registrering og har fått et Vipps-nummer (MSN / Merchant Serial Number) for enten Vipps Checkout eller Vipps Betal på nett.&lt;/li&gt;
+&lt;li&gt;Send oss nummeret så vi kan legge det inn i din nettbutikk.&lt;/li&gt;
+&lt;li&gt;Logg deg inn i din nettbutikk og gå til &lt;strong&gt;Innstillinger&lt;/strong&gt; &amp;gt; &lt;strong&gt;Betaling&lt;/strong&gt; &amp;gt; &lt;strong&gt;Vipps&lt;/strong&gt; for å sette opp Vipps etter dine ønsker.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="legg-til-komplettnettbutikk-i-administrasjonpanelet"&gt;Legg til Komplettnettbutikk i administrasjonpanelet&lt;/h2&gt;
+&lt;p&gt;For at vi skal kunne hjelpe deg underveis er det veldig fint om du legger til Mads som bruker i ditt Vipps panel. Da blir det veldig mye enklere å hjelp og bistå deg.&lt;/p&gt;</description></item><item><title>Modul for produktomtaler i nettbutikken</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/produkt--og-butikkomtaler/produktomtaler/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/produkt--og-butikkomtaler/produktomtaler/</guid><description>&lt;p&gt;KomplettNettbutikk har utviklet et modul for visning og innhenting av produktomtaler (og rating/stjerner) for dine produkter.&lt;/p&gt;
+&lt;h2 id="egenskaper"&gt;Egenskaper:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Viser frem stjerner på alle produkt-miniatyrer&lt;/li&gt;
+&lt;li&gt;Viser en liste over alle skrevne omtaler for produktene&lt;/li&gt;
+&lt;li&gt;Viser et skjema for å legge inn omtaler&lt;/li&gt;
+&lt;li&gt;Sender en automatisk epost til kundene X dager etter ordren er sendt, med forespørsel om å legge inn en omtale for produktene.&lt;/li&gt;
+&lt;li&gt;Har mulighet for å sende alle omtaler til Google Shopping om du benytter det, slik at produktene også får omtaler/rating inne i Google Shopping&lt;/li&gt;
+&lt;li&gt;Har mulighet til å i tillegg opprette en popup fra Google med forespørsel til kundene om å legge inn en anmeldelse av din nettbutikk og/eller produkter.&lt;/li&gt;
+&lt;li&gt;Har mulighet for visning av en badge/banner nederst i din nettbutikk med din rating fra Google Shopping reviews, dersom du har minst 100 unike omtaler hvert år i Norge.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Har du allerede en liste over omtaler fra et annet system? Ta kontakt så kanskje vi får til å importere disse.&lt;/p&gt;</description></item><item><title>Ordre</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/ordre/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/ordre/</guid><description>&lt;p&gt;Som butikksjef må du håndtere en mengde med ordre, faktura og kundehenvendelser. Å starte arbeidsdagen med mange innkommende ordre er en gledelig start på dagen, men oppgaven kan kanskje være skremmende. Heldigvis har Komplettnettbutikk gjort sitt beste for at denne prosessen skal bli som effektiv som mulig. Du skal lett kunne håndtere kundenes kjøp og eventuelle retur/kreditnota i etterkant av kjøpet.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/ordre/2022-05-23-15-56-18.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Under ordresiden vil du få opp all informasjon om kjøpene på din nettbutikk. Alle ordretransaksjoner er tilgjengelig her, organisert etter dato. Som standard er det stilt inn på å liste opp fra nyeste til eldste. Du kan lett filtrere resultatene for å finne ordrene du leter etter. Kanskje ønsker du å liste ut alle ordre som er Under behandling. Da går du til rullegardinen Vist og velger Under behandling og deretter Søk helt til høyre. Du får da listet opp alle ordre som har statusen Under behandling. Slik kan du gjøre med alle felt. I tillegg kan du sortere alle felt fra høy til lav ved å trykke på pil opp og ned ved siden av betegnelsen (f.eks. ID, Referanse etc.).&lt;/p&gt;</description></item><item><title>Moduler</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/moduler/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/moduler/</guid><description>&lt;p&gt;Du finner mer informasjon om enkelt modulet under &lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/"&gt;Moduler og integrasjoner&lt;/a&gt; i hovedmenyen.&lt;/p&gt;
+&lt;p&gt;KomplettNettbutikk kommer med veldig mange moduler som standard og vil dekke de flestes behov. Har snakker vi om ca. 100 tilleggsmoduler som leveres uten ekstra kostnad.&lt;/p&gt;
+&lt;p&gt;Har du behov for noe spesial funksjonalitet har vi mulighet til å utvikle et modul akkurat etter dine ønsker, men i de fleste tilfeller ligger funksjonaliteten innebygd. Finner du ikke funksjonaliteten du ønsker så ta kontakt med oss så skal vi hjelpe deg.&lt;/p&gt;</description></item><item><title>Bestill Vipps Checkout</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/bestill-vipps-checkout/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/bestill-vipps-checkout/</guid><description>&lt;p&gt;Å få en nettbutikk med Vipps Checkout er enkelt og uten kostnad hos KomplettNettbutikk!&lt;/p&gt;
+&lt;p&gt;Bruk kontaktskjemaet nedenfor og beskriv dine behov, om du har nettbutikk hos KomplettNettbutikk fra før av eller om du ønsker å bli kunde samtidig med bestilling av Vipps Checkout.&lt;/p&gt;
+&lt;div class="contactform" id="contactform"&gt;
+ &lt;div class="header"&gt;
+ 📧 Kontakt oss
+ &lt;/div&gt;
+ &lt;div class="body"&gt; 
+ &lt;form 
+ name="kontakt" 
+ method="POST" 
+ data-netlify="true"
+ netlify-honeypot="rowboat" 
+ action="https://dokumentasjon.komplettnettbutikk.no/"&gt;
+ &lt;input type="hidden" name="to" value="andreas"&gt;
+ &lt;p class="ohnohoney"&gt;
+ &lt;label&gt;Roboter bes fylle ut dette: &lt;input name="rowboat" /&gt;&lt;/label&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+ &lt;label&gt;Navn/firma: &lt;input type="text" name="name" /&gt;&lt;/label&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+ &lt;label&gt;Epostadresse: &lt;input type="email" name="email" /&gt;&lt;/label&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+ &lt;label&gt;Melding: &lt;textarea name="message"&gt;Jeg ønsker Vipps Checkout i min nettbutikk!&lt;/textarea&gt;&lt;/label&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+ &lt;button class="btn btn-default submit" type="submit"&gt;Send&lt;/button&gt;
+ &lt;/p&gt;
+ &lt;/form&gt;
+ &lt;/div&gt; 
+&lt;/div&gt;</description></item><item><title>Integrasjon mellom Visma.net ERP og KomplettNettbutikk</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/visma.net-erp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/visma.net-erp/</guid><description>&lt;h2 id="integrasjonen-består-i-dag-av-3-deler"&gt;Integrasjonen består i dag av 3 deler:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ordreoverføring:&lt;/strong&gt; ordre i nettbutikken oppretter salgsordre i Visma, med rett produkter og rett kunde.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lagersynkronisering:&lt;/strong&gt; lager trekker ned antall i Visma via salgsordre, og lager trekkes ned ved at nettbutikken leser lagerantall fra Visma.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Produktimport:&lt;/strong&gt; man kan importere produkter fra Visma og opprette disse i nettbutikken.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flere muligheter?&lt;/strong&gt; Det er mye mer som kan kobles opp! Ta kontakt med oss og skisser ditt behov.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="hvordan-komme-igang"&gt;Hvordan komme igang:&lt;/h2&gt;
+&lt;p&gt;Ta kontakt med oss for tilbud på oppsett og vedlikehold av integrasjon og nettbutikk. Kunder som bruker Visma.net ERP er som regel kunder med spesialiserte behov, og vi kan skreddersy integrasjonen og nettbutikken til de fleste behov.&lt;/p&gt;</description></item><item><title>Vipps</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/</guid><description>&lt;p&gt;Det er enkelt å få Vipps i din nettbutikk, og oppsettet er helt gratis!&lt;/p&gt;
+&lt;h2 id="hva-tilbyr-vi"&gt;Hva tilbyr vi?&lt;/h2&gt;
+&lt;p&gt;KomplettNetttbutikk har er partner med Vipps, og det er enkelt å sette opp i din nettbutikk. Oppsettet er helt gratis, og du kan velge en eller flere løsninger:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vipps Checkout&lt;/li&gt;
+&lt;li&gt;Vipps Betal på nett&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="vipps-checkout"&gt;Vipps Checkout&lt;/h2&gt;
+&lt;p&gt;Dette er komplett-løsningen til Vipps for betaling i nettbutikk og løsningen vi anbefaler for de fleste. Sluttkunden kan betale med sin &lt;strong&gt;Vipps&lt;/strong&gt;, &lt;strong&gt;kort&lt;/strong&gt; eller &lt;strong&gt;Vipps Senere&lt;/strong&gt; (Vipps Senere kommer snart og legges inn i løsningen fortløpende).&lt;/p&gt;</description></item></channel></rss>

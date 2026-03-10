@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vipps on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/vipps/</link><description>Recent content in Vipps on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/vipps/index.xml" rel="self" type="application/rss+xml"/><item><title>Registrering</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/onboarding/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/onboarding/</guid><description>&lt;p&gt;Du startet registrering hos &lt;a href="https://vipps.no/" target="_blank"&gt;Vipps.no&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="1-velge-bli-bedriftskunde"&gt;1. Velge bli bedriftskunde&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/onboarding/vipps_onboarding1.png" alt=""&gt;&lt;/p&gt;
+&lt;h3 id="2-velg-å-bli-kunden-med-bankid"&gt;2. Velg å bli kunden med BankID.&lt;/h3&gt;
+&lt;p&gt;Hvis du er kunde fra før kan du trykke på pilen nederst i høyre hjørne.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/onboarding/vipps_onboarding2.png" alt=""&gt;&lt;/p&gt;
+&lt;h3 id="3-fyll-inn-ditt-fødselsnummer"&gt;3. Fyll inn ditt fødselsnummer&lt;/h3&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/onboarding/vipps_onboarding3.png" alt=""&gt;&lt;/p&gt;
+&lt;h3 id="4-opprett-ny-bedriftsavtale"&gt;4. Opprett ny bedriftsavtale&lt;/h3&gt;
+&lt;p&gt;Hvis du allerede er kunde velger du firmaet ved å trykke pilen til høyre bak firmanavn.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/onboarding/vipps_onboarding4.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Hvis du allerede har Vipps avtale trykker du slik som vist på bilde etter at du har logget inn:&lt;/p&gt;</description></item><item><title>Innstillinger</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/innstillinger/_index.md/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/innstillinger/_index.md/</guid><description>&lt;h2 id="slik-setter-du-opp-vipps-i-din-nettbutikk"&gt;Slik setter du opp Vipps i din nettbutikk:&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Sørg for at du er ferdig med registrering og har fått et Vipps-nummer (MSN / Merchant Serial Number) for enten Vipps Checkout eller Vipps Betal på nett.&lt;/li&gt;
+&lt;li&gt;Send oss nummeret så vi kan legge det inn i din nettbutikk.&lt;/li&gt;
+&lt;li&gt;Logg deg inn i din nettbutikk og gå til &lt;strong&gt;Innstillinger&lt;/strong&gt; &amp;gt; &lt;strong&gt;Betaling&lt;/strong&gt; &amp;gt; &lt;strong&gt;Vipps&lt;/strong&gt; for å sette opp Vipps etter dine ønsker.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="legg-til-komplettnettbutikk-i-administrasjonpanelet"&gt;Legg til Komplettnettbutikk i administrasjonpanelet&lt;/h2&gt;
+&lt;p&gt;For at vi skal kunne hjelpe deg underveis er det veldig fint om du legger til Mads som bruker i ditt Vipps panel. Da blir det veldig mye enklere å hjelp og bistå deg.&lt;/p&gt;</description></item><item><title>Vipps</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/</guid><description>&lt;p&gt;Det er enkelt å få Vipps i din nettbutikk, og oppsettet er helt gratis!&lt;/p&gt;
+&lt;h2 id="hva-tilbyr-vi"&gt;Hva tilbyr vi?&lt;/h2&gt;
+&lt;p&gt;KomplettNetttbutikk har er partner med Vipps, og det er enkelt å sette opp i din nettbutikk. Oppsettet er helt gratis, og du kan velge en eller flere løsninger:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vipps Checkout&lt;/li&gt;
+&lt;li&gt;Vipps Betal på nett&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="vipps-checkout"&gt;Vipps Checkout&lt;/h2&gt;
+&lt;p&gt;Dette er komplett-løsningen til Vipps for betaling i nettbutikk og løsningen vi anbefaler for de fleste. Sluttkunden kan betale med sin &lt;strong&gt;Vipps&lt;/strong&gt;, &lt;strong&gt;kort&lt;/strong&gt; eller &lt;strong&gt;Vipps Senere&lt;/strong&gt; (Vipps Senere kommer snart og legges inn i løsningen fortløpende).&lt;/p&gt;</description></item></channel></rss>

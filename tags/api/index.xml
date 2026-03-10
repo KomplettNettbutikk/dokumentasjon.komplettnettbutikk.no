@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>API on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/api/</link><description>Recent content in API on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/api/index.xml" rel="self" type="application/rss+xml"/><item><title>Moduler og integrasjoner</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/</guid><description>&lt;p&gt;KomplettNettbutikk kommer med veldig mange moduler som standard og vil dekke de flestes behov. Her snakker vi om ca. 100 tilleggsmoduler som leveres uten ekstra kostnad.&lt;/p&gt;
+&lt;p&gt;Har du behov for noe spesial funksjonalitet har vi mulighet til å utvikle et modul akkurat etter dine ønsker, men i de fleste tilfeller ligger funksjonaliteten innebygd. Finner du ikke funksjonaliteten du ønsker så ta kontakt med oss så skal vi hjelpe deg.&lt;/p&gt;
+&lt;p&gt;Vi har også vår egen &lt;a href="https://kunde.komplettnettbutikk.no/" target="_blank"&gt;modulbutikk&lt;/a&gt; der vi selger flere tilleggsmoduler. Dette kan f.eks være avanserte integrasjoner mot regnskap som Tripletex, Fiken og Visma.net, flere betalingsløsninger, chatløsninger etc.&lt;/p&gt;</description></item><item><title>Bring Booking</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/bring/booking/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/bring/booking/</guid><description>&lt;h2 id="hvordan-sette-opp"&gt;Hvordan sette opp&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Logg inn på &lt;a href="https://www.mybring.com/useradmin/account/settings/api" target="_blank"&gt;mybring.com/useradmin/account/settings/api&lt;/a&gt; og hent API-nøkkel
+&lt;ul&gt;
+&lt;li&gt;Trykk &lt;code&gt;Generer API-nøkkel&lt;/code&gt; dersom du ikke har en fra før av&lt;/li&gt;
+&lt;li&gt;Kopier &lt;code&gt;Din API-nøkkel&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Merk deg også epostadressen du bruker for å logge inn på mybring. Denne kan du se under Profil eller ved å gå til &lt;a href="https://www.mybring.com/useradmin/account/profile" target="_blank"&gt;mybring.com/useradmin/account/profile&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Logg inn i din nettbutik og gå til &lt;strong&gt;Frakt&lt;/strong&gt; &amp;gt; &lt;strong&gt;Bring&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Lim inn API-nøkkelen fra punkt 1 i skjemaet og trykk &lt;strong&gt;Lagre&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Velg om du vil at avsender skal bruke butikkens kontaktinfo, eller om du vil fylle ut egen avsender. Sjekk at avsender-info ikke er mangelfull ved å trykke &lt;strong&gt;Lagre&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Velg de fraktmetodene du ønsker at skal dukke opp som valg når du skal skrive ut etiketter. Du kan også velge tilleggstjenester nedenfor. Avslutt med &lt;strong&gt;Lagre&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Du vil nå finne mulighet for å skrive ut Bring fraktetiketter inne på ordrene, samt i ordrelisten!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="nyttig-å-vite"&gt;Nyttig å vite:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bestilling av fraktetiketter er uforpliktende&lt;/strong&gt; inntill pakken faktisk leveres til Bring. Det er derfor ikke farlig å skrive ut en ny om du mistet/kastet den gamle.&lt;/li&gt;
+&lt;li&gt;Merk: om du har &lt;strong&gt;henteavtale med Bring, så blir du fakturert ved bestilling&lt;/strong&gt;. Avklar i slike tilfeller direkte med Bring.&lt;/li&gt;
+&lt;li&gt;Vekt/volum angitt på etikett settes ut ifra et &lt;strong&gt;estimat dersom du har denne info&lt;/strong&gt; i dine produkter, eller settes til en &lt;strong&gt;standardverdi&lt;/strong&gt; hvis ikke. &lt;br&gt;Uansett så vil du &lt;strong&gt;faktureres for pakkens reelle vekt/volum&lt;/strong&gt; da denne scannes og veies av Bring før.&lt;/li&gt;
+&lt;li&gt;Du velger selv hvilken fraktmetode som skal skrives ut på hvert enkelt ordre &lt;strong&gt;uavhengig&lt;/strong&gt; av hva kunden har valgt. Dersom du har mange ulike valg for kundene, så er det viktig at du merker deg kundens valg før du bestiller etiketten.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="problemer"&gt;Problemer?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Noen ganger kan det være at man ikke får til å skrive ut &lt;em&gt;Pakke i postkassen&lt;/em&gt; eller &lt;strong&gt;bare&lt;/strong&gt; &lt;em&gt;Pakke i postkassen&lt;/em&gt; men ikke de andre pakketypene. &lt;br&gt;Grunnen til dette er at feil kundenummer er valgt. Forsøk de ulike kundenumrene til du finner et kundenummer som kan benyttes for alle pakketyper.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Bring Fraktguiden</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/bring/fraktguiden/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/bring/fraktguiden/</guid><description>&lt;h2 id="hvordan-sette-opp"&gt;Hvordan sette opp&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Logg inn på &lt;a href="https://www.mybring.com/useradmin/account/settings/api" target="_blank"&gt;mybring.com/useradmin/account/settings/api&lt;/a&gt; og hent API-nøkkel
+&lt;ul&gt;
+&lt;li&gt;Trykk &lt;code&gt;Generer API-nøkkel&lt;/code&gt; dersom du ikke har en fra før av&lt;/li&gt;
+&lt;li&gt;Kopier &lt;code&gt;Din API-nøkkel&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Merk deg også epostadressen du bruker for å logge inn på mybring. Denne kan du se under Profil eller ved å gå til &lt;a href="https://www.mybring.com/useradmin/account/profile" target="_blank"&gt;mybring.com/useradmin/account/profile&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Logg inn i ditt nettbutikk kontrollpanel og gå til &lt;strong&gt;Frakt&lt;/strong&gt; &amp;gt; &lt;strong&gt;Bring fraktguiden&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Lim inn alt i dette skjemaet og trykk &lt;strong&gt;Lagre&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Velg en av kundenumrene i listen&lt;/li&gt;
+&lt;li&gt;Fyll inn avsender postnummer og landkode (no).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lagre&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Resten på denne siden kan ignoreres.&lt;/li&gt;
+&lt;li&gt;Gå til fanen &lt;em&gt;Transportørvalg&lt;/em&gt; for å sette opp hvilke transportører du vil vise for kundene dine og hvordan du vil prisene skal vises/endres.&lt;/li&gt;
+&lt;/ol&gt;</description></item><item><title>Produktimport</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/visma.net-erp/produktimport/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/visma.net-erp/produktimport/</guid><description>&lt;h1 id="produktimport"&gt;Produktimport&lt;/h1&gt;
+&lt;p&gt;Produktimport kan gjøres via API.
+Oppretting av nye produkter (som ikke allerede eksisterer i nettbutikken) gjøres med å bruke knappen for produktimport i Visma.net-innstillinger i nettbutikkens kontrollpanel.&lt;/p&gt;
+&lt;p&gt;Nye produkter legger seg inn i den inaktive produktkategorien &amp;ldquo;Visma&amp;rdquo;. Det er viktig at du ikke sletter denne kategorien da den fungerer som &amp;ldquo;mottak&amp;rdquo; for nye produkter.
+Produktene som kommer inn hit har fått med seg følgende info fra Visma:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Navn&lt;/li&gt;
+&lt;li&gt;Produkt-/referanse-/artikkelnummer&lt;/li&gt;
+&lt;li&gt;Pris&lt;/li&gt;
+&lt;li&gt;Attributter/egenskaper slik som:
+&lt;ul&gt;
+&lt;li&gt;Segment&lt;/li&gt;
+&lt;li&gt;Sesong&lt;/li&gt;
+&lt;li&gt;Laget av / materialer&lt;/li&gt;
+&lt;li&gt;Produktklasse&lt;/li&gt;
+&lt;li&gt;Produkttype&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Overnevnte egenskaper/attributter legger seg inn som &amp;ldquo;egenskaper&amp;rdquo; i nettbutikken for at du og kundene kan filtrere på det.&lt;/li&gt;
+&lt;li&gt;Brand/merke legger seg til som &amp;ldquo;Brand/merkevare&amp;rdquo; i nettbutikken for enkel filtrering/kategorisering&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Tripletex</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/</guid><description>&lt;p&gt;Integrasjonen mellom Tripletex og KomplettNettbutikk hjelper små og store firma til en effektiv nettbutikkdrift!&lt;/p&gt;
+&lt;h2 id="les-mer-om-oppsett-og-muligheter"&gt;Les mer om oppsett og muligheter:&lt;/h2&gt;
+
+
+
+
+
+
+
+
+&lt;ul class='children children-li'&gt;
+	
+
+ 
+		
+			
+		
+	
+
+	
+
+	
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/oppsett/" &gt;Førstegangsoppsett&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/kunde/" &gt;Kunde&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/ordre/" &gt;Ordre&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/produkt-og-lager/" &gt;Produkt og lager&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/regnskap-l%C3%B8nn-og-support-til-fastpris/" &gt;Regnskap til fastpris&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/tripletex-som-betalingsl%C3%B8sning/" &gt;Tripletex som betalingsløsning&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+
+	
+&lt;/ul&gt;
+
+
+
+
+&lt;h2 id="har-du-ikke-nettbutikk-hos-oss-ennå"&gt;Har du ikke nettbutikk hos oss ennå?&lt;/h2&gt;
+&lt;p&gt;Ingen problem! Vi oppretter kjapt en demo til deg uten kostnad paralellt med at vi setter opp Tripletex-integrasjonen. Bruk skjemaet nederst på siden og dine ønsker for nettbutikk så tar vi kontakt!&lt;/p&gt;</description></item></channel></rss>

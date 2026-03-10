@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Karusell on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/karusell/</link><description>Recent content in Karusell on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/karusell/index.xml" rel="self" type="application/rss+xml"/><item><title>3. Produktkarusell</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/3.-produktkarusell/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/3.-produktkarusell/</guid><description>&lt;p&gt;Dette modulet lar deg lage produktkaruseller til forsiden din. Du kan profilere utvalgte produkter, best selger, produkter fra en kategori osv.
+Prøv å profilere produktene på framsiden som du tror generer mest salg!&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/3.-produktkarusell/2022-07-12-08-05-39.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/3.-produktkarusell/2022-07-12-08-02-48.png" alt=""&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Kategori&lt;/strong&gt; viser hvilken kategori karusellen tar produkter fra&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Merker&lt;/strong&gt; Du kan velge merke å vise produkter fra&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vis på&lt;/strong&gt; Her bestemmer du hvor produkt karusellen skal vises&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Posisjon&lt;/strong&gt; Kan være avgjørende vis du har flere karuseller. I tilfelle bestemmer tallet hvem som kommer først. Minste tall blir prioritert først.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Status&lt;/strong&gt; Forteller om den er aktiv eller ikke. Trykk på for å endre. Grønn &amp;ldquo;V&amp;rdquo; betyr aktiv og synlig for dine kunder.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rediger/slett&lt;/strong&gt; helt til høyre på linjen har du knapp for å redigere. Trykker du på pilen helt til høyre kommer slett knappen opp.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="legg-til-en-ny-produktkarusell"&gt;Legg til en ny produktkarusell&lt;/h2&gt;
+&lt;p&gt;For å legg til en ny karusell trykk du på &amp;ldquo;+&amp;rdquo; tegn øverst i høyre hjørne.&lt;/p&gt;</description></item></channel></rss>

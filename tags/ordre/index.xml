@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ordre on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/ordre/</link><description>Recent content in Ordre on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/ordre/index.xml" rel="self" type="application/rss+xml"/><item><title>Panel</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/panel/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/panel/</guid><description>&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/panel/2022-05-23-12-08-41.png" alt=""&gt;
+Øverst til høyre i panelet finner du knappen &lt;strong&gt;Demo-modus&lt;/strong&gt;. Denne er kun for å vise deg hvordan panelet vil se ut med etterhvert som du får trafikk på nettsiden. Du kan slå av denne når du måtte ønske.&lt;/p&gt;
+&lt;p&gt;På neste linje velger du visnings-intervall dag/måned/år. Trykker du på kalenderen helt til høyre kan du spesifisere hvilke datointervall du ønsker å bruke tall ifra. Du kan også sammenligne med en annen periode. Det kan være veldig greit å se hvordan du f.eks. ligger an i forhold til fjoråret. I tillegg til denne utvelgelsen har du hurtigknapper til venstre for dag-1, måned-1 og år-1 som viser forrige dag, måned eller år.&lt;/p&gt;</description></item><item><title>Statistikk</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/statistikk/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/statistikk/</guid><description>&lt;h2 id="rapporter"&gt;Rapporter&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/statistikk/2022-07-15-12-03-56.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Trykk på ønsket rapport for å laste ned excel-fil. Mangler det noe? Vi kan opprette egne rapporter på timing. Send mail til &lt;a href="mailto:mads@komplettnettbutikk.no"&gt;mads@komplettnettbutikk.no&lt;/a&gt; med eksempel på hvilke kolonner du trenger i rapporten din.&lt;/p&gt;
+&lt;p&gt;Som standard kan du ta ut rapport for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alle ordre&lt;/li&gt;
+&lt;li&gt;Ordre pr år&lt;/li&gt;
+&lt;li&gt;Ordre for de siste 4 måndene.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Ordre</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/ordre/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/ordre/</guid><description>&lt;h2 id="hva-overføres"&gt;Hva overføres?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dine nettbutikkordre overføres til Tripletex hvor det opprettes som en betalt faktura.&lt;/li&gt;
+&lt;li&gt;Ordrelinjer med navn og beskrivelse om du ikke har premiumversjon av integrasjon.&lt;/li&gt;
+&lt;li&gt;Ordrelinjer knyttes opp mot rett produkt i Tripletex.&lt;/li&gt;
+&lt;li&gt;Ordrelinjer med navn og beskrivelse om du ikke har premiumversjon av integrasjonen.&lt;/li&gt;
+&lt;li&gt;Rabatter&lt;/li&gt;
+&lt;li&gt;Frakt&lt;/li&gt;
+&lt;li&gt;Mva.&lt;/li&gt;
+&lt;li&gt;Kunder søkes opp i Tripletex og knyttes opp om de eksisterer, eller opprettes om de ikke er der fra før.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="når-overføres-det"&gt;Når overføres det?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ordre overføres omgående når de når valgfri ordrestatus i nettbutikken. Det kan være med en gang ordren kommer inn, eller f.eks. ved status &lt;em&gt;Sendt&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

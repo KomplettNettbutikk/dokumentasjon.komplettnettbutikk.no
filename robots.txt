@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /status/
+
+Sitemap: https://dokumentasjon.komplettnettbutikk.no/sitemap.xml

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lagerbevegelser on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/lagerbevegelser/</link><description>Recent content in Lagerbevegelser on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/lagerbevegelser/index.xml" rel="self" type="application/rss+xml"/><item><title>Lagerbevegelser</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/lager/lagerbevegelser/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/lager/lagerbevegelser/</guid><description>&lt;p&gt;Tabellen over lagerbevegelser gir deg en logg over alle lagerendringene. Fordi det er en historie med tidligere lagerbevegelser har denne tabellen bare en informativ rolle og kan derfor ikke redigeres.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/lager/lagerbevegelser/2022-07-11-11-06-36.png" alt=""&gt;&lt;/p&gt;
+&lt;h2 id="bevegelser-oversikt"&gt;Bevegelser Oversikt &lt;a href="stockmovements-MovementsOverview" id="stockmovements-movementsoverview"&gt; &lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id="struktur"&gt;Struktur &lt;a href="stockmovements-Structure" id="stockmovements-Structure"&gt; &lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Strukturen ser ut som lagertabellen, men her tilsvarer hver linje en endring i fysisk mengde for et produkt eller en kombinasjon. Den inneholder følgende kolonner:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bilde miniatyrbilde for å enklere skille produktene.&lt;/li&gt;
+&lt;li&gt;Produktets navn og varianten hvis det er aktuelt for produktet.&lt;/li&gt;
+&lt;li&gt;Produktreferanse. Referansen du har lagt inn på produktet..&lt;/li&gt;
+&lt;li&gt;Bevegelsestype. Viser grunnen til at et produkts fysiske mengde har endret seg.&lt;/li&gt;
+&lt;li&gt;Antall lagt til eller fjernet. Dette feltet er formatert med en + eller - etikett for å vise om det er lagt til eller trekt fra lager.&lt;/li&gt;
+&lt;li&gt;Dato og tid som er den eksakte serverens tidsstempel da endringen skjedde.&lt;/li&gt;
+&lt;li&gt;Ansatt som er navnet på personen som er ansvarlig for endringen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Som standard sorteres lagerbevegelser etter synkende dato slik at de nyeste lagerbevegelsene er på toppen.&lt;/p&gt;</description></item><item><title>Lager</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/lager/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/lager/</guid><description>&lt;p&gt;Du kan administrere lageret ditt i butikken din ved å bruke &amp;ldquo;lager&amp;rdquo;-siden, i &amp;ldquo;katalog&amp;rdquo;-menyen. Det kreves ingen oppsett for å aktivere lagerstyring.&lt;/p&gt;
+&lt;p&gt;lagersiden består av to faner: &amp;ldquo;lager&amp;rdquo; og &amp;ldquo;bevegelser&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Som standard når du åpner lagersiden er &amp;ldquo;Lager&amp;rdquo;-fanen den åpnede fanen. Inne i denne fanen har du oversikt over lageret av produkter i katalogen din og administrere antallet. Fanen &amp;ldquo;Bevegelser&amp;rdquo; gir deg en historie med alle endringene i antall.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/lager/2022-07-11-10-34-37.png" alt=""&gt;&lt;/p&gt;</description></item></channel></rss>

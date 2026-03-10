@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Innstillinger on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/innstillinger/</link><description>Recent content in Innstillinger on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/innstillinger/index.xml" rel="self" type="application/rss+xml"/><item><title>Innstillinger</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/innstillinger/_index.md/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/innstillinger/_index.md/</guid><description>&lt;h2 id="slik-setter-du-opp-vipps-i-din-nettbutikk"&gt;Slik setter du opp Vipps i din nettbutikk:&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Sørg for at du er ferdig med registrering og har fått et Vipps-nummer (MSN / Merchant Serial Number) for enten Vipps Checkout eller Vipps Betal på nett.&lt;/li&gt;
+&lt;li&gt;Send oss nummeret så vi kan legge det inn i din nettbutikk.&lt;/li&gt;
+&lt;li&gt;Logg deg inn i din nettbutikk og gå til &lt;strong&gt;Innstillinger&lt;/strong&gt; &amp;gt; &lt;strong&gt;Betaling&lt;/strong&gt; &amp;gt; &lt;strong&gt;Vipps&lt;/strong&gt; for å sette opp Vipps etter dine ønsker.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="legg-til-komplettnettbutikk-i-administrasjonpanelet"&gt;Legg til Komplettnettbutikk i administrasjonpanelet&lt;/h2&gt;
+&lt;p&gt;For at vi skal kunne hjelpe deg underveis er det veldig fint om du legger til Mads som bruker i ditt Vipps panel. Da blir det veldig mye enklere å hjelp og bistå deg.&lt;/p&gt;</description></item><item><title>Generelt</title><link>https://dokumentasjon.komplettnettbutikk.no/generelt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/generelt/</guid><description>&lt;ul class='children children-li'&gt;
+	
+
+ 
+		
+			
+		
+	
+
+	
+
+	
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/generelt/epost/" &gt;Epost&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/generelt/kj%C3%B8psvilk%C3%A5r/" &gt;Kjøpsvilkår&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/generelt/personvern/" &gt;Personvern&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/generelt/nettleser-cache/" &gt;Cache&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+
+	
+&lt;/ul&gt;</description></item><item><title>Avansert banner</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/avansert-banner/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/avansert-banner/</guid><description>&lt;p&gt;Dette modulet lar deg legge til banner på siden. Denne kan ligge på forsiden, kategoriside, tekstside eller limes inn i hvilken som helst tekst.
+Du finner dette modulet ved å gå til &amp;ldquo;Moduler&amp;rdquo; i venstre meny også søk etter &amp;ldquo;avansert banner&amp;rdquo;. Trykk konfigurer for å komme til modulet.
+Hvis du bruker modulet mye kan du vurdere å legge det til hurtigtilgangen øverst på siden.&lt;/p&gt;
+&lt;p&gt;#Legge til en ny banner&lt;/p&gt;
+&lt;p&gt;For å legge til en ny banner trykker du på &amp;ldquo;+&amp;rdquo; tegnet øverst i høyre hjørne.&lt;/p&gt;</description></item><item><title>Bloggmodul</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/bloggmodul/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/bloggmodul/</guid><description>&lt;p&gt;Har du premium eller høyere pakke kan du sende oss en mail for å få aktivert blogg modulet. Her for du mulighet til å legge ut dine egen blogg innlegg som du kan presentere for dine kunder. Mange velge å endre navn til f.eks. inspirasjon, oppskrifter, nyheter, artikler etc.&lt;/p&gt;
+&lt;p&gt;#Legg ut ditt først blogg innlegg&lt;/p&gt;
+&lt;p&gt;Du går til blogg helt i bunn av venstremeny under &amp;ldquo;Mer&amp;rdquo;. Her trykker du på &amp;ldquo;st blog module&amp;rdquo;&lt;/p&gt;</description></item><item><title>Bildegalleri modul</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/bildegalleri/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/bildegalleri/</guid><description>&lt;p&gt;Dette modulet lar deg legge til bildegalleri på siden. Denne kan ligge på forsiden, kategoriside, tekstside. Du kan lime den inn i hvilket tekstfelt som du ønsker.
+Ta kontakt med support for å få aktivert modulet. Prisen er 999 kr.&lt;/p&gt;
+&lt;h1 id="legge-til-bilder-i-et-galleri"&gt;Legge til bilder i et galleri&lt;/h1&gt;
+&lt;p&gt;For å legge til en nye bilder må du gå til en kategori, produkt eller annen side med bilde opplastning.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/bildegalleri/2023-11-28-10-56-39.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Trykk så på knappen source&lt;/p&gt;</description></item><item><title>Førstegangsoppsett</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/oppsett/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/oppsett/</guid><description>&lt;h2 id="1-opprett-api-nøkkel"&gt;1. Opprett API-nøkkel:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Logg inn i Tripletex.&lt;/li&gt;
+&lt;li&gt;Selskap &amp;gt; Mitt abonnement &amp;gt; Åpne fanen &amp;ldquo;Aktive moduler og tilleggstjenester&amp;rdquo; &amp;gt; Huk av API 2.0 og godta vilkårene. Det kan være at du allerede har aktivert API 2.0 og kan i såfall gå til neste punkt.&lt;/li&gt;
+&lt;li&gt;Selskap &amp;gt; Ansatte &amp;gt; Velg en ansatt &amp;gt; Trykk på fanen API-TILGANG (kan være skjult under &amp;ldquo;Mer&amp;rdquo; i menyen rett under navnet på den ansatte) &amp;gt; Ny Nøkkel &amp;gt; Søk etter applikasjon “KomplettNettbutikk og PrestaShop” og velg denne. &amp;gt; Skriv et selvvalgt navn &amp;gt; Trykk opprett nøkkel&lt;/li&gt;
+&lt;li&gt;Hvis dette ikke går kan du trykk på navnet ditt øverst i venstre hjørne med pil ned. Trykk så på &amp;ldquo;min profil&amp;rdquo;. Så Trykk på fanen API-TILGANG (kan være skjult under &amp;ldquo;Mer&amp;rdquo; i menyen rett under navnet på den ansatte) &amp;gt; Ny Nøkkel &amp;gt; Søk etter applikasjon “KomplettNettbutikk og PrestaShop” og velg denne. &amp;gt; Skriv et selvvalgt navn &amp;gt; Trykk opprett nøkkel&lt;/li&gt;
+&lt;li&gt;Kopier API-nøkkelen som dukker opp, og lim inn i skjemaet nederst på denne siden&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="2-opprett-betalingstyper-for-dine-betalingsløsninger"&gt;2. Opprett betalingstype(r) for din(e) betalingsløsning(er):&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Hvis du allerede har en eller flere betalingstyper for din betalingsmåte så kan du bare sende oss navnet på denne og hoppe over resterende punkter.&lt;/li&gt;
+&lt;li&gt;Logg inn i Tripletex.&lt;/li&gt;
+&lt;li&gt;Faktura &amp;gt; Innstillinger &amp;gt; BETALINGSTYPER (i meny øverst på siden) &amp;gt; Ny rad &amp;gt; Fyll inn f.eks. “Worldline” som beskrivelse og velg en regnskapskonto (din regnskapsfører eller Tripletex support kan hjelpe deg å velge/sette opp riktig regnskapskonto - de fleste lager en egen regnskapskonto for hver betalingstype)&lt;/li&gt;
+&lt;li&gt;Huk av for “Vis på ordre” og “Vis i fakturaoversikt”, resten trenger ikke å fylles ut&lt;/li&gt;
+&lt;li&gt;LAGRE&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Gavekort modul</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/gavekort-modul/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/gavekort-modul/</guid><description>&lt;p&gt;Dette er et betalt modul. Send oss mail hvis du ønsker å bestille.&lt;/p&gt;
+&lt;h2 id="innstillinger"&gt;Innstillinger&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/gavekort-modul/2022-12-14-13-24-25.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Du Finner to innstilinger for gavekort modulet.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ordrestatus som skal generere gavekort&lt;/strong&gt; Her setter du hvilken ordrestatus som skal lage og sende ut gavekortet. De fleste velger &amp;ldquo;betaling utført&amp;rdquo;. Da vil kunden få gavekort på mail rett etter at han har lagt inn bestilling. Gavekort blir sendt til mail adressen som kunden bestiller på. Ønsker han å gi deg bort kan han videresende mailen han for.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Her kan du se hvordan mailen ser ut:&lt;/p&gt;</description></item></channel></rss>

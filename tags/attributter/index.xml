@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Attributter on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/attributter/</link><description>Recent content in Attributter on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/attributter/index.xml" rel="self" type="application/rss+xml"/><item><title>Produktimport</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/visma.net-erp/produktimport/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/visma.net-erp/produktimport/</guid><description>&lt;h1 id="produktimport"&gt;Produktimport&lt;/h1&gt;
+&lt;p&gt;Produktimport kan gjøres via API.
+Oppretting av nye produkter (som ikke allerede eksisterer i nettbutikken) gjøres med å bruke knappen for produktimport i Visma.net-innstillinger i nettbutikkens kontrollpanel.&lt;/p&gt;
+&lt;p&gt;Nye produkter legger seg inn i den inaktive produktkategorien &amp;ldquo;Visma&amp;rdquo;. Det er viktig at du ikke sletter denne kategorien da den fungerer som &amp;ldquo;mottak&amp;rdquo; for nye produkter.
+Produktene som kommer inn hit har fått med seg følgende info fra Visma:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Navn&lt;/li&gt;
+&lt;li&gt;Produkt-/referanse-/artikkelnummer&lt;/li&gt;
+&lt;li&gt;Pris&lt;/li&gt;
+&lt;li&gt;Attributter/egenskaper slik som:
+&lt;ul&gt;
+&lt;li&gt;Segment&lt;/li&gt;
+&lt;li&gt;Sesong&lt;/li&gt;
+&lt;li&gt;Laget av / materialer&lt;/li&gt;
+&lt;li&gt;Produktklasse&lt;/li&gt;
+&lt;li&gt;Produkttype&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Overnevnte egenskaper/attributter legger seg inn som &amp;ldquo;egenskaper&amp;rdquo; i nettbutikken for at du og kundene kan filtrere på det.&lt;/li&gt;
+&lt;li&gt;Brand/merke legger seg til som &amp;ldquo;Brand/merkevare&amp;rdquo; i nettbutikken for enkel filtrering/kategorisering&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

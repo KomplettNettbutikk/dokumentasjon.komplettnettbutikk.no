@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kontakter on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/kontakter/</link><description>Recent content in Kontakter on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/kontakter/index.xml" rel="self" type="application/rss+xml"/><item><title>Kundesynkronisering</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/fiken/kundesynkronisering/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/fiken/kundesynkronisering/</guid><description>&lt;h2 id="fra-fiken-til-nettbutikk"&gt;Fra Fiken til nettbutikk&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;For at kunder skal hentes fra Fiken og inn i nettbutikk må valget &amp;ldquo;Hent nye kunder/kontakter&amp;rdquo; være aktivert i Fiken-modulet i nettbutikken.&lt;/li&gt;
+&lt;li&gt;Du kan også velge om det er ønskelig at kontaktene i Fiken skal oppdatere/overskrive eventuelle forskjeller i kundedata som ligger i nettbutikken.&lt;/li&gt;
+&lt;li&gt;Overføring av kunder inn i nettbutikken skjer på intervall, f.eks. hver time&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="fra-nettbutikk-til-fiken"&gt;Fra nettbutikk til Fiken&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Overføring av kunde fra nettbutikken og til Fiken skjer samtidig som ordre/faktura-overføring.&lt;/li&gt;
+&lt;li&gt;Når en ordre skal overføres, søkes det opp om kunden eksisterer i Fiken fra før av, med søk i prioritert rekkefølge:
+&lt;ul&gt;
+&lt;li&gt;Hvis nettbutikkkunden-id eksisterer i feltet &amp;ldquo;medlemsnummer&amp;rdquo; på et kundekort i Fiken, så skal det knyttes opp mot denne kunden. Hvis ikke:&lt;/li&gt;
+&lt;li&gt;Hvis det eksisterer et organisasjonsnummer for nettbutikk-kunden så skal det søkes etter dette i Fiken. Er det en kunde med match, bruk den. Hvis ikke:&lt;/li&gt;
+&lt;li&gt;Hvis det eksisterer en kunde med samme epost i Fiken som i nettbutikken, bruk den kunden.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Hvis det finnes matchende kunde så vil det kundekortet oppdateres med data fra kunden/ordren i nettbutikken.&lt;/li&gt;
+&lt;li&gt;Hvis det ikke finnes en matchende kunde, så opprettes den.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="generelt"&gt;Generelt&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fordi Fiken bare har &amp;ldquo;navn&amp;rdquo; og ikke firma-navn + fornavn + etternavn, så vil navn i Fiken settes etter følgende logikk:
+&lt;ul&gt;
+&lt;li&gt;Har nettbutikk-kunden firmanavn, bruk det.&lt;/li&gt;
+&lt;li&gt;Hvis ikke bruk fornavn og etternavn.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Det er støtte for å hente første kontaktperson fra en kunde i Fiken. Om det er flere, så vil kun første kontaktperson hentes.&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

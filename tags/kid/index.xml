@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>KID on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/kid/</link><description>Recent content in KID on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/kid/index.xml" rel="self" type="application/rss+xml"/><item><title>Fiken som betalingsløsning</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/fiken/fiken-som-betalingsl%C3%B8sning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/fiken/fiken-som-betalingsl%C3%B8sning/</guid><description>&lt;h2 id="slik-kan-du-benytte-fiken-som-betalingsløsning-i-kassa"&gt;Slik kan du benytte Fiken som betalingsløsning i kassa&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Du kan nå tilby dine kunder &lt;strong&gt;Faktura&lt;/strong&gt; som betalingsløsning i din nettbutikk.&lt;/li&gt;
+&lt;li&gt;Fiken sender ut fakturaen for deg og oppfører seg på samme måte som om du hadde laget en faktura manuelt i Fiken.&lt;/li&gt;
+&lt;li&gt;Dersom du bruker kid-numre vil faktura automatisk følges opp i Fiken.&lt;/li&gt;
+&lt;li&gt;Når faktura er betalt i Fiken, så meldes status tilbake til nettbutikken og status settes til &amp;ldquo;Oppgjort i Fiken&amp;rdquo;. Du får derfor en selvgående faktura-flyt, spesielt om du bruker kidnumre på dine faktura.&lt;/li&gt;
+&lt;li&gt;Du kan legge på fakturagebyr og velge hvor lang forfallstid, og gjøre mange andre valg for dine faktura.&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

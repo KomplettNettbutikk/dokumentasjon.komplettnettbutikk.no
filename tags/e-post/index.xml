@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>E-Post on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/e-post/</link><description>Recent content in E-Post on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/e-post/index.xml" rel="self" type="application/rss+xml"/><item><title>Angreskjema</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/angreskjema/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/angreskjema/</guid><description>&lt;p&gt;Nettbutikken er som standard satt opp at det skal sendes angreskjema / infoskriv på mail til kunden når du setter en ordre til status &amp;ldquo;sendt&amp;rdquo;.
+Angreskjema som blir brukt i nettbutikken er laget etter skjema fra regjeringen.no.&lt;/p&gt;
+&lt;p&gt;I toppen av modulet vil du finne link til både angreskjema og infoskriv. Dette kan være kjekt å vite hvis du for eksempel må sende det til en kunde som har mistet det eller liggnende.&lt;/p&gt;</description></item><item><title>Generelt</title><link>https://dokumentasjon.komplettnettbutikk.no/generelt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/generelt/</guid><description>&lt;ul class='children children-li'&gt;
+	
+
+ 
+		
+			
+		
+	
+
+	
+
+	
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/generelt/epost/" &gt;Epost&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/generelt/kj%C3%B8psvilk%C3%A5r/" &gt;Kjøpsvilkår&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/generelt/personvern/" &gt;Personvern&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/generelt/nettleser-cache/" &gt;Cache&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+
+	
+&lt;/ul&gt;</description></item><item><title>Kontakt oss</title><link>https://dokumentasjon.komplettnettbutikk.no/kontakt-oss/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/kontakt-oss/</guid><description>&lt;p&gt;Ta gjerne kontakt med oss om du har spørsmål du ikke finner svar på i dokumentasjonen, eller om du ønsker tilbud på en nettbutikk. Du kan kontakte oss på telefon, eller bruke skjemaet under.&lt;/p&gt;
+&lt;p&gt;
+ &lt;a href="tel:+47 900 333 15" class="btn btn-default"&gt;Ring oss: &lt;i class="fa fa-phone"&gt;&lt;/i&gt; 900 333 15&lt;/a&gt;
+&lt;/p&gt;
+&lt;div class="contactform" id="contactform"&gt;
+ &lt;div class="header"&gt;
+ 📧 Kontakt oss
+ &lt;/div&gt;
+ &lt;div class="body"&gt; 
+ &lt;form 
+ name="kontakt" 
+ method="POST" 
+ data-netlify="true"
+ netlify-honeypot="rowboat" 
+ action="https://dokumentasjon.komplettnettbutikk.no/"&gt;
+ &lt;input type="hidden" name="to" value=""&gt;
+ &lt;p class="ohnohoney"&gt;
+ &lt;label&gt;Roboter bes fylle ut dette: &lt;input name="rowboat" /&gt;&lt;/label&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+ &lt;label&gt;Navn/firma: &lt;input type="text" name="name" /&gt;&lt;/label&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+ &lt;label&gt;Epostadresse: &lt;input type="email" name="email" /&gt;&lt;/label&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+ &lt;label&gt;Melding: &lt;textarea name="message"&gt;&lt;/textarea&gt;&lt;/label&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+ &lt;button class="btn btn-default submit" type="submit"&gt;Send&lt;/button&gt;
+ &lt;/p&gt;
+ &lt;/form&gt;
+ &lt;/div&gt; 
+&lt;/div&gt;</description></item><item><title>Gavekort modul</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/gavekort-modul/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/gavekort-modul/</guid><description>&lt;p&gt;Dette er et betalt modul. Send oss mail hvis du ønsker å bestille.&lt;/p&gt;
+&lt;h2 id="innstillinger"&gt;Innstillinger&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/gavekort-modul/2022-12-14-13-24-25.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Du Finner to innstilinger for gavekort modulet.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ordrestatus som skal generere gavekort&lt;/strong&gt; Her setter du hvilken ordrestatus som skal lage og sende ut gavekortet. De fleste velger &amp;ldquo;betaling utført&amp;rdquo;. Da vil kunden få gavekort på mail rett etter at han har lagt inn bestilling. Gavekort blir sendt til mail adressen som kunden bestiller på. Ønsker han å gi deg bort kan han videresende mailen han for.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Her kan du se hvordan mailen ser ut:&lt;/p&gt;</description></item><item><title>Hvorfor får ikke kundene mail?</title><link>https://dokumentasjon.komplettnettbutikk.no/ofte-stilte-sp%C3%B8rsm%C3%A5l/kundemail/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/ofte-stilte-sp%C3%B8rsm%C3%A5l/kundemail/</guid><description>&lt;h2 id="mulige-årsaker-til-problemer-med-mail"&gt;Mulige årsaker til problemer med mail:&lt;/h2&gt;
+&lt;p&gt;Dette kan skyldes flere ting, og det er flere ting du kan gjøre for å finne ut hva som er grunnen:&lt;/p&gt;
+&lt;p&gt;Følg listen nedover og merk deg hva som var grunnen, slik at du kan være konkret om dette om du tar kontakt med support:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Sjekk aller først at ordren har rett epostadresse, og at det ikke er skrivefeil slik som: &lt;em&gt;&lt;a href="mailto:kunden@hotmail.cm"&gt;kunden@hotmail.cm&lt;/a&gt;&lt;/em&gt; eller liknende.&lt;/li&gt;
+&lt;li&gt;Spør kunden om å søke etter butikknavnet ditt i sin epostklient. Fant de mailen likevel? Hadde den lagt seg i &lt;em&gt;Reklame&lt;/em&gt;, &lt;em&gt;Oppdateringer&lt;/em&gt; eller andre faner som kunden ikke hadde sett i? Dette er i såfall helt vanlig, og en ting mail-leverandører gjør for å sortere mailboksen. Det er kun kunden selv som kan slå av/på denne funksjonen.&lt;/li&gt;
+&lt;li&gt;Be kunden sjekke direkte i overnevnte faner om de finner mailen.&lt;/li&gt;
+&lt;li&gt;Be kunden sjekke i &lt;em&gt;Spam&lt;/em&gt; eller &lt;em&gt;Søppelpost&lt;/em&gt; om mailen kan ha havnet dit. I såfall ber du kunden om å gå inn i mailen og trykke på en knapp eller link med tekst tilsvarende &lt;em&gt;Dette er ikke spam/søppelpost&lt;/em&gt;, &lt;em&gt;Legg i innboks&lt;/em&gt;. Dette hjelper både deg og kunden, da både kundens mailboks, men også kundens mailleverandør opplæres i at dine mailer ikke er &lt;em&gt;Spam&lt;/em&gt;/&lt;em&gt;Søppelpost&lt;/em&gt; på sikt, og så vil problemet bli mindre etterhvert. Det anbefales å ta en spam-rating test (se nederst i denne guiden).&lt;/li&gt;
+&lt;li&gt;Gå til slutt til kontrollpanelet for å forsikre deg om at mailen faktisk er sendt og at det er sendt til rett epostadresse. Gå til &lt;strong&gt;Avanserte parametre&lt;/strong&gt; &amp;gt; &lt;strong&gt;Epost&lt;/strong&gt;, hvor du kan se i listen om du finner kunden og den aktuelle epostadressen. Finner du mailen betyr det at den er sendt ut av nettbutikken, men at noe feil er skjedd på veien? Om du er kommet til dette punktet og mailen faktisk er sendt ut av nettbutikken, anbefaler vi at du følger guiden nedenfor for å sjekke spam-rating.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="sjekk-spam-rating"&gt;Sjekk &lt;em&gt;Spam-rating&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;Du kan sjekke om mail-oppsettet fungerer godt eller ikke ved å sende en test mail til &lt;a href="Mailtester.com"&gt;https://mail-tester.com&lt;/a&gt;.&lt;/p&gt;</description></item></channel></rss>

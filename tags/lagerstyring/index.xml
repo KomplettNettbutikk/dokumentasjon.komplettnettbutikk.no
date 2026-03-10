@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lagerstyring on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/lagerstyring/</link><description>Recent content in Lagerstyring on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/lagerstyring/index.xml" rel="self" type="application/rss+xml"/><item><title>Lager</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/lager/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/lager/</guid><description>&lt;p&gt;Du kan administrere lageret ditt i butikken din ved å bruke &amp;ldquo;lager&amp;rdquo;-siden, i &amp;ldquo;katalog&amp;rdquo;-menyen. Det kreves ingen oppsett for å aktivere lagerstyring.&lt;/p&gt;
+&lt;p&gt;lagersiden består av to faner: &amp;ldquo;lager&amp;rdquo; og &amp;ldquo;bevegelser&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Som standard når du åpner lagersiden er &amp;ldquo;Lager&amp;rdquo;-fanen den åpnede fanen. Inne i denne fanen har du oversikt over lageret av produkter i katalogen din og administrere antallet. Fanen &amp;ldquo;Bevegelser&amp;rdquo; gir deg en historie med alle endringene i antall.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/lager/2022-07-11-10-34-37.png" alt=""&gt;&lt;/p&gt;</description></item><item><title>Lager</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/visma.net-erp/lagersynkronisering/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/visma.net-erp/lagersynkronisering/</guid><description>&lt;p&gt;Ved et gitt tidsintervall (f.eks. hvert 5. min) hentes lageroppdateringer fra Visma til nettbutikken, slik at nettbutikken alltid har rett lagersaldo på produktene som matcher mellom systemene. Ordreoverføring fra nettbutikken til Visma sørger langersynk den andre veien, og oppdateringene skjer så fort man har endret til ønsket status i nettbutikken.&lt;/p&gt;
+&lt;h2 id="hvordan-matches-produkterlagervarer-på-salgsordre"&gt;Hvordan matches produkter/lagervarer på salgsordre?&lt;/h2&gt;
+&lt;p&gt;Ved ordreoverføring så vil integrasjonen se etter rett produktnummer:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Produkt/variant-referanse i nettbutikken. Dersom dette ikke er satt:&lt;/li&gt;
+&lt;li&gt;Brukes &lt;em&gt;standard Visma produktnummer/varenummer/lagervarenummer&lt;/em&gt; som settes i innstillingene. Man kan f.eks. opprette en lagervare i Visma som heter &lt;em&gt;Annen vare, ikke tilknyttet&lt;/em&gt; som man bruker til dette formålet.&lt;/li&gt;
+&lt;li&gt;I innstillingene setter man også et Visma &lt;em&gt;produktnummer/varenummer/lagervarenummer&lt;/em&gt; som skal brukes for frakt.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="hvordan-matches-produkterlagervarer-med-lagersynk"&gt;Hvordan matches produkter/lagervarer med lagersynk?&lt;/h2&gt;
+&lt;p&gt;Når vi henter lageroppdateringer fra Visma, så sjekker vi om nettbutikken har produkter eller varianter med de produktnumrene som kommer fra Visma. Om det finnes match, så får nettbutikken oppdatert lagersaldo på de produktene.&lt;/p&gt;</description></item><item><title>Produkt og lager</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/produkt-og-lager/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/produkt-og-lager/</guid><description>&lt;ul class='children children-li'&gt;
+	
+
+ 
+		
+	
+
+	
+
+	
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/produkt-og-lager/fra-nettbutikken/" &gt;Fra nettbutikk til Tripletex&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/produkt-og-lager/til-nettbutikken/" &gt;Fra Tripletex til nettbutikk&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+
+	
+&lt;/ul&gt;</description></item></channel></rss>

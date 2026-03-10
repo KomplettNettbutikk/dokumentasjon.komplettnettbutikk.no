@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Redigere Antall on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/redigere-antall/</link><description>Recent content in Redigere Antall on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/redigere-antall/index.xml" rel="self" type="application/rss+xml"/><item><title>Lager</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/lager/lager/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/lager/lager/</guid><description>&lt;h1 id="oversikt-over-lagerverdier"&gt;Oversikt over lagerverdier&lt;/h1&gt;
+&lt;p&gt;Denne fanen inneholder en tabell som presenterer produktene dine samt søkealternativer og lar deg direkte redigere produktene sine antall.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/katalog/lager/lager/2022-07-11-10-36-15.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Hver linje representerer et produkt (enten standard, virtuell eller pakkeprodukt). Variantkombinasjoner vises rett under produktets navn.&lt;/p&gt;
+&lt;p&gt;Tabellen inneholder følgende kolonner:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bilde miniatyrbilde for å enklere skille produktene.&lt;/li&gt;
+&lt;li&gt;Produktets navn og varianten hvis det er aktuelt for produktet.&lt;/li&gt;
+&lt;li&gt;Produktreferanse. Referansen du har lagt inn på produktet.&lt;/li&gt;
+&lt;li&gt;Leverandør. I tilfelle flere leverandører blir tildelt et produkt, vil bare standardleverandøren vises her.&lt;/li&gt;
+&lt;li&gt;Status for å vite om produktet er aktivert eller ikke.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fysisk&lt;/strong&gt; som representerer antall du faktisk har fysisk på lageret ditt.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reservert&lt;/strong&gt; som representerer antall av produkter som for tiden er i en åpen kundebestilling som ikke er sendt ennå.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tilgjengelig&lt;/strong&gt; som er antall som er tilgjengelig for salg.&lt;/li&gt;
+&lt;li&gt;Rediger mengde. Denne inngangen gjør det mulig å endre antall manuelt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="redigere-antall"&gt;Redigere antall&lt;/h4&gt;
+&lt;p&gt;For å redigere et enkelt produkts antall angir du bare ønsket mengdeendring i inngangsfeltetfeltet helt til høyre på produktets linje. Du kan legge antall i minus eller pluss.&lt;/p&gt;</description></item></channel></rss>

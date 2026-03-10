@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Regnskapskonto on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/regnskapskonto/</link><description>Recent content in Regnskapskonto on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/regnskapskonto/index.xml" rel="self" type="application/rss+xml"/><item><title>Førstegangsoppsett</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/oppsett/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/oppsett/</guid><description>&lt;h2 id="1-opprett-api-nøkkel"&gt;1. Opprett API-nøkkel:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Logg inn i Tripletex.&lt;/li&gt;
+&lt;li&gt;Selskap &amp;gt; Mitt abonnement &amp;gt; Åpne fanen &amp;ldquo;Aktive moduler og tilleggstjenester&amp;rdquo; &amp;gt; Huk av API 2.0 og godta vilkårene. Det kan være at du allerede har aktivert API 2.0 og kan i såfall gå til neste punkt.&lt;/li&gt;
+&lt;li&gt;Selskap &amp;gt; Ansatte &amp;gt; Velg en ansatt &amp;gt; Trykk på fanen API-TILGANG (kan være skjult under &amp;ldquo;Mer&amp;rdquo; i menyen rett under navnet på den ansatte) &amp;gt; Ny Nøkkel &amp;gt; Søk etter applikasjon “KomplettNettbutikk og PrestaShop” og velg denne. &amp;gt; Skriv et selvvalgt navn &amp;gt; Trykk opprett nøkkel&lt;/li&gt;
+&lt;li&gt;Hvis dette ikke går kan du trykk på navnet ditt øverst i venstre hjørne med pil ned. Trykk så på &amp;ldquo;min profil&amp;rdquo;. Så Trykk på fanen API-TILGANG (kan være skjult under &amp;ldquo;Mer&amp;rdquo; i menyen rett under navnet på den ansatte) &amp;gt; Ny Nøkkel &amp;gt; Søk etter applikasjon “KomplettNettbutikk og PrestaShop” og velg denne. &amp;gt; Skriv et selvvalgt navn &amp;gt; Trykk opprett nøkkel&lt;/li&gt;
+&lt;li&gt;Kopier API-nøkkelen som dukker opp, og lim inn i skjemaet nederst på denne siden&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="2-opprett-betalingstyper-for-dine-betalingsløsninger"&gt;2. Opprett betalingstype(r) for din(e) betalingsløsning(er):&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Hvis du allerede har en eller flere betalingstyper for din betalingsmåte så kan du bare sende oss navnet på denne og hoppe over resterende punkter.&lt;/li&gt;
+&lt;li&gt;Logg inn i Tripletex.&lt;/li&gt;
+&lt;li&gt;Faktura &amp;gt; Innstillinger &amp;gt; BETALINGSTYPER (i meny øverst på siden) &amp;gt; Ny rad &amp;gt; Fyll inn f.eks. “Worldline” som beskrivelse og velg en regnskapskonto (din regnskapsfører eller Tripletex support kan hjelpe deg å velge/sette opp riktig regnskapskonto - de fleste lager en egen regnskapskonto for hver betalingstype)&lt;/li&gt;
+&lt;li&gt;Huk av for “Vis på ordre” og “Vis i fakturaoversikt”, resten trenger ikke å fylles ut&lt;/li&gt;
+&lt;li&gt;LAGRE&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

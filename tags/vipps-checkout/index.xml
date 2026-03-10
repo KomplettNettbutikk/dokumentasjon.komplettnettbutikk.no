@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vipps Checkout on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/vipps-checkout/</link><description>Recent content in Vipps Checkout on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/vipps-checkout/index.xml" rel="self" type="application/rss+xml"/><item><title>Bestill Vipps Checkout</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/bestill-vipps-checkout/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/bestill-vipps-checkout/</guid><description>&lt;p&gt;Å få en nettbutikk med Vipps Checkout er enkelt og uten kostnad hos KomplettNettbutikk!&lt;/p&gt;
+&lt;p&gt;Bruk kontaktskjemaet nedenfor og beskriv dine behov, om du har nettbutikk hos KomplettNettbutikk fra før av eller om du ønsker å bli kunde samtidig med bestilling av Vipps Checkout.&lt;/p&gt;
+&lt;div class="contactform" id="contactform"&gt;
+ &lt;div class="header"&gt;
+ 📧 Kontakt oss
+ &lt;/div&gt;
+ &lt;div class="body"&gt; 
+ &lt;form 
+ name="kontakt" 
+ method="POST" 
+ data-netlify="true"
+ netlify-honeypot="rowboat" 
+ action="https://dokumentasjon.komplettnettbutikk.no/"&gt;
+ &lt;input type="hidden" name="to" value="andreas"&gt;
+ &lt;p class="ohnohoney"&gt;
+ &lt;label&gt;Roboter bes fylle ut dette: &lt;input name="rowboat" /&gt;&lt;/label&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+ &lt;label&gt;Navn/firma: &lt;input type="text" name="name" /&gt;&lt;/label&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+ &lt;label&gt;Epostadresse: &lt;input type="email" name="email" /&gt;&lt;/label&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+ &lt;label&gt;Melding: &lt;textarea name="message"&gt;Jeg ønsker Vipps Checkout i min nettbutikk!&lt;/textarea&gt;&lt;/label&gt;
+ &lt;/p&gt;
+ &lt;p&gt;
+ &lt;button class="btn btn-default submit" type="submit"&gt;Send&lt;/button&gt;
+ &lt;/p&gt;
+ &lt;/form&gt;
+ &lt;/div&gt; 
+&lt;/div&gt;</description></item><item><title>Vipps</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/</guid><description>&lt;p&gt;Det er enkelt å få Vipps i din nettbutikk, og oppsettet er helt gratis!&lt;/p&gt;
+&lt;h2 id="hva-tilbyr-vi"&gt;Hva tilbyr vi?&lt;/h2&gt;
+&lt;p&gt;KomplettNetttbutikk har er partner med Vipps, og det er enkelt å sette opp i din nettbutikk. Oppsettet er helt gratis, og du kan velge en eller flere løsninger:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vipps Checkout&lt;/li&gt;
+&lt;li&gt;Vipps Betal på nett&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="vipps-checkout"&gt;Vipps Checkout&lt;/h2&gt;
+&lt;p&gt;Dette er komplett-løsningen til Vipps for betaling i nettbutikk og løsningen vi anbefaler for de fleste. Sluttkunden kan betale med sin &lt;strong&gt;Vipps&lt;/strong&gt;, &lt;strong&gt;kort&lt;/strong&gt; eller &lt;strong&gt;Vipps Senere&lt;/strong&gt; (Vipps Senere kommer snart og legges inn i løsningen fortløpende).&lt;/p&gt;</description></item></channel></rss>

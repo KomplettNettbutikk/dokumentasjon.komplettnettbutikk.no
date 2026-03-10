@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CRM on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/crm/</link><description>Recent content in CRM on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/crm/index.xml" rel="self" type="application/rss+xml"/><item><title>Kunde</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/kunde/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/kunde/</guid><description>&lt;p&gt;Kunder overføres fra nettbutikken til Tripletex.&lt;/p&gt;
+&lt;h2 id="når-overføres-det"&gt;Når overføres det?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Kunder overføres ved ordreoverføring fra nettbutikken til Tripletex&lt;/li&gt;
+&lt;li&gt;Kunder søkes opp i Tripletex og knyttes opp om de eksisterer, eller opprettes om de ikke er der fra før.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="hva-overføres"&gt;Hva overføres?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Navn&lt;/li&gt;
+&lt;li&gt;Organisasjonsnummer&lt;/li&gt;
+&lt;li&gt;Epostadresse&lt;/li&gt;
+&lt;li&gt;Egendefinert faktura-adresse&lt;/li&gt;
+&lt;li&gt;Telefonnummer&lt;/li&gt;
+&lt;li&gt;Mobilnummer&lt;/li&gt;
+&lt;li&gt;Valgt faktureringsmetode (f.eks. EHF, epost, post)&lt;/li&gt;
+&lt;li&gt;Leveringsadresse&lt;/li&gt;
+&lt;li&gt;Fakturaadresse&lt;/li&gt;
+&lt;li&gt;Kundekategori (1. stk. kan velges i innstillinger)&lt;/li&gt;
+&lt;li&gt;Kundetype firma eller privat&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

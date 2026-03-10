@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>B2B on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/b2b/</link><description>Recent content in B2B on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/b2b/index.xml" rel="self" type="application/rss+xml"/><item><title>Kundeinnstillinger</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/butikkinnstillinger/kundeinnstillinger/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/butikkinnstillinger/kundeinnstillinger/</guid><description>&lt;h1 id="grupper"&gt;Grupper&lt;/h1&gt;
+&lt;p&gt;Nettbutikken lar deg gi kundene dine visse privilegier ved å tildele dem til grupper. Du kan opprette så mange kundegrupper som nødvendig og tildele en bruker til så mange grupper du vil. Men hver kunde må ha en standard kundegruppe for rabatter etc.&lt;/p&gt;
+&lt;p&gt;Dette gjøres alt fra &amp;ldquo;Grupper&amp;rdquo;-fanen, under menyen &amp;ldquo;Kundeinnstillinger&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/butikkinnstillinger/kundeinnstillinger/2022-07-14-11-59-03.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Som standard er tre spesielle grupper tilgjengelige:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Besøkende&lt;/strong&gt; Alle personer uten kundekonto.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gjest&lt;/strong&gt; Alle personer som legger inn en ordre med gjesteutsjekking - dette alternativet må være aktivert under &amp;ldquo;ordre innstillinger&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kunde&lt;/strong&gt; Alle personer som opprettet en konto i butikken din og er autentisert.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;B2B&lt;/strong&gt; Ment og brukes for bedriftskunder. Viser priser eks.mva etter innlogging.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;De tre førstegruppene kan ikke slettes.&lt;/p&gt;</description></item><item><title>Hvordan sette opp B2B løsning</title><link>https://dokumentasjon.komplettnettbutikk.no/ofte-stilte-sp%C3%B8rsm%C3%A5l/b2b/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/ofte-stilte-sp%C3%B8rsm%C3%A5l/b2b/</guid><description>&lt;p&gt;B2B står for &amp;ldquo;Business-to-Business&amp;rdquo; og refererer til handel mellom to bedrifter. B2B-funksjonalitet kan aktiveres hvis du har Premium+ nettbutikk. Som standard er det opprettet en egen kundegruppe for B2B. For å kunne benytte funksjonaliteten må du ta noen steg som vist på punkene under her.&lt;/p&gt;
+&lt;p&gt;Har du behov for flere kundegrupper må du ta kontakt med support. Kanskje ønsker du mange forskjellige B2B kundegrupper med forskjellige rabatter og tilganger..&lt;/p&gt;
+&lt;h2 id="knytt-kunden-mot-riktig-kundegruppe"&gt;Knytt kunden mot riktig kundegruppe&lt;/h2&gt;
+&lt;p&gt;Opprett en konto for hver bedrift som ønsker å handle hos deg. evt. knytte konto som allerede ligger inn mot riktig kundegruppe.
+Trykk rediger på kundekort og sørg for at det er knyttet mot B2B kundegruppe og har denne som standard kundegruppe.
+Hvis du ønsker at bedrifter også skal ha tilgang til kategorier for private, kan du huke av for alle kundegrupper under gruppetilgang.
+Det er standard kundegruppe som avgjør hvilken pris de for opp.&lt;/p&gt;</description></item></channel></rss>

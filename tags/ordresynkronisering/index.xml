@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ordresynkronisering on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/ordresynkronisering/</link><description>Recent content in Ordresynkronisering on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/ordresynkronisering/index.xml" rel="self" type="application/rss+xml"/><item><title>Ordresynkronisering</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/fiken/ordresynkronisering/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/fiken/ordresynkronisering/</guid><description>&lt;h2 id="ordre-synkroniseres-på-følgende-vis"&gt;Ordre synkroniseres på følgende vis:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Nettbutikkordre overføres på valgt(e) status(er) og opprettes som Faktura i Fiken.&lt;/li&gt;
+&lt;li&gt;Man kan også velge om man ønsker at ordren skal markeres som betalt eller ikke, og evt. hvilken konto det skal føres mot. Dette gjøres per betalingsløsning i nettbutikken.&lt;/li&gt;
+&lt;li&gt;Ordrene er knyttet opp mot rett kunde i Fiken. Om kunden eksisterer, så brukes denne, om ikke opprettes ny. &lt;a href="../kundesynkronisering"&gt;Les mer om kundesynkronisering&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Produkter er knyttet opp mot rett produkt i Fiken slik at man får lagerstyring og salgsstatistikk i Fiken. &lt;a href="../produktsynkronisering"&gt;Les mer om produktsynkronisering&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Ordre som opprettes i Fiken, sendes ikke inn i nettbutikken, men for at lager skal holdes oppdatert, så kjøres lagersynkronisering jevnlig.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="viktig-å-vite"&gt;Viktig å vite&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fiken-integrasjonen kan oppleve utfordringer på ordre hvor man har en handlekurvrabatt på spesifikt produkt, samtidig som ordren har flere ulike mva-satser.&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

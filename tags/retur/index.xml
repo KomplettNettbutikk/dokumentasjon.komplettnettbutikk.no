@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Retur on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/retur/</link><description>Recent content in Retur on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/retur/index.xml" rel="self" type="application/rss+xml"/><item><title>Ordresiden</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/ordre/ordresiden/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/ordre/ordresiden/</guid><description>&lt;p&gt;Delt inn i 6 seksjoner, gir siden deg alle detaljene om en bestilling.&lt;/p&gt;
+&lt;p&gt;Øverst på siden finner du et raskt sammendrag av bestillingen som inneholder:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ordre referanse&lt;/li&gt;
+&lt;li&gt;kundenavn&lt;/li&gt;
+&lt;li&gt;Totalpris&lt;/li&gt;
+&lt;li&gt;ordre dato og tidspunkt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/ordre/ordresiden/2022-07-04-14-46-21.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Øverst i venstre hjørne gir Kundedelen deg informasjon om kunden og evt. notater på kundekortet. Du kan trykke på mail adressen for å gå til kundekortet.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/ordre/ordresiden/2022-07-04-14-49-36.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Øverst i høyre hjørne gir produktseksjonen deg tilgang til ulike detaljer om de bestilte produktene.&lt;/p&gt;</description></item><item><title>Opprette retur og refusjoner</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/ordre/ordresiden/opprette-retur-og-refusjoner/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/ordre/ordresiden/opprette-retur-og-refusjoner/</guid><description>&lt;p&gt;På denne siden lærer du hvordan du oppretter returer og refusjoner direkte fra bestillingssiden.&lt;/p&gt;
+&lt;h2 id="del-retur-og-tilbakebetaling"&gt;Del retur og tilbakebetaling&lt;/h2&gt;
+&lt;p&gt;Det er mulig å gjøre en retur/delvis tilbakebetaling når ordren er betalt, eller når minst en betaling er koblet til ordren.
+
+&lt;div class="notices note" &gt;Hvis hele ordren er returnert kan du bare endre status til &amp;ldquo;kansellert&amp;rdquo;. Da vil alle produkter gå tilbake på lageret. I de fleste betalingsløsninger vil denne statusen og sende alle pengene tilbake til kunde. Dette gjelder også frakt.&lt;/div&gt;
+&lt;/p&gt;</description></item></channel></rss>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Produktdata on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/produktdata/</link><description>Recent content in Produktdata on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/produktdata/index.xml" rel="self" type="application/rss+xml"/><item><title>Produktsynkronisering</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/fiken/produktsynkronisering/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/fiken/produktsynkronisering/</guid><description>&lt;h2 id="produkter-synkroniseres-på-følgende-vis"&gt;Produkter synkroniseres på følgende vis:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Produkter synkroniseres begge veier&lt;/li&gt;
+&lt;li&gt;Nye produkter opprettes og eksisterende oppdateres&lt;/li&gt;
+&lt;li&gt;Det er valgfrihet om hvilke felter som skal overskrive&lt;/li&gt;
+&lt;li&gt;Med produkt-synk er det lekende lett for en Fiken-kunde som ikke har nettbutikk å få en nettbutikk oppe og gå på kort tid, og motsatt - en KomplettNettbuikk-kunde å få Fiken regnskap. Det betyr også at man bare trenger å oppdatere ett produkt-bibliotek og ett lager.&lt;/li&gt;
+&lt;li&gt;Mer info kommer&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Overføring ut fra Tripletex, inn i nettbutikken</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/produkt-og-lager/til-nettbutikken/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/produkt-og-lager/til-nettbutikken/</guid><description>&lt;h2 id="aktivering-og-oppsett-av-funksjonen"&gt;Aktivering og oppsett av funksjonen&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Gå til nettbutikkens kontrollpanel&lt;/li&gt;
+&lt;li&gt;Gå til &lt;strong&gt;Tripletex&lt;/strong&gt; &amp;gt; &lt;strong&gt;Innstillinger&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Scroll ned til du kommer til &lt;strong&gt;Produkt-opprettelse i nettbutikken&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Velg om du vil at nye produkter skal opprettes og om de skal være aktive eller ikke&lt;/li&gt;
+&lt;li&gt;Scroll videre ned til &lt;strong&gt;Produkt-oppdatering i nettbutikken&lt;/strong&gt; og velg alle felter du vil nettbutikken skal motta oppdateringer for.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="hva-overføres-du-kan-velge-selv-hvilke-som-skal-være-aktiv-eller-ikke"&gt;Hva overføres? (Du kan velge selv hvilke som skal være aktiv eller ikke)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Produktnummmer/referanse blir alltid overført, da det er dette som er nøkkelen ved overføring mellom systemene. Produkter uten produktnummer/referanse synkes ikke.&lt;/li&gt;
+&lt;li&gt;Produktnavn&lt;/li&gt;
+&lt;li&gt;Lagerantall, med mulighet for å hente en summering fra ett eller flere lager i Logistikk pluss&lt;/li&gt;
+&lt;li&gt;Kort-beskrivelse&lt;/li&gt;
+&lt;li&gt;Innkjøpspris på produkter&lt;/li&gt;
+&lt;li&gt;Innkjøpspris på produktvarianter&lt;/li&gt;
+&lt;li&gt;Pris på produkter&lt;/li&gt;
+&lt;li&gt;Pris på varianter&lt;/li&gt;
+&lt;li&gt;MVA.&lt;/li&gt;
+&lt;li&gt;EAN13 på produkter&lt;/li&gt;
+&lt;li&gt;EAN13 på produktvarianter&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="hvordan-igangsette-en-synk"&gt;Hvordan igangsette en synk&lt;/h2&gt;</description></item><item><title>Produkt og lager</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/produkt-og-lager/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/produkt-og-lager/</guid><description>&lt;ul class='children children-li'&gt;
+	
+
+ 
+		
+	
+
+	
+
+	
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/produkt-og-lager/fra-nettbutikken/" &gt;Fra nettbutikk til Tripletex&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/tripletex/produkt-og-lager/til-nettbutikken/" &gt;Fra Tripletex til nettbutikk&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+
+	
+&lt;/ul&gt;</description></item><item><title>Produktimport</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/visma.net-erp/produktimport/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/visma.net-erp/produktimport/</guid><description>&lt;h1 id="produktimport"&gt;Produktimport&lt;/h1&gt;
+&lt;p&gt;Produktimport kan gjøres via API.
+Oppretting av nye produkter (som ikke allerede eksisterer i nettbutikken) gjøres med å bruke knappen for produktimport i Visma.net-innstillinger i nettbutikkens kontrollpanel.&lt;/p&gt;
+&lt;p&gt;Nye produkter legger seg inn i den inaktive produktkategorien &amp;ldquo;Visma&amp;rdquo;. Det er viktig at du ikke sletter denne kategorien da den fungerer som &amp;ldquo;mottak&amp;rdquo; for nye produkter.
+Produktene som kommer inn hit har fått med seg følgende info fra Visma:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Navn&lt;/li&gt;
+&lt;li&gt;Produkt-/referanse-/artikkelnummer&lt;/li&gt;
+&lt;li&gt;Pris&lt;/li&gt;
+&lt;li&gt;Attributter/egenskaper slik som:
+&lt;ul&gt;
+&lt;li&gt;Segment&lt;/li&gt;
+&lt;li&gt;Sesong&lt;/li&gt;
+&lt;li&gt;Laget av / materialer&lt;/li&gt;
+&lt;li&gt;Produktklasse&lt;/li&gt;
+&lt;li&gt;Produkttype&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Overnevnte egenskaper/attributter legger seg inn som &amp;ldquo;egenskaper&amp;rdquo; i nettbutikken for at du og kundene kan filtrere på det.&lt;/li&gt;
+&lt;li&gt;Brand/merke legger seg til som &amp;ldquo;Brand/merkevare&amp;rdquo; i nettbutikken for enkel filtrering/kategorisering&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

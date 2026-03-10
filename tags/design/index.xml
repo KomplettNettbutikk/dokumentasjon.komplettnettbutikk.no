@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Design on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/design/</link><description>Recent content in Design on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/design/index.xml" rel="self" type="application/rss+xml"/><item><title>1. Slider</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/1.-slider/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/1.-slider/</guid><description>&lt;p&gt;Dette modulet lar deg endre bildeslideren på siden din. Som standard er denne plassert i toppen av siden din.
+&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/1.-slider/2022-07-11-14-37-15.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/1.-slider/2022-07-11-14-36-10.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Her ser du bildene som ligger inn i dag. Du kan enkelt endre til rekkefølgen du ønsker. Dette gjøres ved å trykke på krysset og dra de opp og ned.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/1.-slider/2022-07-12-07-18-58.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Du kan aktivere eller deaktivere ved å trykk på grønn &amp;ldquo;V&amp;rdquo;. Da blir denne en rød &amp;ldquo;X&amp;rdquo; som betyr at bilde ikke er synlig for dine kunder.
+Helt til høyre kan du trykke på rediger for å endre bilde og tekst på slideren. Ved pilen til høyre for rediger finner du en slettknapp og dupliser.&lt;/p&gt;</description></item><item><title>2. Utvalgte kategorier</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/2.-utvalgte-kategorier/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/2.-utvalgte-kategorier/</guid><description>&lt;p&gt;Uvalgte kategorier lar deg vise dine kategorier på forsiden. Modulet viser fram bilde og navnet fra kategorien. Når kunden klikker på bilde går han direkte til kategorien. Veldig fin måte å vise fram dine beste kategorier på framsiden av nettbutikken.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/2.-utvalgte-kategorier/2022-07-12-07-53-25.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/2.-utvalgte-kategorier/2022-07-12-07-51-08.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Du kan legge til så mange slidere du ønsker. Kundene kan ble med pilene på forsiden mellom alle.
+For å legge ut en ny kategori trykk du på &amp;ldquo;pluss&amp;rdquo; tegnet øverst i høyre hjørne.
+Ønsker du å endre posisjon på kategoriene trykker du på krysset med piler og drar kategorien opp eller ned etter ønske.
+På status er det en grønn &amp;ldquo;V&amp;rdquo;. Trykker du på denne blir det en rød &amp;ldquo;X&amp;rdquo; som betyr at den ikke lengre er synlig for dine kunder.
+Helt til høyre på linjen er det en rediger knapp. Ved siden av denne er det en pil ned som fører deg til &amp;ldquo;slett&amp;rdquo; knappen.&lt;/p&gt;</description></item><item><title>3. Produktkarusell</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/3.-produktkarusell/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/3.-produktkarusell/</guid><description>&lt;p&gt;Dette modulet lar deg lage produktkaruseller til forsiden din. Du kan profilere utvalgte produkter, best selger, produkter fra en kategori osv.
+Prøv å profilere produktene på framsiden som du tror generer mest salg!&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/3.-produktkarusell/2022-07-12-08-05-39.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/3.-produktkarusell/2022-07-12-08-02-48.png" alt=""&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Kategori&lt;/strong&gt; viser hvilken kategori karusellen tar produkter fra&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Merker&lt;/strong&gt; Du kan velge merke å vise produkter fra&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vis på&lt;/strong&gt; Her bestemmer du hvor produkt karusellen skal vises&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Posisjon&lt;/strong&gt; Kan være avgjørende vis du har flere karuseller. I tilfelle bestemmer tallet hvem som kommer først. Minste tall blir prioritert først.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Status&lt;/strong&gt; Forteller om den er aktiv eller ikke. Trykk på for å endre. Grønn &amp;ldquo;V&amp;rdquo; betyr aktiv og synlig for dine kunder.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rediger/slett&lt;/strong&gt; helt til høyre på linjen har du knapp for å redigere. Trykker du på pilen helt til høyre kommer slett knappen opp.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="legg-til-en-ny-produktkarusell"&gt;Legg til en ny produktkarusell&lt;/h2&gt;
+&lt;p&gt;For å legg til en ny karusell trykk du på &amp;ldquo;+&amp;rdquo; tegn øverst i høyre hjørne.&lt;/p&gt;</description></item><item><title>4. Banner slider</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/4.-banner-slider/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/4.-banner-slider/</guid><description>&lt;p&gt;Denne bruker samme modulet som 1.Slider, men her er det valgt å vise 2 bilder i bredden.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/4.-banner-slider/2022-07-13-10-26-47.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Dette modulet lar deg endre bilde slideren på siden din. Som standard er denne plassert i midten av siden din.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/4.-banner-slider/2022-07-13-10-30-33.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Her ser du bildene som ligger inn i dag. Du kan enkelt endre til rekkefølgen du ønsker. Dette gjøres ved å trykke på krysset og dra de opp og ned.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/4.-banner-slider/2022-07-12-07-18-58.png" alt=""&gt;&lt;/p&gt;</description></item><item><title>5. Instagram feed</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/5.-instagram-feed/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/5.-instagram-feed/</guid><description>&lt;p&gt;Første du må gjøre er å knytte din Instagram konto til nettbutikken.
+Start med å åpne et nytt leser vindu på Instagram.com og logge inn på kontoen du vil dele. Etter at du har gjort dette går du tilbake til kontrollpanelet og går til Design - Instagram. Trykk slik som vist på bilde under for å koble opp.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/5.-instagram-feed/2025-12-08-11-03-56.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Trykk deretter &amp;ldquo;tillat&amp;rdquo; på at du ønsker å dele Instagram kontoen din med nettsiden.&lt;/p&gt;</description></item><item><title>6. Banner med tekst</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/6.-banner-med-tekst/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/6.-banner-med-tekst/</guid><description>&lt;p&gt;Dette er en banner som vises i bunn av siden. slik som vist på bilde under.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/6.-banner-med-tekst/2022-07-13-11-35-18.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Her kan du endre tekst og bilde etter ønske.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/6.-banner-med-tekst/2022-07-13-11-40-00.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/6.-banner-med-tekst/2022-07-13-11-40-10.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Alt du trenger å endre er &lt;strong&gt;innhold&lt;/strong&gt; dette finner du ved å scrolle til ca. midt på siden. Her legger du inn teksten du ønsker skal vises på bilde.
+For å endre bilde scroller du ned til &lt;strong&gt;bakgrunnsbilde&lt;/strong&gt; nesten i bunn av siden. Her trykker du på &amp;ldquo;legg til fil&amp;rdquo; og velger aktuelt bilde fra datamaskinen din. Husk at bilde bør være minst 2000px bredt hvis det skal ta hele bredden av siden. Høyden kan variere etter ønske, men vi anbefaler 1000px eller større.&lt;/p&gt;</description></item><item><title>7. Facebook</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/7.-facebook/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/7.-facebook/</guid><description>&lt;p&gt;Her kan du legge til feed fra din egen facebook side. Du gjør dette enkelt ved å kopiere linken til facebooksiden din og limer den inn på &amp;ldquo;Facebook-side Page url.
+husk at du ikke må ta med &amp;ldquo;/&amp;rdquo; bakerst i url. Når du har gjort dette trykker du &amp;ldquo;lagre&amp;rdquo; og facebook feeden din er synlig i nettbutikken.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/7.-facebook/2022-07-13-11-42-09.png" alt=""&gt;&lt;/p&gt;</description></item><item><title>Design</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/</guid><description>&lt;p&gt;Under design menyen finner du alt du trenger for å endre utseende på din nettbutikk. Det kan være alt fra å endre firmalogo, bilder, fonter og farger.
+Hvis du ønsker hjelp med designet tar du bare kontakt med oss. Alle nye kunder kan få tilpasset design til 1999 kr. Da justerer vi designet etter dine ønsker slik at du for det akkurat slik du ønsker.&lt;/p&gt;
+
+
+
+
+
+
+
+
+&lt;ul class='children children-li'&gt;
+	
+
+ 
+		
+			
+		
+	
+
+	
+
+	
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/1.-slider/" &gt;1. Slider&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/2.-utvalgte-kategorier/" &gt;2. Utvalgte kategorier&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/3.-produktkarusell/" &gt;3. Produktkarusell&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/4.-banner-slider/" &gt;4. Banner slider&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/5.-instagram-feed/" &gt;5. Instagram feed&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/6.-banner-med-tekst/" &gt;6. Banner med tekst&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/7.-facebook/" &gt;7. Facebook&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/8.-tekst-popup/" &gt;8. Tekst popup&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/9.-temainnstilinger/" &gt;9. Temainnstillinger&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/tema-og-logo/" &gt;Tema og logo&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/tekstsider/" &gt;Tekstsider&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/oppdater-kontaktinfo/" &gt;Oppdater kontaktinfo&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/epost-designvalg/" &gt;Epost-designvalg&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+
+	
+&lt;/ul&gt;</description></item><item><title>8. Tekst popup</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/8.-tekst-popup/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/8.-tekst-popup/</guid><description>&lt;p&gt;Her kan du lage pop-ups i nettbutikken din. Som standard er det lagt til pop up for personvern og cookies. Hvis du ønsker å endre plassering eller utsende på denne kan du trykke på rediger knappen.&lt;/p&gt;
+&lt;p&gt;Ønsker du å legge ut en ny pop-up trykker du på &amp;ldquo;+&amp;rdquo; tegnet øverst i høyre hjørne.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/8.-tekst-popup/2022-07-13-11-48-06.png" alt=""&gt;&lt;/p&gt;</description></item><item><title>9. Temainnstillinger</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/9.-temainnstilinger/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/9.-temainnstilinger/</guid><description>&lt;p&gt;Her kan du justere på alle farge, størrelser, logo, fonter etc. Hvis du gjør endringer her så anbefaler vi deg å gjøre en endring om gangen. Når du har gjort denne endringen sjekk framsiden av nettbutikken. Hvis endringen ikke ga effekten du ønsker skrur du tilbake til opprinnelig valg.&lt;/p&gt;
+
+&lt;div class="notices note" &gt;De fleste kunder sender oss en mail om slik endringer. Er det bare en justering i temainnstillinger gjør vi dette uten kostnad.&lt;/div&gt;
+
+&lt;h1 id="her-kommer-en-oversikt-over-de-mest-brukte-funksjonene"&gt;Her kommer en oversikt over de mest brukte funksjonene&lt;/h1&gt;
+&lt;h2 id="justere-logo-størrelse-og-plassering"&gt;Justere logo størrelse og plassering&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/9.-temainnstilinger/2022-10-25-09-25-26.png" alt=""&gt;&lt;/p&gt;</description></item><item><title>Tema og logo</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/tema-og-logo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/tema-og-logo/</guid><description>&lt;p&gt;Å endre butikkens logo er ofte et av de første trinnene som utføres når du tilpasser utformingen av butikken din. Du kan laste opp forskjellige logo til nettbutikken og f.eks ordrebekreftelse. Kan være aktuelt hvis f.eks. nettbutikken har mørkbakgrunn og hvit logo.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Topp logo&lt;/strong&gt;.Logoen som vises på alle sidene i butikken din.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;epostlogo og ordrebekreftelse logo&lt;/strong&gt;.Logoene som henholdsvis vil vises i butikkens e-poster og ordrebekreftelser/pakksedler.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Favicon&lt;/strong&gt; Det er det lille bildet som vises til venstre for nettleserens adressefelt i nettleser fanen. Dette er en spesial bilde som endrer på &amp;ldquo;.ico&amp;rdquo;. Hvis du ikke har dette kan vi lage deg ut fra din logo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Trykk &amp;ldquo;bla gjennom&amp;rdquo; for å laste opp ny logo fra din datamaskin.&lt;/p&gt;</description></item><item><title>Tekstsider</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/tekstsider/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/tekstsider/</guid><description>&lt;p&gt;Her kan du legge til så mange tekstsider du ønsker. Som standard ligger om oss, personvern og kjøpsvilkår allerede i butikken.
+Nettbutikken lar deg lage innholdssider så enkelt som du vil lage produktsider.&lt;/p&gt;
+&lt;p&gt;Du kan legge til tekstsider i toppmenyen ved å bruke &amp;ldquo;megameny&amp;rdquo; modulet eller du kan legge den hvor du ønsker med &amp;ldquo;Egendefinerte linker&amp;rdquo; modulet. I tillegg kan du selvsagt lage en link til tekstsiden fra alle andre sider slik som produkt tekst, kategori tekst etc. Linken til siden kan du enkelt finne ved å trykke på &amp;ldquo;Lagre og forhåndsvis&amp;rdquo;. Hvis den ikke vises må du skriv av blokkeringen i nettleseren din. Dette vises som regel helt til høyre på adresselinjen i nettleseren.&lt;/p&gt;</description></item><item><title>Oppdater kontaktinfo</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/oppdater-kontaktinfo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/oppdater-kontaktinfo/</guid><description>&lt;p&gt;Her endrer du kontaktinfo til butikken.&lt;/p&gt;
+&lt;p&gt;Bruk følgende koder (med klammer) i tekstsider for å legge til dynamisk innhold fra dette skjemaet. Hvis du gjør dette vil de oppdatere seg automatisk når du gjør endringer her.&lt;/p&gt;
+&lt;p&gt;{PS_SHOP_NAME}, {PS_SHOP_EMAIL}, {PS_SHOP_ADDR1}, {PS_SHOP_ADDR2}, {PS_SHOP_CODE}, {PS_SHOP_CITY}, {PS_SHOP_PHONE}, {PS_SHOP_FAX}, {PS_SHOP_ORGNR}&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/oppdater-kontaktinfo/2022-07-13-14-41-42.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Når du har fulgt ut adressen har du noe flere valg som vi skal forklare her:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Vis kontaktinfo i footer&lt;/strong&gt; Som standard er dette valg. hvis du ønsker å ta bort kontakt info i bunn av siden du velger du bort dette.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ekstra tekst over og under footer&lt;/strong&gt; Dette feltet lar deg legge inn egen tekst over eller under kontakt infoen slik som vist på bilde under.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/oppdater-kontaktinfo/2022-07-13-14-46-49.png" alt=""&gt;&lt;/p&gt;</description></item><item><title>Epost-designvalg</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/epost-designvalg/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/epost-designvalg/</guid><description>&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/epost-designvalg/2022-07-13-14-58-51.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Her kan du velge om du vil vise KomplettNettbutikk i bunnen av mailene som går ut fra din nettbutikken.&lt;/p&gt;</description></item></channel></rss>
