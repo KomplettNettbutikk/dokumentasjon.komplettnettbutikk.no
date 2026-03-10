@@ -226,12 +226,14 @@ Ta kontakt med support for å få aktivert modulet. Prisen er 999 kr.&lt;/p&gt;
  &lt;form 
  name="kontakt" 
  method="POST" 
- data-netlify="true"
- netlify-honeypot="rowboat" 
- action="https://dokumentasjon.komplettnettbutikk.no/"&gt;
- &lt;input type="hidden" name="to" value="andreas"&gt;
+ action="https://formsubmit.co/308640b1dccfe5cd18a4cb37179ee51b"&gt;
+ &lt;input type="hidden" name="_subject" value="Kontakt fra dokumentasjon - andreas"&gt;
+ &lt;input type="hidden" name="_replyto" value="email"&gt;
+ &lt;input type="hidden" name="_next" value="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/vipps/bestill-vipps-checkout/"&gt;
+ &lt;input type="hidden" name="_template" value="basic"&gt;
+ &lt;input type="hidden" name="_captcha" value="false"&gt;
  &lt;p class="ohnohoney"&gt;
- &lt;label&gt;Roboter bes fylle ut dette: &lt;input name="rowboat" /&gt;&lt;/label&gt;
+ &lt;label&gt;Roboter bes fylle ut dette: &lt;input name="_honey" /&gt;&lt;/label&gt;
  &lt;/p&gt;
  &lt;p&gt;
  &lt;label&gt;Navn/firma: &lt;input type="text" name="name" /&gt;&lt;/label&gt;
