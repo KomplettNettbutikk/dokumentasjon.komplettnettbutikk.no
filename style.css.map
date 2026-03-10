@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "/home/runner/work/komplettnettbutikk-dokumentasjon/komplettnettbutikk-dokumentasjon",
+	"sourceRoot": "/home/runner/work/dokumentasjon.komplettnettbutikk.no_source/dokumentasjon.komplettnettbutikk.no_source",
 	"sources": [
 		"themes/komplettnettbutikk-dokumentasjon/assets/sass/main.scss",
 		"themes/komplettnettbutikk-dokumentasjon/assets/sass/mixins/_variables.scss",
