@@ -9,5 +9,5 @@
 
 &lt;div class="notices warning" &gt;&lt;strong&gt;Viktig:&lt;/strong&gt; Gi oss beskjed før du peker domenet! Vi må sette opp domenet på våre servere for at det skal fungere. Bruk skjemaet nederst på denne siden for å informere oss om hvilket domene du skal benytte.&lt;/div&gt;
 
-&lt;h3 id="peker-1-www-subdomene-anbefalt"&gt;Peker 1: www-subdomene (anbefalt)&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;www.dittdomene.no&lt;/code&gt; settes opp som CNAME mot &lt;code&gt;presta.no&lt;/code&gt;.&lt;/p&gt;</description></item></channel></rss>
+&lt;h3 id="peker-1-www-subdomene-eller-annet-subdomene"&gt;Peker 1: www-subdomene eller annet subdomene&lt;/h3&gt;
+&lt;p&gt;Nettbutikken din kan enten:&lt;/p&gt;</description></item></channel></rss>
