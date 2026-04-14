@@ -6,36 +6,8 @@
 &lt;li&gt;Opprett pekerne som spesifisert nedenfor.&lt;/li&gt;
 &lt;li&gt;Send inn skjema nedenfor for at vi skal fullføre domeneoppsett på våre servere.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id="peker-1"&gt;Peker 1&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Vertsnavn:&lt;/strong&gt; Skal være blank om du skal ha din nettbutikk på roten av domenet, f.eks. &lt;code&gt;mittdomene.no&lt;/code&gt;. Dersom du skal f.eks. ha &lt;code&gt;nettbutikk.mittdomene.no&lt;/code&gt; så skriver du &lt;code&gt;nettbutikk&lt;/code&gt; her. Noen leverandører krever at du skriver &lt;code&gt;@&lt;/code&gt; eller &lt;code&gt;.&lt;/code&gt; istedenfor blankt.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;RR-type/pekertype:&lt;/strong&gt; &lt;code&gt;A&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Data:&lt;/strong&gt; &lt;code&gt;65.109.41.129&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="peker-2-for-epost"&gt;Peker 2 (for epost)&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Vertsnavn:&lt;/strong&gt; &lt;code&gt;nettbutikk._domainkey&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;RR-type/pekertype:&lt;/strong&gt; &lt;code&gt;CNAME&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Data:&lt;/strong&gt; &lt;code&gt;nettbutikk._domainkey.komplettnettbutikk.no&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="valgfrie-pekere"&gt;Valgfrie pekere:&lt;/h2&gt;
-&lt;h3 id="peker-3-valgfritt-men-anbefalt---gjør-at-din-nettbutikk-også-fungerer-med-www-foran-domenet"&gt;Peker 3 (valgfritt men anbefalt - gjør at din nettbutikk også fungerer med www foran domenet)&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Vertsnavn:&lt;/strong&gt; &lt;code&gt;www&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;RR-type/pekertype:&lt;/strong&gt; &lt;code&gt;CNAME&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Data:&lt;/strong&gt; ditt domenenavn uten www, f.eks. &lt;code&gt;mittdomene.no&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="peker-4-valgfritt-men-kan-forbedre-epost-fremkommelighet"&gt;Peker 4 (Valgfritt, men kan forbedre epost-fremkommelighet)&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Vertsnavn:&lt;/strong&gt; skal være blank&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;RR-type/pekertype:&lt;/strong&gt; &lt;code&gt;TXT&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Data:&lt;/strong&gt; &lt;code&gt;v=spf1 include:_spf.komplettnettbutikk.no ~all&lt;/code&gt; om du ikke har noen SPF-record fra før. Om du har en SPF-record fra før, så legg til &lt;code&gt;include:_spf.komplettnettbutikk.no&lt;/code&gt; i din eksisterende SPF-record. F.eks. &lt;code&gt;v=spf1 include:_spf.google.com include:_spf.komplettnettbutikk.no ~all&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="peker-5-valgfritt-men-kan-forbedre-epost-fremkommelighet"&gt;Peker 5 (Valgfritt, men kan forbedre epost-fremkommelighet)&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Vertsnavn:&lt;/strong&gt; &lt;code&gt;_dmarc&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;RR-type/pekertype:&lt;/strong&gt; &lt;code&gt;TXT&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Data:&lt;/strong&gt; &lt;code&gt;v=DMARC1; p=none&lt;/code&gt; om du ikke har noen DMARC-record fra før.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="ttl-verdi-for-alle-pekerne"&gt;TTL-verdi for alle pekerne&lt;/h3&gt;
-&lt;p&gt;TTL er en forkortelse for Time To Live og er en verdi som angir hvor lenge en peker skal lagres i mellomtiden hos andre servere. Dette er for å unngå at servere må spørre om pekeren på nytt for hver gang noen skal besøke nettsiden din. Dette er en verdi som settes i sekunder, og det er vanlig å sette denne til 3600 sekunder (1 time) eller 86400 sekunder (1 dag). Vi anbefaler at du setter denne til 300 sekunder (5 minutter) eller så lavt som din domeneleverandør tillater. Dette for å kunne endre pekere raskt om du gjør noe feil. Du kan gjerne justere opp disse etter at alt fungerer som det skal.&lt;/p&gt;</description></item></channel></rss>
+
+&lt;div class="notices warning" &gt;&lt;strong&gt;Viktig:&lt;/strong&gt; Gi oss beskjed før du peker domenet! Vi må sette opp domenet på våre servere for at det skal fungere. Bruk skjemaet nederst på denne siden for å informere oss om hvilket domene du skal benytte.&lt;/div&gt;
+
+&lt;h3 id="peker-1-www-subdomene-anbefalt"&gt;Peker 1: www-subdomene (anbefalt)&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;www.dittdomene.no&lt;/code&gt; settes opp som CNAME mot &lt;code&gt;presta.no&lt;/code&gt;.&lt;/p&gt;</description></item></channel></rss>
