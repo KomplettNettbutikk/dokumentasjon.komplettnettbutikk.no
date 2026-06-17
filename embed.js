@@ -2,6 +2,7 @@
   // <stdin>
   (function() {
     var STORAGE_KEY = "kn_doc_embed";
+    var PANEL_MESSAGE_TYPE = "kn-doc-embed-nav";
     function truthyParam(value) {
       if (value === null) {
         return false;
@@ -56,14 +57,29 @@
         return false;
       }
     }
+    function isTopbarHidden() {
+      try {
+        var topbar = new URLSearchParams(window.location.search).get("topbar");
+        if (topbar === null) {
+          return true;
+        }
+        return !truthyParam(topbar);
+      } catch (e) {
+        return true;
+      }
+    }
+    function setNavVisible(visible) {
+      document.documentElement.classList.toggle("doc-embed-nav-visible", !!visible);
+    }
     function applyEmbedClasses() {
       var root = document.documentElement;
       root.classList.add("doc-embed");
-      if (isSidebarVisible()) {
-        root.classList.add("doc-embed-nav-visible");
+      if (isTopbarHidden()) {
+        root.classList.add("doc-embed-no-topbar");
       } else {
-        root.classList.remove("doc-embed-nav-visible");
+        root.classList.remove("doc-embed-no-topbar");
       }
+      setNavVisible(isSidebarVisible());
     }
     function preserveEmbedOnLinks() {
       document.addEventListener("click", function(event) {
@@ -84,6 +100,11 @@
           } else {
             url.searchParams.delete("sidebar");
           }
+          if (document.documentElement.classList.contains("doc-embed-no-topbar")) {
+            url.searchParams.set("topbar", "0");
+          } else {
+            url.searchParams.delete("topbar");
+          }
           link.href = url.toString();
         } catch (e) {
         }
@@ -97,15 +118,27 @@
         $("[data-sidebar-toggle]").off("click.docEmbed").on("click.docEmbed", function(event) {
           event.preventDefault();
           event.stopImmediatePropagation();
-          document.documentElement.classList.toggle("doc-embed-nav-visible");
+          setNavVisible(!document.documentElement.classList.contains("doc-embed-nav-visible"));
           return false;
         });
         $("#overlay").off("click.docEmbed").on("click.docEmbed", function(event) {
           event.preventDefault();
           event.stopImmediatePropagation();
-          document.documentElement.classList.remove("doc-embed-nav-visible");
+          setNavVisible(false);
           return false;
         });
+      });
+    }
+    function bindPanelMessages() {
+      window.addEventListener("message", function(event) {
+        var data = event.data;
+        if (!data || data.type !== PANEL_MESSAGE_TYPE) {
+          return;
+        }
+        if (!document.documentElement.classList.contains("doc-embed")) {
+          return;
+        }
+        setNavVisible(!!data.visible);
       });
     }
     if (!isEmbedMode()) {
@@ -114,5 +147,6 @@
     applyEmbedClasses();
     preserveEmbedOnLinks();
     bindEmbedSidebarToggle();
+    bindPanelMessages();
   })();
 })();
