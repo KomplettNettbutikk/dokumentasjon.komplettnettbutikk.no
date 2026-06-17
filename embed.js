@@ -3,6 +3,7 @@
   (function() {
     var STORAGE_KEY = "kn_doc_embed";
     var PANEL_MESSAGE_TYPE = "kn-doc-embed-nav";
+    var PANEL_STATE_MESSAGE_TYPE = "kn-doc-embed-nav-state";
     function truthyParam(value) {
       if (value === null) {
         return false;
@@ -68,8 +69,22 @@
         return true;
       }
     }
+    function notifyParentNavState(visible) {
+      if (!isInIframe()) {
+        return;
+      }
+      try {
+        window.parent.postMessage({
+          type: PANEL_STATE_MESSAGE_TYPE,
+          visible: !!visible
+        }, "*");
+      } catch (e) {
+      }
+    }
     function setNavVisible(visible) {
-      document.documentElement.classList.toggle("doc-embed-nav-visible", !!visible);
+      var nextVisible = !!visible;
+      document.documentElement.classList.toggle("doc-embed-nav-visible", nextVisible);
+      notifyParentNavState(nextVisible);
     }
     function applyEmbedClasses() {
       var root = document.documentElement;
@@ -80,6 +95,16 @@
         root.classList.remove("doc-embed-no-topbar");
       }
       setNavVisible(isSidebarVisible());
+    }
+    function isNavigationLink(link) {
+      if (!link) {
+        return false;
+      }
+      var href = link.getAttribute("href");
+      if (!href || href === "#" || href.charAt(0) === "#") {
+        return false;
+      }
+      return true;
     }
     function preserveEmbedOnLinks() {
       document.addEventListener("click", function(event) {
@@ -95,11 +120,7 @@
           if (!truthyParam(url.searchParams.get("embed"))) {
             url.searchParams.set("embed", "1");
           }
-          if (document.documentElement.classList.contains("doc-embed-nav-visible")) {
-            url.searchParams.set("sidebar", "1");
-          } else {
-            url.searchParams.delete("sidebar");
-          }
+          url.searchParams.delete("sidebar");
           if (document.documentElement.classList.contains("doc-embed-no-topbar")) {
             url.searchParams.set("topbar", "0");
           } else {
@@ -108,6 +129,15 @@
           link.href = url.toString();
         } catch (e) {
         }
+      }, true);
+    }
+    function bindNavAutoClose() {
+      document.addEventListener("click", function(event) {
+        var link = event.target.closest("#sidebar a[href]");
+        if (!isNavigationLink(link)) {
+          return;
+        }
+        setNavVisible(false);
       }, true);
     }
     function bindEmbedSidebarToggle() {
@@ -146,6 +176,7 @@
     }
     applyEmbedClasses();
     preserveEmbedOnLinks();
+    bindNavAutoClose();
     bindEmbedSidebarToggle();
     bindPanelMessages();
   })();
