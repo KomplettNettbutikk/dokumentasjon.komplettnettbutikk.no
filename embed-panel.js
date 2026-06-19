@@ -90,8 +90,24 @@
       }
       notifyParentNavState(nextVisible);
     }
+    function isHomePage() {
+      try {
+        var path = window.location.pathname.replace(/\/index\.html$/, "").replace(/\/$/, "");
+        return path === "";
+      } catch (e) {
+        return false;
+      }
+    }
     function applyPanelClasses() {
       document.documentElement.classList.add("doc-panel");
+      if (isHomePage()) {
+        document.documentElement.classList.add("doc-panel-home");
+        var nav = getPanelNav();
+        if (nav) {
+          nav.setAttribute("aria-hidden", "false");
+        }
+        return;
+      }
       setNavVisible(isSidebarVisible());
     }
     function isNavigationLink(link) {
@@ -128,6 +144,12 @@
       document.addEventListener("click", function(event) {
         var link = event.target.closest("#doc-panel-nav a[href]");
         if (!isNavigationLink(link)) {
+          return;
+        }
+        if (document.documentElement.classList.contains("doc-panel-home")) {
+          return;
+        }
+        if (link.closest(".doc-panel-category__link")) {
           return;
         }
         setNavVisible(false);
