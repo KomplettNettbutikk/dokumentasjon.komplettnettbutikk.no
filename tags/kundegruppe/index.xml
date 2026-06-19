@@ -9,4 +9,7 @@
 &lt;li&gt;&lt;strong&gt;Kunde&lt;/strong&gt; Alle personer som opprettet en konto i butikken din og er autentisert.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;B2B&lt;/strong&gt; Ment og brukes for bedriftskunder. Viser priser eks.mva etter innlogging.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;De tre førstegruppene kan ikke slettes.&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;De tre førstegruppene kan ikke slettes.&lt;/p&gt;</description></item><item><title>Kunder</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/kunder/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/kunder/</guid><description>&lt;h2 id="administrere-kundene-dine"&gt;Administrere kundene dine&lt;/h2&gt;
+&lt;p&gt;Du må ta godt vare på kundene dine og det starter med å sørge for at profilen deres inneholder all informasjonen du trenger for å få en pakke sendt til dem.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Kunde&amp;rdquo;-menyen lar deg sjekke kundenes detaljer og adresser.&lt;/p&gt;</description></item><item><title>Betaling</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/betaling/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/betaling/</guid><description>&lt;p&gt;Det er her du bestemmer hvilke betalingsmoduler som er tilgjengelige i ulike situasjoner basert på f.eks. dine kunders valuta, gruppe og land.
+En hake indikerer at du vil ha betalingsmodulen tilgjengelig. Om den ikke er haket av betyr det at betalingsmodulen er deaktivert.&lt;/p&gt;</description></item></channel></rss>

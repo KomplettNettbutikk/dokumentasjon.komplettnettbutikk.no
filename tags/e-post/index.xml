@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>E-Post on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/e-post/</link><description>Recent content in E-Post on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/e-post/index.xml" rel="self" type="application/rss+xml"/><item><title>Angreskjema</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/angreskjema/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/angreskjema/</guid><description>&lt;p&gt;Nettbutikken er som standard satt opp at det skal sendes angreskjema / infoskriv på mail til kunden når du setter en ordre til status &amp;ldquo;sendt&amp;rdquo;.
 Angreskjema som blir brukt i nettbutikken er laget etter skjema fra regjeringen.no.&lt;/p&gt;
-&lt;p&gt;I toppen av modulet vil du finne link til både angreskjema og infoskriv. Dette kan være kjekt å vite hvis du for eksempel må sende det til en kunde som har mistet det eller liggnende.&lt;/p&gt;</description></item><item><title>Generelt</title><link>https://dokumentasjon.komplettnettbutikk.no/generelt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/generelt/</guid><description>&lt;ul class='children children-li'&gt;
+&lt;p&gt;I toppen av modulet vil du finne link til både angreskjema og infoskriv. Dette kan være kjekt å vite hvis du for eksempel må sende det til en kunde som har mistet det eller liggnende.&lt;/p&gt;</description></item><item><title>Ordremeldinger</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/kundeservice/ordremeldinger/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/kundeservice/ordremeldinger/</guid><description>&lt;p&gt;Når du må sende en melding til kundene dine fra ordresiden kan du velge å lagre denne meldingen for å sende den ut igjen til andre kunder med lignende spørsmål.&lt;/p&gt;
+&lt;p&gt;For å gjøre dette gå til siden &amp;ldquo;ordremeldinger&amp;rdquo; under &amp;ldquo;Kundeservice&amp;rdquo;-menyen.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/kundeservice/ordremeldinger/2022-07-11-14-05-09.png" alt=""&gt;&lt;/p&gt;
+&lt;h2 id="opprette-en-ny-melding"&gt;Opprette en ny melding &lt;a id="OrderMessages-CreatinganewMessage"&gt; &lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;For å legge til en annen forhåndsdefinert melding, klikker du på knappen &amp;ldquo;Legg til ny ordre&amp;rdquo;. Du kan også redigere standardmeldingen.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/kundeservice/ordremeldinger/2022-07-11-14-07-14.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Fyll ut følgende:&lt;/p&gt;</description></item><item><title>Generelt</title><link>https://dokumentasjon.komplettnettbutikk.no/generelt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/generelt/</guid><description>&lt;ul class='children children-li'&gt;
 	
 
  
@@ -75,7 +81,9 @@ Angreskjema som blir brukt i nettbutikken er laget etter skjema fra regjeringen.
 	
 
 	
-&lt;/ul&gt;</description></item><item><title>Kontakt oss</title><link>https://dokumentasjon.komplettnettbutikk.no/kontakt-oss/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/kontakt-oss/</guid><description>&lt;p&gt;Ta gjerne kontakt med oss om du har spørsmål du ikke finner svar på i dokumentasjonen, eller om du ønsker tilbud på en nettbutikk. Du kan kontakte oss på telefon, eller bruke skjemaet under.&lt;/p&gt;
+&lt;/ul&gt;</description></item><item><title>Ordrebekreftelse</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/ordre/ordrebekreftelse/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/ordre/ordrebekreftelse/</guid><description>&lt;p&gt;Hver gang en bestilling fra butikken din blir gjennomført, sendes en ordrebekreftelse ut til kunden. Denne siden lar deg konfigurere ordrebekreftelsenedine og gjør det mulig å laste ned et utvalg av Ordrebekreftelse.&lt;/p&gt;
+&lt;h2 id="generer-ordrebekreftelse-i-pdf-filer"&gt;Generer ordrebekreftelse i PDF-filer&lt;/h2&gt;
+&lt;p&gt;Du kan laste ned ordrebekreftelsene for en enkelt ordre fra ordrenes side. Siden &amp;ldquo;Ordrebekreftelse&amp;rdquo; lar deg laste ned et utvalg av Ordrebekreftelse fra tidligere ordrer i PDF -format, alt på samme tid (i samme PDF -fil).&lt;/p&gt;</description></item><item><title>Kontakt oss</title><link>https://dokumentasjon.komplettnettbutikk.no/kontakt-oss/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/kontakt-oss/</guid><description>&lt;p&gt;Ta gjerne kontakt med oss om du har spørsmål du ikke finner svar på i dokumentasjonen, eller om du ønsker tilbud på en nettbutikk. Du kan kontakte oss på telefon, eller bruke skjemaet under.&lt;/p&gt;
 &lt;p&gt;
  &lt;a href="tel:+47 900 333 15" class="btn btn-default"&gt;Ring oss: &lt;i class="fa fa-phone"&gt;&lt;/i&gt; 900 333 15&lt;/a&gt;
 &lt;/p&gt;
@@ -110,7 +118,85 @@ Angreskjema som blir brukt i nettbutikken er laget etter skjema fra regjeringen.
  &lt;/p&gt;
  &lt;/form&gt;
  &lt;/div&gt; 
-&lt;/div&gt;</description></item><item><title>Gavekort modul</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/gavekort-modul/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/gavekort-modul/</guid><description>&lt;p&gt;Dette er et betalt modul. Send oss mail hvis du ønsker å bestille.&lt;/p&gt;
+&lt;/div&gt;</description></item><item><title>Avanserte parametere</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/avanserte-parametere/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/avanserte-parametere/</guid><description>&lt;p&gt;&lt;strong&gt;Undersider:&lt;/strong&gt;
+
+
+
+
+
+
+
+
+&lt;ul class='children children-li'&gt;
+	
+
+ 
+		
+			
+		
+	
+
+	
+
+	
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/avanserte-parametere/epost/" &gt;Epost&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+		
+			
+				
+					&lt;li&gt;
+					&lt;a href="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/avanserte-parametere/ansatte/" &gt;Ansatte/brukere&lt;/a&gt;
+					
+					&lt;/li&gt;
+				
+
+
+			
+			
+		
+	
+
+	
+&lt;/ul&gt;
+
+
+
+&lt;/p&gt;</description></item><item><title>Epost</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/avanserte-parametere/epost/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/avanserte-parametere/epost/</guid><description>&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/avanserte-parametere/epost/2022-07-15-11-46-03.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Den første delen av siden presenterer deg en liste over alle e-postene som har blitt sendt fra nettbutiken, med mottakeren, malen som ble brukt, språket i meldingen, emnet for e-posten og tiden for sending.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/avanserte-parametere/epost/2022-07-15-11-46-47.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Det er her du bestemmer hvordan e -postene dine blir sendt og mottatt.
+Skjemaet har tre sett med alternativer:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Send e-post til:&lt;/strong&gt; Dette er en front-end innstilling. På slutten av kassen kan en kunde legge igjen en melding til bedriften. Du kan velge hvem denne meldingen skal sendes ved å velge fra rullegardinlisten.For å legge til flere adresser, bør du gå til butikkinnstillinger &amp;gt; Kontakter.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;E -postparametere:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Hvordan e -post blir teknisk sendt. Velg blant de tre.&lt;/li&gt;
+&lt;li&gt;E -postformat: Hvordan e -post sendes visuelt.Velg blant de tre.Se nedenfor for mer informasjon.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Logg e -post&lt;/strong&gt; Deaktiver om du ikke lenger vil følge med på e -postene som er sendt av butikken din, som vist i e-postdelen ovenfor.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class="notices note" &gt;Vi anbefaler deg på det sterkeste at du konsulterer oss for å bestemme hvilke innstillinger du vil bruke for denne funksjonen.&lt;/div&gt;
+
+&lt;h3 id="test-din-e-postkonfigurasjon"&gt;Test din e-postkonfigurasjon&lt;/h3&gt;
+&lt;p&gt;Test at e-post utsendelsen fungerer med din egen e-postadresse i denne delen og klikk deretter på &amp;ldquo;Send en test-e-post&amp;rdquo;-knappen.
+Kontroller nå innboksen til adressen som er oppgitt for å bekrefte at du faktisk har mottatt test e-posten i riktig format. Hvis du ikke har mottatt denne ta kontakt med support.&lt;/p&gt;</description></item><item><title>Epost-designvalg</title><link>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/epost-designvalg/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/epost-designvalg/</guid><description>&lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/administrer-nettbutikken/design/epost-designvalg/2022-07-13-14-58-51.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;Her kan du velge om du vil vise KomplettNettbutikk i bunnen av mailene som går ut fra din nettbutikken.&lt;/p&gt;</description></item><item><title>Gavekort modul</title><link>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/gavekort-modul/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/gavekort-modul/</guid><description>&lt;p&gt;Dette er et betalt modul. Send oss mail hvis du ønsker å bestille.&lt;/p&gt;
 &lt;h2 id="innstillinger"&gt;Innstillinger&lt;/h2&gt;
 &lt;p&gt;&lt;img src="https://dokumentasjon.komplettnettbutikk.no/moduler-og-integrasjoner/gavekort-modul/2022-12-14-13-24-25.png" alt=""&gt;&lt;/p&gt;
 &lt;p&gt;Du Finner to innstilinger for gavekort modulet.&lt;/p&gt;
