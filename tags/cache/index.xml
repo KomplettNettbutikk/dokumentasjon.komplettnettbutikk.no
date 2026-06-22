@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cache on KomplettNettbutikk dokumentasjon</title><link>https://dokumentasjon.komplettnettbutikk.no/tags/cache/</link><description>Recent content in Cache on KomplettNettbutikk dokumentasjon</description><generator>Hugo</generator><language>nb-no</language><atom:link href="https://dokumentasjon.komplettnettbutikk.no/tags/cache/index.xml" rel="self" type="application/rss+xml"/><item><title>Slette cache</title><link>https://dokumentasjon.komplettnettbutikk.no/generelt/slette-cache/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/generelt/slette-cache/</guid><description>&lt;p&gt;Nettbutikken lagrer midlertidige filer (cache) for å gjøre siden raskere. Noen ganger kan disse filene bli utdaterte, og da kan ting se feil ut eller ikke fungere som forventet.&lt;/p&gt;
+&lt;h2 id="når-bør-du-slette-cache"&gt;Når bør du slette cache?&lt;/h2&gt;
+&lt;p&gt;Prøv å slette cache hvis du opplever:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;feilmeldinger, for eksempel &lt;strong&gt;500-feil&lt;/strong&gt; eller andre feil i nettbutikken&lt;/li&gt;
+&lt;li&gt;feil eller utdatert innhold i nettbutikken&lt;/li&gt;
+&lt;li&gt;at nye funksjoner eller endringer ikke vises etter oppdatering&lt;/li&gt;
+&lt;li&gt;at noe i kontrollpanelet ikke fungerer som det skal&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Start med å slette &lt;strong&gt;server-cache&lt;/strong&gt; i kontrollpanelet. Hvis problemet gjelder det du ser i nettleseren, kan du også trenge å slette &lt;strong&gt;nettlesercache&lt;/strong&gt;.&lt;/p&gt;</description></item></channel></rss>
