@@ -293,7 +293,21 @@
  &lt;/tr&gt;
  &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;Vi klarer stort sett å levere det kunden ønsker uten ekstra kostnader i Premium-pakken. Dette er bare et lite utvalg av funksjonaliteten som følger med. Ta kontakt hvis du lurer på om vi klarer å levere akkurat det du ønsker, eller om pakken dekker behovet du har. Hvis du ønsker mer enn Premium-pakken, ta kontakt for pris.&lt;/p&gt;</description></item><item><title>Slette nettlesercache</title><link>https://dokumentasjon.komplettnettbutikk.no/generelt/nettleser-cache/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/generelt/nettleser-cache/</guid><description>&lt;p&gt;Alle nettlesere mellomlagrer informasjon for å gjøre internett raskere.
+&lt;p&gt;Vi klarer stort sett å levere det kunden ønsker uten ekstra kostnader i Premium-pakken. Dette er bare et lite utvalg av funksjonaliteten som følger med. Ta kontakt hvis du lurer på om vi klarer å levere akkurat det du ønsker, eller om pakken dekker behovet du har. Hvis du ønsker mer enn Premium-pakken, ta kontakt for pris.&lt;/p&gt;</description></item><item><title>Slette cache</title><link>https://dokumentasjon.komplettnettbutikk.no/generelt/slette-cache/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/generelt/slette-cache/</guid><description>&lt;p&gt;Nettbutikken lagrer midlertidige filer (cache) for å gjøre siden raskere. Noen ganger kan disse filene bli utdaterte, og da kan ting se feil ut eller ikke fungere som forventet.&lt;/p&gt;
+&lt;h2 id="når-bør-du-slette-cache"&gt;Når bør du slette cache?&lt;/h2&gt;
+&lt;p&gt;Prøv å slette cache hvis du opplever:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;feil eller utdatert innhold i nettbutikken&lt;/li&gt;
+&lt;li&gt;at nye funksjoner eller endringer ikke vises etter oppdatering&lt;/li&gt;
+&lt;li&gt;at noe i kontrollpanelet ikke fungerer som det skal&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="slik-gjør-du-det"&gt;Slik gjør du det&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Logg inn i kontrollpanelet.&lt;/li&gt;
+&lt;li&gt;Finn knappen &lt;strong&gt;Slett cache&lt;/strong&gt; (oppdateringsikon) i toppmenyen.&lt;/li&gt;
+&lt;li&gt;Klikk på knappen og vent til du får bekreftelsen &lt;strong&gt;Cache slettet!&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Knappen vises ved siden av søkefeltet øverst i kontrollpanelet, og er tilgjengelig fra alle sider i admin.&lt;/p&gt;</description></item><item><title>Slette nettlesercache</title><link>https://dokumentasjon.komplettnettbutikk.no/generelt/nettleser-cache/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dokumentasjon.komplettnettbutikk.no/generelt/nettleser-cache/</guid><description>&lt;p&gt;Alle nettlesere mellomlagrer informasjon for å gjøre internett raskere.
 Mellomlagringen gjør at man ikke trenger å laste ned samme fil gang etter gang,
 men rett og slett lagre en kopi lokalt på datamaskinen.&lt;/p&gt;
 &lt;p&gt;Slike filer kan være bilder og design, men som regel ikke tekster, priser osv.&lt;/p&gt;
